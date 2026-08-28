@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#000000">
+<title>AI för nybörjare — Ljudbok</title>
+<meta name="description" content="Lyssna på och läs 'AI för nybörjare' samtidigt. Ordsynkroniserad ljudbok med Spotify-inspirerad uppspelning.">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon-192.png">
+<style>
+  :root{
+    --bg:#0a0a0c; --surface:#121216; --surface2:#1c1c22; --line:#2a2a32;
+    --txt:#f2f2f5; --muted:#9a9aa5; --accent:#1db954; /* Spotify-green */
+    --accent2:#37d67c; --danger:#e5a00a;
+    --radius:14px;
+  }
+  *{box-sizing:border-box; -webkit-tap-highlight-color:transparent;}
+  html,body{margin:0;padding:0;background:var(--bg);color:var(--txt);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;height:100%;}
+  body{display:flex;flex-direction:column;height:100vh;overflow:hidden;}
+  /* Header */
+  header{background:linear-gradient(180deg,#6b5b2e00,#000);padding:12px 16px;border-bottom:1px solid var(--line);}
+  .brand{display:flex;align-items:center;gap:10px;}
+  .brand .dot{width:26px;height:26px;border-radius:8px;background:var(--accent);display:grid;place-items:center;font-weight:800;font-size:14px;color:#000;}
+  .brand h1{font-size:15px;margin:0;font-weight:700;letter-spacing:.2px;}
+  .brand small{display:block;color:var(--muted);font-size:10px;font-weight:600;text-transform:uppercase;letter-spacing:1px;}
+  .search-toggle{margin-left:auto;background:none;border:1px solid var(--line);color:var(--txt);border-radius:20px;padding:7px 12px;font-size:12px;cursor:pointer;display:flex;align-items:center;gap:6px;}
+  .search-toggle .i{font-size:14px;}
+  /* Search panel */
+  .search-bar{display:none;gap:8px;margin-top:10px;}
+  .search-bar.show{display:flex;}
+  .search-bar input{flex:1;background:var(--surface);border:1px solid var(--line);border-radius:10px;color:var(--txt);padding:10px 12px;font-size:15px;}
+  .search-bar button{background:var(--accent);border:none;color:#000;border-radius:10px;padding:10px 16px;font-weight:700;font-size:13px;cursor:pointer;}
+  /* Reader */
+  .reader{flex:1;overflow-y:auto;padding:18px 18px 120px;scroll-behavior:smooth;}
+  .page-top{display:flex;align-items:center;justify-content:space-between;margin-bottom:14px;}
+  .page-label{color:var(--muted);font-size:12px;font-weight:600;letter-spacing:.5px;text-transform:uppercase;}
+  .font-ctrl{display:flex;align-items:center;gap:4px;}
+  .font-ctrl button{background:var(--surface);border:1px solid var(--line);color:var(--txt);width:34px;height:34px;border-radius:8px;font-size:16px;font-weight:700;cursor:pointer;}
+  .font-ctrl .val{min-width:44px;text-align:center;font-size:11px;color:var(--muted);}
+  .content{font-size:17px;line-height:1.75;letter-spacing:.1px;max-width:760px;margin:0 auto;}
+  .content p{margin:0 0 1.1em;}
+  .content .word{cursor:pointer;border-radius:4px;padding:0 1px;transition:background .1s;}
+  .content .word.active{background:var(--accent);color:#000;border-radius:4px;}
+  .content .word.spoken{color:#cfcfd6;}
+  .divider-screen{display:none;place-items:center;min-height:60vh;text-align:center;}
+  .divider-screen.show{display:grid;}
+  .divider-screen .big{font-size:30px;font-weight:900;letter-spacing:-.5px;}
+  .divider-screen .sub{color:var(--muted);margin-top:10px;font-size:15px;}
+  /* Nav overlay (jump) */
+  .jump{display:none;position:absolute;inset:0;z-index:50;background:rgba(0,0,0,.65);}
+  .jump.show{display:block;}
+  .jump-panel{background:var(--surface);height:100%;max-width:480px;margin-left:auto;overflow-y:auto;padding:20px;border-left:1px solid var(--line);}
+  .jump-panel h3{font-size:15px;margin:0 0 14px;font-weight:700;}
+  .jump-panel .ch{display:block;width:100%;text-align:left;background:none;border:1px solid var(--line);color:var(--txt);border-radius:10px;padding:12px 14px;margin-bottom:8px;font-size:14px;cursor:pointer;}
+  .jump-panel .ch.active{border-color:var(--accent);background:var(--surface2);}
+  .jump-panel .ch .no{color:var(--muted);font-size:11px;margin-left:6px;}
+  .jump-panel .close{position:sticky;top:0;background:var(--surface);border:none;color:var(--txt);float:right;font-size:22px;cursor:pointer;line-height:1;}
+  /* Player bar */
+  .player{background:var(--surface);border-top:1px solid var(--line);padding:12px 16px calc(12px + env(safe-area-inset-bottom));}
+  .progress{height:4px;background:var(--surface2);border-radius:4px;cursor:pointer;position:relative;margin-bottom:10px;}
+  .progress .bar{height:100%;background:var(--accent);border-radius:4px;width:0%;}
+  .progress .bubble{position:absolute;top:50%;transform:translate(-50%,-50%);width:12px;height:12px;background:#fff;border-radius:50%;left:0%;}
+  .controls{display:flex;align-items:center;justify-content:space-between;gap:8px;}
+  .ctrl-group{display:flex;align-items:center;gap:8px;}
+  .cbtn{background:none;border:none;color:var(--txt);font-size:20px;cursor:pointer;padding:6px;width:44px;height:44px;display:grid;place-items:center;border-radius:50%;}
+  .cbtn:hover{background:var(--surface2);}
+  .cbtn.play{background:var(--accent);color:#000;font-size:26px;width:54px;height:54px;}
+  .cbtn.active-props{color:var(--accent);}
+  .speed-row{margin-top:10px;display:flex;align-items:center;gap:6px;flex-wrap:wrap;justify-content:center;}
+  .speed-row .spd{background:var(--surface2);border:none;color:var(--muted);border-radius:20px;padding:7px 14px;font-size:12px;font-weight:700;cursor:pointer;}
+  .speed-row .spd.active{background:var(--accent);color:#000;}
+  .meta{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:11px;margin:8px 0 10px;flex-wrap:wrap;}
+  .meta .page-no{color:var(--txt);font-weight:700;font-size:12px;}
+  .meta .sep{opacity:.4;}
+  .loop-btn{background:var(--surface2);border:none;color:var(--muted);border-radius:20px;padding:7px 14px;font-size:12px;font-weight:700;cursor:pointer;}
+  .loop-btn.active{background:var(--accent);color:#000;}
+  .msg{text-align:center;font-size:12px;color:var(--muted);padding:6px;}
+  .msg.err{color:var(--danger);}
+  ::-webkit-scrollbar{width:5px;} ::-webkit-scrollbar-thumb{background:var(--line);border-radius:4px;}
+</style>
+</head>
+<body>
+
+<div id="app">
+  <header>
+    <div class="brand">
+      <div class="dot">AI</div>
+      <div><h1>AI för nybörjare</h1><small>Johan Falk · Ljudbok</small></div>
+      <button class="search-toggle" onclick="toggleSearch()"><span class="i">⌕</span> Hitta ord</button>
+    </div>
+    <div class="search-bar" id="searchBar">
+      <input id="searchInput" type="text" placeholder="Sök efter ett ord..." oninput="onSearchInput()">
+      <button onclick="doSearch()">Hitta</button>
+    </div>
+  </header>
+
+  <main class="reader" id="reader">
+    <div class="page-top">
+      <span class="page-label" id="pageLabel">...</span>
+      <div class="font-ctrl">
+        <button onclick="fontAdj(-1)">−</button><span class="val" id="fontVal">17</span><button onclick="fontAdj(1)">+</button>
+      </div>
+    </div>
+    <div class="content" id="content"></div>
+    <div class="divider-screen" id="dividerScreen"><div><div class="big" id="divBig"></div><div class="sub" id="divSub"></div></div></div>
+  </main>
+
+  <div class="jump" id="jump">
+    <div class="jump-panel" id="jumpPanel">
+      <button class="close" onclick="closeJump()">×</button>
+      <h3>Hoppa till kapitel / sida</h3>
+      <div id="chapterList"></div>
+    </div>
+  </div>
+
+  <footer class="player">
+    <div class="progress" id="progress" onclick="seek(event)"><div class="bar" id="progressBar"></div><div class="bubble" id="bubble"></div></div>
+    <div class="meta">
+      <span class="page-no" id="nowLabel">Sida 1</span>
+      <span class="sep">·</span>
+      <span id="trackMeta">—</span>
+      <button class="loop-btn" id="loopBtn" onclick="toggleLoop()">Loop av</button>
+    </div>
+    <div class="controls">
+      <div class="ctrl-group">
+        <button class="cbtn" id="prevBtn" onclick="prevPage()" title="Föregående">⏮</button>
+        <button class="cbtn" id="quickback" onclick="quickBack()" title="−10 sek">↶10</button>
+        <button class="cbtn play" id="playBtn" onclick="togglePlay()">▶</button>
+        <button class="cbtn quickfwd" onclick="quickFwd()" title="+10 sek">10↷</button>
+        <button class="cbtn" id="nextBtn" onclick="nextPage()" title="Nästa">⏭</button>
+      </div>
+      <div class="ctrl-group">
+        <button class="cbtn" onclick="openJump()" title="Hoppa">☰</button>
+      </div>
+    </div>
+    <div class="speed-row" id="speedRow">
+      <button class="spd" data-s="1" onclick="setSpeed(1)">1x</button>
+      <button class="spd" data-s="1.2" onclick="setSpeed(1.2)">1.2x</button>
+      <button class="spd" data-s="1.5" onclick="setSpeed(1.5)">1.5x</button>
+      <button class="spd" data-s="2" onclick="setSpeed(2)">2x</button>
+    </div>
+    <div class="msg" id="msg"></div>
+  </footer>
+</div>
+
+<audio id="audio" preload="auto"></audio>
+
+<script>
+const API = 'data/';   // data/{audio,sync,chapters}.json served from same tree
+let pages=[];          // per page: {order,idx,book,is_divider,chapter,audio,sync}
+let chapters=[];       // {title,order,idx}
+let searchIdx=null;    // global word index {word:[{o,w}]}
+let current=0, font=17, rate=1, loopOn=false;
+let words=[];          // current page word timeline
+let lastTime=-1;
+let audioEl=document.getElementById('audio');
+let contentEl=document.getElementById('content');
+let msgEl=document.getElementById('msg');
+
+function fmtTime(s){ if(!isFinite(s)) return '0:00'; const m=Math.floor(s/60); const r=Math.floor(s%60); return m+':'+(r<10?'0':'')+r; }
+
+async function boot(){
+  try{
+    const [ch,pagesRes,searchRes]=await Promise.all([
+      fetch(API+'chapters.json').then(r=>r.json()),
+      fetch(API+'index.json').then(r=>r.json()),
+      fetch(API+'search.json').then(r=>r.json()).catch(()=>null)
+    ]);
+    chapters = Array.isArray(ch)? ch : [];
+    searchIdx = searchRes || {};
+    const meta = pagesRes;
+    const order = meta.orders || Object.keys(meta.audio).map(Number).sort((a,b)=>a-b);
+    pages = order.map(o=>({
+      order:o,
+      audio: meta.audio[o],
+      sync: meta.sync[o],
+      book: meta.bookLabel ? meta.bookLabel[o] : null,
+      is_divider: meta.divider && meta.divider[o],
+      chapter: meta.chapterTitle && meta.chapterTitle[o]
+    }));
+    buildChapterList();
+    loadPage(0);
+  }catch(e){ msg('Fel vid laddning: '+e.message,true); }
+}
+
+function buildChapterList(){
+  const list=document.getElementById('chapterList');
+  list.innerHTML='';
+  // include a "Framsida" start if not present
+  const items=[{title:'Start',order:0}, ...chapters];
+  items.forEach((c,i)=>{
+    const b=document.createElement('button');
+    b.className='ch'+(i===0?' active':'');
+    b.onclick=()=>{ closeJump(); if(i===0){loadPage(0);} else jumpToOrder(c.order); };
+    b.innerHTML=c.title + (c.order!=null?` <span class="no">→ pos ${c.order}</span>`:'');
+    list.appendChild(b);
+  });
+}
+
+function msg(t,isErr){ msgEl.textContent=t; msgEl.className='msg'+(isErr?' err':''); }
+
+function loadPage(oi){
+  if(oi<0||oi>=pages.length) return;
+  current=oi;
+  try{ localStorage.setItem('aibok_page',oi); }catch(e){}
+  const pg=pages[current];
+  const p=document.getElementById('pageLabel');
+  p.textContent = ('Sida '+(current+1)) + (pg.book?' · trycksid '+pg.book:'');
+  document.getElementById('nowLabel').textContent = 'Sida '+(current+1);
+  // reset
+  words=[];
+  audioEl.pause();
+  audioEl.removeAttribute('src');
+  // show divider or content
+  const divider=document.getElementById('dividerScreen');
+  const content=document.getElementById('content');
+  if(pg.is_divider && pg.chapter){
+    divider.classList.add('show');
+    content.style.display='none';
+    document.getElementById('divBig').textContent=pg.chapter;
+    document.getElementById('divSub').textContent='Kapitel startsida';
+    document.getElementById('trackMeta').textContent=pg.chapter;
+    // no audio
+    audioEl.pause();
+    document.getElementById('playBtn').textContent='▶';
+    updateProgress(0);
+    return;
+  }
+  divider.classList.remove('show'); content.style.display='block';
+  loadTextContent(pg, content);
+  // load audio
+  const src=pg.audio;
+  if(src){ audioEl.src=src; audioEl.playbackRate=rate; loadSync(pg); }
+  document.getElementById('trackMeta').textContent=(pg.book?'Sida '+pg.book:'')+' · '+fmtTime(audioEl.duration===0?0:audioEl.duration);
+  updateProgress(0);
+  // autoplay
+  audioEl.play().then(()=>{document.getElementById('playBtn').textContent='❚❚';}).catch(()=>{document.getElementById('playBtn').textContent='▶';});
+  // scroll top
+  document.getElementById('reader').scrollTop=0;
+}
+
+async function loadTextContent(pg,content){
+  // Load page data: real paragraphs + flat word-timeline. Render paragraphs,
+  // wrap each word in a span, and rely on words[] for exact highlight times.
+  let pdata=null;
+  try{
+    const pr=await fetch(API+'pages/'+String(pg.order).padStart(3,'0')+'.json');
+    pdata=await pr.json();
+  }catch(e){ pdata=null; }
+  if(!pdata || !pdata.words){ renderPlain(pg,content); return; }
+  words = pdata.words || [];
+  const paras = pdata.paras && pdata.paras.length ? pdata.paras : [];
+  if(words.length===0 || paras.length===0){ renderPlain(pg,content); return; }
+  // Build paragraph HTML; track a running global word index to map back into words[].
+  let html=''; let wi=0;
+  for(let pi=0; pi<paras.length; pi++){
+    const para=paras[pi];
+    const toks=para.split(/\s+/).filter(Boolean);
+    const spans=toks.map(t=>{
+      const idx=wi++;
+      return '<span class="word" data-wi="'+idx+'">'+escapeHtml(t)+'</span>';
+    });
+    html+='<p>'+spans.join(' ')+'</p>';
+  }
+  content.innerHTML=html;
+  content.querySelectorAll('.word').forEach(sp=>{
+    sp.addEventListener('click',()=>{ seekToWord(parseInt(sp.dataset.wi)); });
+  });
+}
+
+function renderPlain(pg,content){
+  content.innerHTML = '<p>Ingen ordsynsdata på denna sida.</p><p>' + escapeHtml('<ingen text hämtad>') + '</p>';
+}
+
+function escapeHtml(s){return (s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');}
+
+function loadSync(pg){
+  // words already set by loadTextContent (async). Called after; we just update per timeupdate.
+}
+
+/* ---- playback + word highlight ---- */
+audioEl.addEventListener('loadedmetadata',()=>{
+  const t=document.getElementById('trackMeta');
+  if(audioEl.duration) t.textContent=(pages[current].book?'Sida '+pages[current].book:'')+' · '+fmtTime(audioEl.duration);
+});
+audioEl.addEventListener('timeupdate',()=>{ updateProgress(); highlightWord(); });
+audioEl.addEventListener('ended',()=>{ onEnded(); });
+audioEl.addEventListener('error',()=>{ msg('Ljudet kunde inte spelas här.',true); });
+
+function updateProgress(forSeek){
+  const d=audioEl.duration;
+  const cur=forSeek!=null?forSeek:(audioEl.currentTime||0);
+  const pct=d? (cur/d*100):0;
+  document.getElementById('progressBar').style.width=pct+'%';
+  document.getElementById('bubble').style.left=pct+'%';
+}
+
+function highlightWord(){
+  if(words.length===0) return;
+  const t=audioEl.currentTime;
+  // binary search for current word
+  let idx=binarySearch(words,t);
+  if(idx===lastTime) return;
+  lastTime=idx;
+  const all=contentEl.querySelectorAll('.word');
+  all.forEach((sp,i)=>sp.classList.remove('active','spoken'));
+  if(idx>=0&&idx<all.length){
+    all[idx].classList.add('active');
+    // mark previously spoken dim
+    for(let i=0;i<idx;i++){ if(i<all.length) all[i].classList.add('spoken'); }
+    // ensure visible (scroll)
+    all[idx].scrollIntoView({block:'nearest',behavior:'smooth'});
+  }
+}
+
+function binarySearch(arr,t){
+  let lo=0,hi=arr.length-1,ans=-1;
+  while(lo<=hi){ const mid=(lo+hi)>>1; if(arr[mid].s<=t){ ans=mid; lo=mid+1;} else hi=mid-1; }
+  return ans;
+}
+
+function seekToWord(wi){
+  if(words[wi]){ audioEl.currentTime=words[wi].s; audioEl.play().then(()=>document.getElementById('playBtn').textContent='❚❚'); }
+}
+function seek(e){
+  const rect=document.getElementById('progress').getBoundingClientRect();
+  const frac=(e.clientX-rect.left)/rect.width;
+  if(audioEl.duration){ audioEl.currentTime=frac*audioEl.duration; }
+}
+function quickBack(){ audioEl.currentTime=Math.max(0,audioEl.currentTime-10); }
+function quickFwd(){ audioEl.currentTime=Math.min(audioEl.duration,audioEl.currentTime+10); }
+
+function togglePlay(){
+  if(audioEl.paused){ audioEl.play().then(()=>document.getElementById('playBtn').textContent='❚❚'); }
+  else { audioEl.pause(); document.getElementById('playBtn').textContent='▶'; }
+}
+function prevPage(){ if(current>0) loadPage(current-1); }
+function nextPage(){ if(current<pages.length-1) loadPage(current+1); }
+function onEnded(){
+  if(loopOn){ loadPage(current); return; }
+  if(current<pages.length-1){ nextPage(); } else { document.getElementById('playBtn').textContent='▶'; }
+}
+
+function setSpeed(s){ rate=s; audioEl.playbackRate=s; document.querySelectorAll('.spd').forEach(b=>b.classList.toggle('active',+b.dataset.s===s)); localStorage.setItem('aibok_rate',s); }
+function toggleLoop(){ loopOn=!loopOn; document.getElementById('loopBtn').textContent='Loop '+(loopOn?'på':'av'); document.getElementById('loopBtn').classList.toggle('active',loopOn); localStorage.setItem('aibok_loop',loopOn?'1':'0'); }
+function fontAdj(d){ font=Math.max(12,Math.min(32,font+d)); contentEl.style.fontSize=font+'px'; document.getElementById('fontVal').textContent=font; localStorage.setItem('aibok_font',font); }
+function toggleSearch(){ document.getElementById('searchBar').classList.toggle('show'); if(document.getElementById('searchBar').classList.contains('show')) document.getElementById('searchInput').focus(); }
+
+function doSearch(){
+  const q=document.getElementById('searchInput').value.trim().toLowerCase();
+  if(!q) return;
+  const g=findGlobalWord(q);
+  if(g==null){ msg('Ordet "'+document.getElementById('searchInput').value.trim()+'" hittades inte i boken.'); return; }
+  loadPage(orderToIndex(g.o));
+  setTimeout(()=>{ seekToWord(g.w); msg('Hittade "'+document.getElementById('searchInput').value.trim()+'"'); },900);
+}
+function onSearchInput(){ if(event.key==='Enter') doSearch(); }
+function findGlobalWord(q){
+  if(!searchIdx) return null;
+  // exact match first
+  if(searchIdx[q] && searchIdx[q].length) return searchIdx[q][0];
+  // else partial prefix/scatter — collect a few candidates, prefer earliest order
+  let hits=[];
+  const ql=q.length;
+  for(const key in searchIdx){
+    if(key.includes(q)){
+      hits.push({o:searchIdx[key][0].o, w:searchIdx[key][0].w});
+    }
+  }
+  if(hits.length){ hits.sort((a,b)=>a.o-b.o); return hits[0]; }
+  return null;
+}
+
+function openJump(){ document.getElementById('jump').classList.add('show'); openJumpScroll(); }
+function closeJump(){ document.getElementById('jump').classList.remove('show'); }
+function jumpToOrder(oi){ loadPage(orderToIndex(oi)); }
+function orderToIndex(order){
+  // pages[] is built in ascending order; find the array index for a given order number.
+  for(let i=0;i<pages.length;i++){ if(pages[i].order===order) return i; }
+  return Math.max(0, Math.min(pages.length-1, order-1));
+}
+function openJumpScroll(){
+  const list=document.getElementById('chapterList');
+  const act=list.querySelector('.ch.active');
+  if(act) act.scrollIntoView({block:'center'});
+}
+
+/* media session (background playback like Spotify) */
+if('mediaSession' in navigator){
+  audioEl.addEventListener('play',()=>{ if(navigator.mediaSession) navigator.mediaSession.playbackState='playing'; document.getElementById('playBtn').textContent='❚❚'; renderMeta(); });
+  audioEl.addEventListener('pause',()=>{ if(navigator.mediaSession) navigator.mediaSession.playbackState='paused'; document.getElementById('playBtn').textContent='▶'; });
+  audioEl.addEventListener('ended',()=>{ if(navigator.mediaSession) navigator.mediaSession.playbackState='ended'; });
+}
+function renderMeta(){ if(navigator.mediaSession){ navigator.mediaSession.metadata=new MediaMetadata({title: pages[current].book?('Sida '+pages[current].book):('Sida '+(current+1)), artist:'AI för nybörjare', album:'Johan Falk'}); } }
+
+/* register SW + restore prefs */
+if('serviceWorker' in navigator){ navigator.serviceWorker.register('sw.js').catch(()=>{}); }
+(function restorePrefs(){
+  const f=parseInt(localStorage.getItem('aibok_font')); if(f){ font=f; contentEl.style.fontSize=f+'px'; document.getElementById('fontVal').textContent=f; }
+  const r=parseFloat(localStorage.getItem('aibok_rate')); if(r){ rate=r; audioEl.playbackRate=r; document.querySelectorAll('.spd').forEach(b=>b.classList.toggle('active',+b.dataset.s===r)); }
+  const l=localStorage.getItem('aibok_loop'); if(l==='1'){ toggleLoop(); }
+  // restore last page
+  const lp=parseInt(localStorage.getItem('aibok_page')); if(lp && lp<pages.length) current=lp;
+})();
+
+boot();
+/* debug/tests hook (harmless) */
+window.__debug = () => {
+  const a=document.getElementById('audio');
+  const act=document.querySelector('.word.active');
+  return { order: pages[current]?pages[current].order:null, page: document.getElementById('pageLabel').textContent,
+    words: words.length, contentWords: document.querySelectorAll('.word').length,
+    t: a.currentTime.toFixed(2), dur: (a.duration||0).toFixed(2), paused:a.paused, rate:a.playbackRate,
+    active: act?act.textContent:null, activeIndex: act?Array.prototype.indexOf.call(document.querySelectorAll('.word'),act):-1,
+    minT: words.length?words[0].s:null, maxT: words.length?words[words.length-1].s:null };
+};
+window.__jump = (o)=>jumpToOrder(o);
+window.__play = ()=>togglePlay();
+</script>
+</body>
+</html>

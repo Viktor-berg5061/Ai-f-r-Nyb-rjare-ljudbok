@@ -1,0 +1,7 @@
+# node/deps
+node_modules/
+*.log
+
+# temp
+/tmp/
+*.comp.mp3

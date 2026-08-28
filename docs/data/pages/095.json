@@ -1,1 +1,1 @@
-{"order":95,"paras":["DEL III\nAl och","samhället"],"para_tokens":[["DEL","III","Al","och"],["samhället"]],"words":[{"t":"DEL","s":0.0,"e":0.78},{"t":"III","s":0.0,"e":0.78},{"t":"Al","s":1.44,"e":1.84},{"t":"och","s":1.84,"e":2.14},{"t":"samhället","s":2.14,"e":3.32}]}
+{"order":95,"paras":["DEL III","AI och samhället"],"para_tokens":[["DEL","III"],["AI","och","samhället"]],"words":[{"t":"DEL","s":0.0,"e":0.74},{"t":"III","s":0.0,"e":0.74},{"t":"AI","s":0.74,"e":1.44},{"t":"och","s":1.44,"e":1.88},{"t":"samhället","s":1.88,"e":2.58}]}

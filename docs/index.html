@@ -74,6 +74,10 @@
   .range-row .rbtn.active{background:var(--accent);color:#000;border-color:var(--accent);}
   .range-row .rbtn.clear{background:none;color:var(--muted);border:none;padding:7px 8px;}
   .range-row .range-label{min-width:130px;text-align:center;color:var(--muted);font-size:12px;font-weight:600;}
+  .range-row .rr-label{color:var(--muted);font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.5px;}
+  .range-row .rr-arrow{color:var(--muted);font-size:14px;}
+  .range-row .range-in{background:var(--surface);border:1px solid var(--line);color:var(--txt);border-radius:10px;width:64px;padding:7px 8px;font-size:15px;font-weight:700;text-align:center;}
+  .range-label{display:block;text-align:center;color:var(--accent);font-size:12px;font-weight:700;margin-top:6px;letter-spacing:.3px;}
   .speed-row .spd.active{background:var(--accent);color:#000;}
   .meta{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:11px;margin:8px 0 10px;flex-wrap:wrap;}
   .meta .page-no{color:var(--txt);font-weight:700;font-size:12px;}
@@ -146,11 +150,15 @@
       <button class="spd" data-s="2" onclick="setSpeed(2)">2x</button>
     </div>
     <div class="range-row" id="rangeRow">
-      <button class="rbtn" id="setStart" onclick="setStart()" title="Sätt start-här">⚑ Start</button>
-      <span class="range-label" id="rangeLabel">Sätt start &amp; slut</span>
-      <button class="rbtn" id="setEnd" onclick="setEnd()" title="Sätt slut-här">Slut ⚐</button>
-      <button class="rbtn clear" id="clearRange" onclick="clearRange()" title="Rensa">✕</button>
+      <span class="rr-label">Start</span>
+      <input type="number" id="rangeStart" class="range-in" min="1" max="179" value="" placeholder="1" inputmode="numeric">
+      <span class="rr-arrow">→</span>
+      <span class="rr-label">Slut</span>
+      <input type="number" id="rangeEnd" class="range-in" min="1" max="179" value="" placeholder="179" inputmode="numeric">
+      <button class="rbtn" id="applyRange" onclick="applyRange()" title="Spela denna sträcka">▶</button>
+      <button class="rbtn clear" id="clearRangeBtn" onclick="clearRange()" title="Rensa">✕</button>
     </div>
+    <span class="range-label" id="rangeLabel">Ange start &amp; slut sida</span>
     <div class="msg" id="msg"></div>
   </footer>
 </div>
@@ -376,24 +384,32 @@ function onEnded(){
   if(current<pages.length-1){ nextPage(); } else { document.getElementById('playBtn').textContent='▶'; }
 }
 
-/* ---- A–B range (start/slut sida) ---- */
-function setStart(){ startIdx=current; saveRange(); }
-function setEnd(){ if(current<startIdx){ msg('Slut måste vara efter start-sidan.'); return; } endIdx=current; saveRange(); }
+/* ---- A–B range (start/slut sida via inmatning) ---- */
+function applyRange(){
+  const s=parseInt(document.getElementById('rangeStart').value);
+  const e=parseInt(document.getElementById('rangeEnd').value);
+  if(!s || s<1 || s>pages.length){ msg('Ange startsida (1-'+pages.length+').'); return; }
+  startIdx = s-1;
+  endIdx = (e && e>=s && e<=pages.length) ? e-1 : startIdx;
+  saveRange();
+  loadPage(startIdx);
+  if(audioEl.paused) togglePlay();
+  msg('Spelar Sida '+s+' → '+(endIdx+1));
+}
 function clearRange(){ startIdx=null; endIdx=null; saveRange(); }
 function saveRange(){
   try{ localStorage.setItem('aibok_start', startIdx==null?'':String(startIdx)); localStorage.setItem('aibok_end', endIdx==null?'':String(endIdx)); }catch(e){}
+  const si=document.getElementById('rangeStart'), ei=document.getElementById('rangeEnd');
+  if(si) si.value = startIdx==null?'':String(startIdx+1);
+  if(ei) ei.value = endIdx==null?'':String(endIdx+1);
   updateRangeLabel();
 }
 function updateRangeLabel(){
   const el=document.getElementById('rangeLabel');
-  const sb=document.getElementById('setStart'), eb=document.getElementById('setEnd');
   if(!el) return;
-  sb.classList.toggle('active', startIdx===current);
-  eb.classList.toggle('active', endIdx===current);
-  if(startIdx!=null && endIdx!=null){ el.textContent='Sida '+(startIdx+1)+' ← → Sida '+(endIdx+1); }
+  if(startIdx!=null && endIdx!=null){ el.textContent='Spelar Sida '+(startIdx+1)+' → Sida '+(endIdx+1); }
   else if(startIdx!=null){ el.textContent='Start: Sida '+(startIdx+1); }
-  else if(endIdx!=null){ el.textContent='Slut: Sida '+(endIdx+1); }
-  else { el.textContent='Sätt start & slut'; }
+  else { el.textContent='Ange start & slut sida'; }
 }
 
 function setSpeed(s){ rate=s; audioEl.playbackRate=s; document.querySelectorAll('.spd').forEach(b=>b.classList.toggle('active',+b.dataset.s===s)); localStorage.setItem('aibok_rate',s); }

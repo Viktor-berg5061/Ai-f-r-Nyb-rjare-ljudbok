@@ -223,7 +223,8 @@ function buildChapterList(){
   });
 }
 
-function msg(t,isErr){ msgEl.textContent=t; msgEl.className='msg'+(isErr?' err':''); }
+let msgTimer=null;
+function msg(t,isErr){ msgEl.textContent=t; msgEl.className='msg'+(isErr?' err':''); clearTimeout(msgTimer); msgTimer=setTimeout(()=>{ msgEl.textContent=''; msgEl.className='msg'; },3500); }
 
 function loadPage(oi){
   if(oi<0||oi>=pages.length) return;

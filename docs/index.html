@@ -43,6 +43,14 @@
   .content .word{cursor:pointer;border-radius:4px;padding:0 1px;transition:background .1s;}
   .content .word.active{background:var(--accent);color:#000;border-radius:4px;}
   .content .word.spoken{color:#cfcfd6;}
+  /* Table of contents */
+  .content .toc-title{font-size:24px;font-weight:900;letter-spacing:-.3px;margin:0 0 18px;text-align:center;}
+  .toc-row{display:flex;align-items:baseline;gap:8px;margin:0 0 9px;line-height:1.4;font-size:16px;}
+  .toc-row .word{padding:0;}
+  .toc-row .toc-dots{flex:1 1 auto;border-bottom:1px dotted var(--muted);opacity:.45;margin:0 2px;transform:translateY(-4px);}
+  .toc-row .toc-num{flex:0 0 auto;font-variant-numeric:tabular-nums;color:var(--txt);font-weight:600;}
+  .toc-row.toc-sect{margin-top:16px;font-weight:700;font-size:17px;color:var(--accent);}
+  .toc-row.toc-sect .toc-num{color:var(--accent);}
   .divider-screen{display:none;place-items:center;min-height:60vh;text-align:center;}
   .divider-screen.show{display:grid;}
   .divider-screen .big{font-size:30px;font-weight:900;letter-spacing:-.5px;}
@@ -87,10 +95,11 @@
   .loop-btn.active{background:var(--accent);color:#000;}
   .msg{text-align:center;font-size:12px;color:var(--muted);padding:6px;}
   .msg.err{color:var(--danger);}
-  .range-flag{position:absolute;left:10px;bottom:calc(12px + env(safe-area-inset-bottom));z-index:5;background:var(--surface2);border:1px solid var(--line);color:var(--muted);border-radius:12px;width:36px;height:36px;font-size:16px;display:grid;place-items:center;cursor:pointer;}
-  .range-flag.active{color:#000;background:var(--accent);border-color:var(--accent);}
-  .jump-flag{position:absolute;right:10px;bottom:calc(12px + env(safe-area-inset-bottom));z-index:5;background:var(--surface2);border:1px solid var(--line);color:var(--muted);border-radius:12px;width:36px;height:36px;font-size:16px;display:grid;place-items:center;cursor:pointer;}
-  .jump-flag:hover{background:var(--surface);}
+  .range-flag,.jump-flag{position:absolute;bottom:calc(14px + env(safe-area-inset-bottom));z-index:5;width:44px;height:44px;background:var(--surface2);border:1px solid var(--line);border-radius:14px;font-size:19px;display:grid;place-items:center;cursor:pointer;color:var(--txt);}
+  .range-flag{left:12px;}
+  .jump-flag{right:12px;}
+  .range-flag:hover,.jump-flag:hover{background:var(--surface);}
+  .range-flag.active{color:var(--accent);border-color:var(--accent);background:var(--surface2);}
   .player{position:fixed;left:0;right:0;bottom:0;z-index:40;background:var(--surface);border-top:1px solid var(--line);padding:12px 58px calc(12px + env(safe-area-inset-bottom));}
   ::-webkit-scrollbar{width:5px;} ::-webkit-scrollbar-thumb{background:var(--line);border-radius:4px;}
 </style>
@@ -279,11 +288,13 @@ async function loadTextContent(pg,content){
   words = pdata.words || [];
   const paras = pdata.paras && pdata.paras.length ? pdata.paras : [];
   if(words.length===0 || paras.length===0){ renderPlain(pg,content); return; }
+  // TOC-page: split flat stream into dotted leader rows while preserving word/timing order.
+  if(pdata.toc){ renderToc(pdata, content); return; }
   // Build paragraph HTML; track a running global word index to map back into words[].
   let html=''; let wi=0;
   for(let pi=0; pi<paras.length; pi++){
     const para=paras[pi];
-    const toks=para.split(/\s+/).filter(Boolean);
+    const toks=para.split(/\\s+/).filter(Boolean);
     const spans=toks.map(t=>{
       const idx=wi++;
       return '<span class="word" data-wi="'+idx+'">'+escapeHtml(t)+'</span>';
@@ -294,6 +305,31 @@ async function loadTextContent(pg,content){
   content.querySelectorAll('.word').forEach(sp=>{
     sp.addEventListener('click',()=>{ seekToWord(parseInt(sp.dataset.wi)); });
   });
+}
+
+/* TOC renderer: flat word+timer stream -> dotted leader rows (synced, same word indices).
+   Word index in words[] is preserved exactly so highlight/seek timing stays correct. */
+function renderToc(pdata, content){
+  const words=pdata.words;
+  const title=words[0] ? words[0].t : 'Innehållsförteckning';
+  // Title is also a ".word" span (wi=0) so every .word span maps 1:1 to words[] order.
+  let html='<h2 class="toc-title"><span class="word" data-wi="0">'+escapeHtml(title)+'</span></h2>';
+  let gi=1; // global word index, starts after title (words[0])
+  while(gi<words.length){
+    let labelToks=[]; let labelStart=gi;
+    while(gi<words.length && !/^\d+$/.test(words[gi].t)){ labelToks.push(words[gi].t); gi++; }
+    let numTok=null, numStart=null;
+    if(gi<words.length && /^\d+$/.test(words[gi].t)){ numTok=words[gi].t; numStart=gi; gi++; }
+    if(labelToks.length===0 && numTok==null) continue;
+    const isSect = labelToks[0] && labelToks[0].startsWith('DEL');
+    let out='';
+    let wi=labelStart;
+    for(const t of labelToks){ out+='<span class="word" data-wi="'+(wi++)+'">'+escapeHtml(t)+'</span> '; }
+    if(numTok!=null){ out+='<span class="toc-dots"></span><span class="word toc-num" data-wi="'+numStart+'">'+escapeHtml(numTok)+'</span>'; }
+    html+='<div class="'+(isSect?'toc-row toc-sect':'toc-row')+'">'+out+'</div>';
+  }
+  content.innerHTML=html;
+  content.querySelectorAll('.word').forEach(sp=>{ sp.addEventListener('click',()=>{ seekToWord(parseInt(sp.dataset.wi)); }); });
 }
 
 function renderPlain(pg,content){

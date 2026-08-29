@@ -61,7 +61,7 @@
   .progress{height:4px;background:var(--surface2);border-radius:4px;cursor:pointer;position:relative;margin-bottom:10px;}
   .progress .bar{height:100%;background:var(--accent);border-radius:4px;width:0%;}
   .progress .bubble{position:absolute;top:50%;transform:translate(-50%,-50%);width:12px;height:12px;background:#fff;border-radius:50%;left:0%;}
-  .controls{display:flex;align-items:center;justify-content:space-between;gap:8px;}
+  .controls{display:flex;align-items:center;justify-content:center;gap:8px;}
   .ctrl-group{display:flex;align-items:center;gap:8px;}
   .cbtn{background:none;border:none;color:var(--txt);font-size:20px;cursor:pointer;padding:6px;width:44px;height:44px;display:grid;place-items:center;border-radius:50%;}
   .cbtn:hover{background:var(--surface2);}
@@ -89,7 +89,9 @@
   .msg.err{color:var(--danger);}
   .range-flag{position:absolute;left:10px;bottom:calc(12px + env(safe-area-inset-bottom));z-index:5;background:var(--surface2);border:1px solid var(--line);color:var(--muted);border-radius:12px;width:36px;height:36px;font-size:16px;display:grid;place-items:center;cursor:pointer;}
   .range-flag.active{color:#000;background:var(--accent);border-color:var(--accent);}
-  .player{position:fixed;left:0;right:0;bottom:0;z-index:40;background:var(--surface);border-top:1px solid var(--line);padding:12px 16px calc(12px + env(safe-area-inset-bottom));padding-left:58px;}
+  .jump-flag{position:absolute;right:10px;bottom:calc(12px + env(safe-area-inset-bottom));z-index:5;background:var(--surface2);border:1px solid var(--line);color:var(--muted);border-radius:12px;width:36px;height:36px;font-size:16px;display:grid;place-items:center;cursor:pointer;}
+  .jump-flag:hover{background:var(--surface);}
+  .player{position:fixed;left:0;right:0;bottom:0;z-index:40;background:var(--surface);border-top:1px solid var(--line);padding:12px 58px calc(12px + env(safe-area-inset-bottom));}
   ::-webkit-scrollbar{width:5px;} ::-webkit-scrollbar-thumb{background:var(--line);border-radius:4px;}
 </style>
 </head>
@@ -143,10 +145,8 @@
         <button class="cbtn quickfwd" onclick="quickFwd()" title="+10 sek">10↷</button>
         <button class="cbtn" id="nextBtn" onclick="nextPage()" title="Nästa">⏭</button>
       </div>
-      <div class="ctrl-group">
-        <button class="cbtn" onclick="openJump()" title="Hoppa">☰</button>
-      </div>
     </div>
+    <button class="jump-flag" id="jumpToggleBtn" onclick="openJump()" title="Hoppa till kapitel/sida">☰</button>
     <div class="speed-row" id="speedRow">
       <button class="spd" data-s="1" onclick="setSpeed(1)">1x</button>
       <button class="spd" data-s="1.2" onclick="setSpeed(1.2)">1.2x</button>

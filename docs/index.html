@@ -70,6 +70,7 @@
   .speed-row{margin-top:10px;display:flex;align-items:center;gap:6px;flex-wrap:wrap;justify-content:center;}
   .speed-row .spd{background:var(--surface2);border:none;color:var(--muted);border-radius:20px;padding:7px 14px;font-size:12px;font-weight:700;cursor:pointer;}
   .range-row{margin-top:10px;display:flex;align-items:center;gap:8px;flex-wrap:wrap;justify-content:center;}
+  .collapsed{display:none !important;}
   .range-row .rbtn{background:var(--surface2);border:1px solid var(--line);color:var(--txt);border-radius:20px;padding:7px 12px;font-size:12px;font-weight:700;cursor:pointer;}
   .range-row .rbtn.active{background:var(--accent);color:#000;border-color:var(--accent);}
   .range-row .rbtn.clear{background:none;color:var(--muted);border:none;padding:7px 8px;}
@@ -141,6 +142,7 @@
       </div>
       <div class="ctrl-group">
         <button class="cbtn" onclick="openJump()" title="Hoppa">☰</button>
+        <button class="cbtn" id="rangeToggleBtn" onclick="toggleRange()" title="Spela bara vissa sidor (A→B)">⚑</button>
       </div>
     </div>
     <div class="speed-row" id="speedRow">
@@ -149,7 +151,7 @@
       <button class="spd" data-s="1.5" onclick="setSpeed(1.5)">1.5x</button>
       <button class="spd" data-s="2" onclick="setSpeed(2)">2x</button>
     </div>
-    <div class="range-row" id="rangeRow">
+    <div class="range-row collapsed" id="rangeRow">
       <span class="rr-label">Start</span>
       <input type="number" id="rangeStart" class="range-in" min="1" max="179" value="" placeholder="1" inputmode="numeric">
       <span class="rr-arrow">→</span>
@@ -158,7 +160,7 @@
       <button class="rbtn" id="applyRange" onclick="applyRange()" title="Spela denna sträcka">▶</button>
       <button class="rbtn clear" id="clearRangeBtn" onclick="clearRange()" title="Rensa">✕</button>
     </div>
-    <span class="range-label" id="rangeLabel">Ange start &amp; slut sida</span>
+    <span class="range-label collapsed" id="rangeLabel">Ange start &amp; slut sida</span>
     <div class="msg" id="msg"></div>
   </footer>
 </div>
@@ -385,6 +387,19 @@ function onEnded(){
 }
 
 /* ---- A–B range (start/slut sida via inmatning) ---- */
+function toggleRange(){
+  const row=document.getElementById('rangeRow');
+  const lbl=document.getElementById('rangeLabel');
+  // Freshly open: clear both inputs to blank if no range is already active
+  if(startIdx==null && endIdx==null){
+    document.getElementById('rangeStart').value='';
+    document.getElementById('rangeEnd').value='';
+  }
+  row.classList.toggle('collapsed');
+  lbl.classList.toggle('collapsed');
+  if(!row.classList.contains('collapsed')) updateRangeLabel();
+  if(!row.classList.contains('collapsed')) document.getElementById('rangeStart').focus();
+}
 function applyRange(){
   const s=parseInt(document.getElementById('rangeStart').value);
   const e=parseInt(document.getElementById('rangeEnd').value);
@@ -394,9 +409,16 @@ function applyRange(){
   saveRange();
   loadPage(startIdx);
   if(audioEl.paused) togglePlay();
+  document.getElementById('rangeToggleBtn').classList.add('active');
   msg('Spelar Sida '+s+' → '+(endIdx+1));
 }
-function clearRange(){ startIdx=null; endIdx=null; saveRange(); }
+function clearRange(){
+  startIdx=null; endIdx=null; saveRange();
+  document.getElementById('rangeRow').classList.add('collapsed');
+  document.getElementById('rangeLabel').classList.add('collapsed');
+  document.getElementById('rangeToggleBtn').classList.remove('active');
+  msg('Intervall av — hela boken spelas.');
+}
 function saveRange(){
   try{ localStorage.setItem('aibok_start', startIdx==null?'':String(startIdx)); localStorage.setItem('aibok_end', endIdx==null?'':String(endIdx)); }catch(e){}
   const si=document.getElementById('rangeStart'), ei=document.getElementById('rangeEnd');
@@ -470,10 +492,8 @@ if('serviceWorker' in navigator){ navigator.serviceWorker.register('sw.js').catc
   const f=parseInt(localStorage.getItem('aibok_font')); if(f){ font=f; contentEl.style.fontSize=f+'px'; document.getElementById('fontVal').textContent=f; }
   const r=parseFloat(localStorage.getItem('aibok_rate')); if(r){ rate=r; audioEl.playbackRate=r; document.querySelectorAll('.spd').forEach(b=>b.classList.toggle('active',+b.dataset.s===r)); }
   const l=localStorage.getItem('aibok_loop'); if(l==='1'){ toggleLoop(); }
-  const __s=localStorage.getItem('aibok_start'), __e=localStorage.getItem('aibok_end');
-  if(__s!=='' && __s!=null) startIdx=parseInt(__s);
-  if(__e!=='' && __e!=null) endIdx=parseInt(__e);
-  if(startIdx!=null || endIdx!=null) updateRangeLabel();
+  // NOTE: active A–B range is NOT restored on boot — the book always starts free.
+  // The range bar only engages when the user opens it and enters pages.
   // restore last page
   const lp=parseInt(localStorage.getItem('aibok_page')); if(lp && lp<pages.length) current=lp;
 })();

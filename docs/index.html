@@ -87,6 +87,9 @@
   .loop-btn.active{background:var(--accent);color:#000;}
   .msg{text-align:center;font-size:12px;color:var(--muted);padding:6px;}
   .msg.err{color:var(--danger);}
+  .range-flag{position:absolute;left:10px;bottom:calc(12px + env(safe-area-inset-bottom));z-index:5;background:var(--surface2);border:1px solid var(--line);color:var(--muted);border-radius:12px;width:36px;height:36px;font-size:16px;display:grid;place-items:center;cursor:pointer;}
+  .range-flag.active{color:#000;background:var(--accent);border-color:var(--accent);}
+  .player{position:fixed;left:0;right:0;bottom:0;z-index:40;background:var(--surface);border-top:1px solid var(--line);padding:12px 16px calc(12px + env(safe-area-inset-bottom));padding-left:58px;}
   ::-webkit-scrollbar{width:5px;} ::-webkit-scrollbar-thumb{background:var(--line);border-radius:4px;}
 </style>
 </head>
@@ -134,7 +137,6 @@
     </div>
     <div class="controls">
       <div class="ctrl-group">
-        <button class="cbtn" id="rangeToggleBtn" onclick="toggleRange()" title="Spela bara vissa sidor (A→B)">⚑</button>
         <button class="cbtn" id="prevBtn" onclick="prevPage()" title="Föregående">⏮</button>
         <button class="cbtn" id="quickback" onclick="quickBack()" title="−10 sek">↶10</button>
         <button class="cbtn play" id="playBtn" onclick="togglePlay()">▶</button>
@@ -162,6 +164,7 @@
     </div>
     <span class="range-label collapsed" id="rangeLabel">Ange start &amp; slut sida</span>
     <div class="msg" id="msg"></div>
+    <button class="range-flag" id="rangeToggleBtn" onclick="toggleRange()" title="Spela bara vissa sidor (A→B)">⚑</button>
   </footer>
 </div>
 

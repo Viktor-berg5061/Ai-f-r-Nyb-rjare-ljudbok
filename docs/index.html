@@ -294,7 +294,7 @@ async function loadTextContent(pg,content){
   let html=''; let wi=0;
   for(let pi=0; pi<paras.length; pi++){
     const para=paras[pi];
-    const toks=para.split(/\\s+/).filter(Boolean);
+    const toks=para.split(/\s+/).filter(Boolean);
     const spans=toks.map(t=>{
       const idx=wi++;
       return '<span class="word" data-wi="'+idx+'">'+escapeHtml(t)+'</span>';

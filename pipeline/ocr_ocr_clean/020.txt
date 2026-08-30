@@ -1,0 +1,22 @@
+Exempel på handskrivna siffror, i rutor om 28 × 28 pixlar.
+Bild av Suvanjanprasai. Licens: CC BY-SA 4.0. Källa: https://
+upload.wikimedia.org/wikipedia/commons/f/f7/MnistExamples-
+Modified.png
+
+kurvor och hur många gånger linjer skär varandra – då
+tänker du precis som många av de som skrivit dator-
+program för att läsa siffror gjort.
+    Om man lägger mycket möda på att bygga sådana
+datorprogram kan man få fram något som lyckas rätt
+bra med att känna igen siffror. En del saker blir ändå
+fel, och av de felen kan man lära sig nya villkor och
+kontroller att lägga till i programmet för att göra det
+ännu bättre. Efter tusentals timmars arbete kan man
+stolt konstatera att programmet fungerar bra. Inte per-
+fekt, men bra.
+    Sedan kommer några som inte alls bryr sig om att
+räkna antalet streck, kurvor och skärningspunkter. I
+stället använder de något de kallar för maskininlärning.
+De låter en dator gissa vad det är för siffra i bilden, i
+
+21

@@ -1,0 +1,13 @@
+bara presterar några procent sämre på de flesta områdena.
+
+Destillerade modeller är snabbare, billigare och enklare att köra, vilket kraftigt ökar deras användningsområden. Eftersom de går att köra på servrar och datorer på ett kontor ger det mer kontroll över modellerna, inget beroende av nätuppkoppling, och framför allt högre datasäkerhet.
+
+De minsta modellerna går till och med att använda på telefoner, vilket även där ger ökad driftsäkerhet och datasäkerhet jämfört med AI över internet.
+
+Under 2024 lanserades ett antal versioner av så kallad bärbar AI, i form av telefonliknande prylar, broscher, halsband och glasögon (även om de senare ännu inte går att köpa). Mottagandet har hittills varit mer eller mindre katastrofalt, men många tycks tro att det är en nisch som kommer att fyllas snart.
+
+AI-assistenter
+
+En typ av AI-tjänster som många fortfarande försöker få att fungera är AI-assistenter. Det är AI-agenter, alltså AI som kan hantera komplexa uppgifter och även använda olika typer av verktyg, som också lär sig om användarens preferenser. På så vis blir den bättre och bättre på att utföra uppgifter åt användaren, och kan till och med lära sig att förutsäga uppgifter innan de ges.
+
+80

@@ -1,0 +1,54 @@
+Ordlista
+
+AG!I (artificiell generell intelligens) — AI som kan utfö-
++ som alla intellektuella uppgifter som en
+
+niska kan
+
+Al-agent — Ett AI-system som kan planera och genom-
+
+bra komplexa uppgifter utan att behöva detaljera-
+
+de instruktioner för varje steg. Al-agenter kan ofta
+använda olika verktyg och anpassa sina strategier
+baserat på situationen.
+
+Al-assistent — En AI-agent som lär känna användaren
+och efter hand blir bättre på att förutsäga använda-
+rens preferenser.
+
+Al-modell — Den underliggande matematiska struktu-
+ren som gör att ett AI-system kan utföra sina upp-
+
+gifter. AI-modeller skapas genom träning på stora
+mängder data och kan sedan användas för att göra
+förutsägelser eller generera nytt innehåll.
+
+Alignment (inom Al) — Arbetet med att säkerställa att
+Al-system agerar i enlighet med mänskliga värde-
+ringar och mål. Detta omfattar både tekniska meto-
+der för att styra AI:s beteende och filosofiska frågor
+om vilka mål vi bör ge AI.
+
+176
+
+som at
+norma
+ASI (artifi
+da A
+ino
+Benchma
+sättnin
+och jä!
+marks
+ståelse
+Bias (inom
+AI-mo
+tisk trå
+funger
+missgy
+Bred Aru
+
+Uppgif
+Sepfake
+

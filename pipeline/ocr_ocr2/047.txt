@@ -1,0 +1,78 @@
+RR N AA UN et
+a + . U Sh eg ee
+sera . . A | . | s VÅ
+| | a Ä . I mo as Re SR z ns > .
+- - . > nr ers rr ; prog"
+
+kar vå
+p över va feksran
+sintals datoret Som "Yt Vänmaskine ly
+| so
+
+f
+I bilen. Aven st verk, elcentraler. fe
+skåp. tåg:
+
+d fler sinnen ua
+Alme ller är en 3V många typer NN ; Ån
+- att läsa pilder, lyssna på Judd, tol-
+
+d at självkörande pilar, och hundra
+u
+
+an noga På språkmodellerna kan
+lika typer även där — till exempel
+ra särskilt bra på att
+
+ka omgivningen I
+andra saker. Tittar m
+
+man dessutom hitta o !
+r som är byggda för att va
+
+ll -
+me förstå juridiska texter eller ställa medi.
+
+programmera,
+cinska diagnoser.
+
+Med hjälp av APlI:er går det att koppla ihop olika
+AlI-modeller, och få dem att arbeta tillsammans. Ett ex-
+empel är tjänster man kan prata med och ställa frågor,
+och få ett svar uppläst tillbaka. En sådan tjänst skulle
+
+kunna fungera så här:
+
++ En Al för tal-till-text lyssnar när du ställer en fråga,
+och gör om det du säger till skriven text.
+"Den skrivna texten skickas till en språkmodell, som
+
+levererar ett svar i textform.
+
+Texten matas till en Al för text-till-tal, som läser
+upp Svaret för dig.
+
+vo akt:
+| St, oe
+s - s
+sval
+c .
+a +
+- a
+
+Al-age
+
+En typ:
+kallade
+komplic
+nomför
+ligt fler
+När
+dela up
+terbar S
+av en SJ
+genomf
+gänglig,
+eller Ma
+utvalda
+2024 fir

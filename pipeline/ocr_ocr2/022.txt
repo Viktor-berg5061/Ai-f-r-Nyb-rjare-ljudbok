@@ -1,0 +1,62 @@
+deller är nämligen att de tittar på vad användaren har
+
+På att h Ditt tear, skrivit, och gissar vilket ord som passar bäst som första
+u vet h 882 ett da ordet i svaret. Den lägger till det ordet, eller ibland bara
+Ur svår d ” en del av ett ord, och tittar sedan igen på all text — in-
+
+oo Et klusive början på svarct — och gör en ny gissning på
+resterar Bissni vilket ord som passar bäst att läppa till. Och så vidare,
+TOgtam ni - n 5 tills den gissar att texten är klar,
+
+g har den, mö. I årtionden har många försökt få maskiner att förstå
+! Passerar språk genom att skapa regler för hur text ska tolkas.
+maskin har, och Det är ett genidrag att kasta ut alla de reglerna, och i
+a-nånting stället låta en dator gissa hur en text borde fortsätta —
+
+"rar bättre. Inom
+m och installerar
+
+det är detta som
+a svåra problem
+fr hitta regler för
+Den vinnande
+ttjar datorernas
+
+1
+
+tora språkmo-
+från maskiner-
+Semensamt: de
+CT ikmo-
+
+I .
+
+2 NN
+
+NS
+
+Fd
+
+från grunden, utan på förhand givna regler. Det är att
+ha tagit till sig den bittra lärdomen.
+Vid första anblick är det inte uppenbart att man
+får något som liknar intelligent beteende genom att
+bli bra på att gissa nästa ord. För att gissa vilket ord
+som bör följa efter ”Bä, bä, vita...” krävs inte intel-
+ligens, utan bara ett gott minne och kännedom om
+barnvisor. Men om man i stället tänker på meningen
+”och mördaren var alltså...” i slutet av en deckare, så
+kräver den förståelse för vad som har hänt tidigare i
+boken för att avsluta korrekt. Meningar som ”en vik-
+tig fråga inom artificiell intelligens som många förbi-
+ser är...” kräver ännu bredare kunskaper för att kunna
+avsluta på ett bra vis.
+För att lära en dator läsa siffrorna noll till nio be-
+
+hövs tiotusentals exempel att träna på. Att sätta ord ef-
+
+ter varandra är en mycket mer komplex uppgift, och
+kräver ofantligt många exempel och ofantliga mängder
+
+23
+

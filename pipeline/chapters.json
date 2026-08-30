@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Framsida",
+    "order": 1,
+    "idx": 1
+  },
+  {
+    "title": "DEL I: Förstå och använda AI",
+    "order": 10,
+    "idx": 12
+  },
+  {
+    "title": "DEL II: Vart är AI på väg?",
+    "order": 59,
+    "idx": 59
+  },
+  {
+    "title": "DEL III: AI och samhället",
+    "order": 95,
+    "idx": 95
+  },
+  {
+    "title": "Slutord",
+    "order": 169,
+    "idx": 169
+  }
+]

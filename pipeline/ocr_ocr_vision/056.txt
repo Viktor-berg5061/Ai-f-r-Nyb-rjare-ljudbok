@@ -1,0 +1,31 @@
+Det är tydligt att o1 har tränats på texter som om-
+fattar många och långa resonemang, och den verkar åt-
+minstone på vissa sätt härma det långsamma tänkandet
+i system 2. Det återstår dock att se hur generell den
+förmågan är. Tillverkaren OpenAI har (trots sitt namn)
+bara berättat små delar av hur o1 fungerar, och efter-
+som användares åtkomst till o1 fortfarande är ranso-
+nerad vet vi inte så mycket om dess kapacitet. Att un-
+dersöka vad som händer inuti modellen, så som att se
+hur AI:n hanterar logiska resonemang, är omöjligt för
+någon utanför OpenAI.
+    Som med tidigare AI-modeller lär det ta månader
+innan vi fullt ut förstår o1:s kapacitet, och hur vi an-
+vänder den på bästa sätt. Det som lanserats än så länge
+är dessutom bara en förhandsversion, och det återstår
+att se vad som händer när modellen får möjlighet att
+läsa bilder, söka på nätet och använda andra typer av
+verktyg.
+
+Lätta och svåra tester
+
+För att kunna följa hur AI:s utvecklas har forskare och
+ingenjörer skapat prestandatester, så kallade bench-
+marks. Benchmarks kan liknas vid prov med frågor och
+uppgifter, tillsammans med facit för att bedöma AI:ns
+svar. Ofta används den mänskliga prestationsnivån som
+en referenspunkt, för att exempelvis säga att en språk-
+modell ligger på 80 procent av mänsklig nivå, eller pre-
+sterar bättre än mänskliga experter.
+
+57

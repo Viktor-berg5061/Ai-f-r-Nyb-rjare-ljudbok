@@ -1,0 +1,34 @@
+sjukvårdsrådgivning till en mycket låg kostnad jämfört
+med mänsklig expertis. Chattbotten som användes
+i studien var dessutom en tidig version av ChatGPT
+(GPT-3.5), och senare studier visar att AI i flera lägen
+kan mäta sig med läkare när det gäller diagnostice-
+ring.⁵² Flera studier visar att AI, särskilt i kombination
+med läkare, kan förbättra diagnostisk noggrannhet, ex-
+empelvis inom mammografi-screening⁵³ och komplexa
+diagnoser.⁵⁴ I en värld där vårdköerna är långa i rika
+länder och sjukvården otillräcklig i fattiga länder kan
+AI göra stor nytta.
+    AI har stor betydelse även för medicinsk forskning.
+2024 fick Demis Hassabis och John Jumper på Google
+DeepMind halva Nobelpriset i kemi för sitt arbete med
+AlphaFold, en AI-modell som beskriver hur proteiner
+formas.⁵⁵ Proteiner styr många processer i kroppen, och
+att bättre förstå hur proteiner beter sig kan ge möjlighe-
+ter att upptäcka, behandla och bota en rad sjukdomar.
+    Proteiners egenskaper, särskilt hur de formas, har
+länge varit en utmaning för forskningen. AlphaFold
+har gjort dessa frågor betydligt mer hanterbara, vilket
+motiverade Nobelpriset.
+    Utöver AlphaFold finns nu en rad AI-model-
+ler som används för att förstå biokemi. Exempel är
+
+52. Se exempelvis https://jamanetwork.com/journals/jamanetworkopen/fullartic-
+le/2812737
+53. Se https://www.thelancet.com/journals/landig/article/PIIS2589-
+7500(23)00153-X/fulltext
+54. Se https://arxiv.org/pdf/2406.14981
+55. Andra halvan av kemipriset gick till biokemisten David Baker, som inte är
+AI-forskare men använder AI och andra metoder för att designa proteiner.
+
+139

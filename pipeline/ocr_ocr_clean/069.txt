@@ -1,0 +1,33 @@
+Om man gör AI-skapade texter på rätt sätt kan de
+däremot hjälpa till att bygga upp delar av den data som
+behövs för att få bra språkmodeller. Metoden utfors-
+kas flitigt av AI-bolag under termen syntetisk data, och
+spelar redan en betydande roll för nya AI-modeller.
+
+För att bygga bättre AI-modeller ställs också allt hö-
+gre krav på kvaliteten på datan: att härma ett genom-
+snitt av budskap på internet räcker en bit, men inte
+för att nå expertnivå i många sammanhang. Det gör
+högkvalitativa datakällor särskilt värdefulla, oavsett om
+de skapats av människor eller maskiner.
+
+Att få fram rätt data att träna på är en utmaning
+för AI-bolagen, men sammantaget är tillgången på data
+förmodligen inte en begränsande faktor för fortsatt
+uppskalning.
+
+Algoritmer och toppkompetens
+
+Den andra ingrediensen för AI-tillverkning är algorit-
+mer, det vill säga de metoder som används för att träna
+AI-modeller. Förbättrade metoder kan i viss mån hittas
+i allmänt tillgängliga forskningsartiklar, men en vikti-
+gare källa är skickliga AI-ingenjörer och -forskare i den
+egna organisationen.
+
+Toppkompetens inom AI är oerhört sällsynt, och
+därför kämpar de stora AI-bolagen om de skickligas-
+te personerna i AI-världen. Sedan hösten 2023 har det
+blivit vanligare att de största bolagen antingen köper
+
+71

@@ -1,0 +1,24 @@
+Hur fort går det?
+
+För att kunna göra bra gissningar om vart AI-utveck-
+lingen är på väg behöver man reda ut ett antal frågor.
+Ingen av dem är så viktig att förstå som hastigheten i
+utvecklingen.
+
+Uppskalningshypotesen
+
+Omkring 2019 formulerades en ganska radikal hypo-
+tes om artificiella neurala nätverk. Hypotesen var att
+artificiella nätverk får nya förmågor när de skalas upp i
+storlek, och den kallas därför ”the scaling hypothesis”,
+eller uppskalningshypotesen på svenska.
+    Innan 2019 utgick de flesta AI-forskare från att de
+neurala nätverken visserligen fungerar bra för att lösa
+avgränsade uppgifter, men att de inte kan uppnå något
+som liknar generell intelligens. Uppskalningshypote-
+sen skapar fortfarande viss kontrovers bland AI-fors-
+kare, där en del menar att det enda som behövs för
+övermänsklig AI är större och starkare nätverk, medan
+andra hävdar att det krävs att vi kodar in vissa grund-
+
+62

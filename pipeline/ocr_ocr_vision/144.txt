@@ -1,0 +1,32 @@
+Det är obehagligt, men intelligens kan användas som
+ett vapen. En person med svag intelligens men med ett
+starkt hat mot grannens skällande hund skulle med AI
+kunna göra en fungerande plan för att ha ihjäl hun-
+den. Byter man ut hunden mot ett skrikande spädbarn
+blir det ännu mer obehagligt. Och ännu värre om man
+tänker sig en terrorist som vill ha hjälp att hitta nya
+metoder för att skada så många som möjligt.
+    Många av de skadliga saker som AI kan hjälpa till
+med går idag att leta upp på nätet, men en betydande
+skillnad är att en AI kan ge vägledning, svara på upp-
+följningsfrågor, och anpassa stödet för den specifika si-
+tuationen.
+    Som beskrivs i tidigare kapitel finns idag inga väl-
+fungerande sätt att hindra AI-modeller från att ge svar
+inom olämpliga områden. För de stora modeller som
+nås över nätet finns jailbreaks som kringgår spärrarna,
+och i nedladdningsbara modeller kan spärrarna en-
+kelt tas bort. Det finns sätt att permanent ta bort vis-
+sa funktioner i AI-modeller⁶⁴, men priset är högt: En
+språkmodell som inte är kapabel att bygga bomber kan
+inte heller hjälpa till med frågor som rör kemi, och en
+AI som inte är kapabel att genomföra cyberattacker kan
+inte heller hjälpa till att programmera.
+    För att hålla koll på de största riskerna genomför
+flera AI-bolag kontroller för att se vad deras språkmo-
+deller är kapabla till utan spärrar, innan de görs till-
+gängliga för allmänheten. De testas bland annat för för-
+
+64. Se https://arxiv.org/abs/2406.04313
+
+146

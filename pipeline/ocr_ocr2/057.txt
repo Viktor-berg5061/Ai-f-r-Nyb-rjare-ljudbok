@@ -1,0 +1,41 @@
+Nad |
+N es oo Det finns benchmarks för alle från översättning och
+ON - n aut känna igen djur | bilder till att lösa Iatteproble,
+or och ställa medicinska diagnoser, Många benchmark, är
+| en blandning av olika typer av utmaningar, för att få en
+
+; bild av Al:s kunskapsbredd.
+
+AT På senare år har det dykt upp ett problem för bench.
+marks: de blir uttjänta för snabbt. För 10-20 år sedan
+SN förbättrades resultat i en ganska långsam och därmed
+serna > ; förutsägbar takt, medan benchmarks idag på bara ett
+od par år kan gå från att vara alldeles för svåra till alle.
+a. men ng deles för lätta för AI. I stor utsträcknig beror det på
+
+att språkmodeller utvecklas i sådan takt att det som är
+At oöverstigligt för en AI idag kan vara enkelt för nästa
+- generations modeller.
+
+När det gäller AlI:s förmåga att resonera är två
+benchmarks särskilt intressanta. Det ena är skapat av
+Apple, och särskilt utformat för att testa hur Al:s reso-
+nemangsförmåga står emot ytliga förändringar i upp-
+gifter — så som att ändra värden i matematikuppgifter
+eller lägga till irrelevant information i en fråga. Även
+
+ledande språkmodeller tappar tydligt i sina resultat, vil-
+
+AE än ar ett argument för att deras resonemangsförmåga
+—— är . . eo .
+| räcklig, Också ol:s prestationer påverkas, men ofta
+ar. | . .
+2 marginellt och betydligt mindre än för andra mo-
+deller,!4
+Det an
+- eftersora JA fester heter ARC, och är extra spännande
+ee Det bes.å et är enkelt för människor men svårt för AI.
+| SS ST | d r av ett ant a .”
+kl al Utmaningar där man ska hitta
+SS a i 14, Pe beips//arxivorg/pdf/2410,0529
+QR 58

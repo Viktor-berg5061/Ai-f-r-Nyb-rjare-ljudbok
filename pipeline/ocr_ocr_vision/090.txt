@@ -1,0 +1,31 @@
+Tre myndigheter som kan vara värda att nämna är
+Vinnova, som finansierar mycket AI-innovation, samt
+Myndigheten för digital förvaltning (Digg) och Integri-
+tetsskyddsmyndigheten (IMY) som fått ett uppdrag att
+ge vägledning i hur generativ AI ska användas i offentlig
+sektor. Det är också troligt att Digg, när myndigheten
+slås ihop med Post- och telestyrelsen, kommer att få an-
+svar för hur EU:s AI-förordning implementeras i Sverige.
+I den mån Sverige syns på den internationella AI-sce-
+nen är det genom enskilda personer, där svensk-ameri-
+kanerna Max Tegmark och Nick Bostrom är erkända
+namn när det gäller AI-säkerhet och att synliggöra stor-
+skaliga AI-risker.
+
+Lagstiftning och EU:s AI-förordning
+
+Sommaren 2024 blev EU den första multinationella or-
+ganisationen att införa tvingande regler för AI, genom
+AI-förordningen (AI Act). Som andra EU-förordningar
+blir de lag i medlemsländerna, men även om lagen gäller
+sedan 1 augusti 2024 börjar den tillämpas i steg ända
+fram till augusti 2028. Reglerna gäller all AI som an-
+vänds på EU:s marknad, och alltså inte till exempel AI
+som bara används inom forskning eller för militärt bruk.
+AI-förordningen reglerar AI på två huvudsakliga
+sätt. Det ena handlar om AI-system byggda för sär-
+skilda uppgifter. Det andra handlar om "AI-modeller
+för allmänna ändamål", vilket i praktiken avser stora
+språkmodeller.
+
+92

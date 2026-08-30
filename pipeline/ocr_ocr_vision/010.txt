@@ -1,0 +1,31 @@
+• AI är en teknik som rör sig fort och påverkar
+många saker. För att människor och organisationer
+ska lära sig om AI snabbt är det viktigt att utforska,
+experimentera och våga ta risker. Så länge man har
+koll på de allvarligaste misstagen är riskerna med
+fritt utforskande mindre än riskerna med långsamt
+lärande. (Läs mer i kapitlet *Börja använda AI*.)
+• Den verkliga nyttan med språkmodeller kommer
+från att koppla ihop dem med andra datorprogram,
+vilket möjliggör automatisering och skapande av
+avancerade AI-system. (Läs mer i kapitlet *Ordets
+makt*.)
+• Ett viktigt område där stora framsteg sker just nu
+är att använda AI för strukturerade resonemang
+och logiskt tänkande. Om det lyckas kommer det
+bli möjligt att använda AI för mer omfattande och
+komplexa uppgifter. (Läs mer i kapitlet *Slumpstyrda
+papegojor eller tänkare?*)
+• AI-utvecklingen går i närmast obegriplig takt. I
+snitt blir AI tio gånger starkare per år. Det finns
+hinder på vägen, men hittills har de övervunnits.
+En av de viktigaste frågorna är hur länge utveck-
+lingen fortsätter i den här höga takten. (Läs mer i
+kapitlet *Hur fort går det?*)
+• USA och Kina är, i den ordningen, de viktigaste
+länderna inom AI. De mest inflytelserika bolagen
+är OpenAI, Anthropic, Google/Alphabet och
+Facebook/Meta. EU spelar framför allt en roll som
+potentiell förebild för reglering av AI, och Sveriges
+
+9

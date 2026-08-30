@@ -1,0 +1,66 @@
+CORE
+ULTRA 5
+
+Att ge utrymme för misstag skapar trygghet i ut-
+forskandet, vilket är viktigt för lärandet. Den som är
+orolig för att göra fel har svårt att ta till sig nya saker,
+vilket är en viktig lärdom både för individer och orga-
+nisationer.
+Däremot vill man varken som person eller orga-
+nisation råka ut för riktigt stora misstag, som blir för
+kostsamma eller smärtsamma. Därför är det värdefullt
+att försöka identifiera de största riskerna i förväg, för att
+göra det lättare att undvika dem, öka tryggheten och ge
+bättre möjligheter att lära sig.
+Vilka de största riskerna är beror på vem du är och
+hur du tänker använda AI, men fyra områden värda att
+känna till beskrivs nedan.
+
+Se upp för faktafel i fina formuleringar
+De språkmodeller som driver chattbottar är som sagt
+byggda för att sätta ord efter varandra på ett sätt som
+följer mönster i text på nätet (eller eventuellt andra tex-
+ter som modellen tränats på). När de uttalar sig om
+Harry Potter-världen, spaghetti carbonara eller annat
+som det finns gott om i träningsdatan stämmer bud-
+skapen för det allra mesta med verkligheten. Men om
+du frågar om mindre kända ämnen, som samisk slöjd-
+kultur eller innehållet i den här boken, är det troligt att
+svaren inte stämmer. Och här kommer det svåra: språk-
+modellen ger ett välskrivet svar även när den har fel.
+
+30
+
+Här ko
+
+Kan du ge mig för
+mer om samisk slöjdkult
+
+Självklart! Här är några
+fokuserar på samisk slö
+1. "Samisk slöjd: Tradi
+Inga-Maria Nordin -
+i både traditionella
+samisk slöjd, med e
+material.
+2. "Sápmi – Samernas
+keapää – Även om
+om slöjd, innehåller
+kultur och tradition
+3. "Saami Handicrafts
+ople" av Anne-Mar
+ger en historisk öve
+och dess betydelse
+4. "Slöjd i Sápmi: En l
+hantverk" av Karin
+fokuserar på olika
+kulturella betydelse
+5. "Samisk tradition o
+Wallin – Boken utf
+hantverk, inklusive
+tioner fortsätter att
+
+Dessa böcker ger en br
+misk slöjdkultur och de
+
+(GPT-4o-mini, septemb

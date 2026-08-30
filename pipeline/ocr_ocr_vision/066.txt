@@ -1,0 +1,30 @@
+skapsprofiler: även om GPT-4 får höga betyg på ett ex-
+amensprov för läkare kan den inte känna på en svullen
+arm eller ge en spruta. Men om utvecklingen fortsätter
+i samma takt skulle det enligt den här skalan betyda att
+språkmodeller runt 2026 ligger på forskarnivå i många
+av sina förmågor, och 2030 presterar som en erfaren
+forskare.
+
+Planeringshorisont som skala
+Ett annat sätt att försöka mäta de förmågor som språk-
+modeller har är att titta på hur omfattande uppgifter de
+kan hantera, mätt i hur lång tid det tar för en människa
+att genomföra dem. Ju längre planeringshorisont som
+krävs, desto mer kompetens krävs för att genomföra
+den.
+    En mycket grov uppskattning skulle i så fall kunna
+se ut så här:
+
+• 2019: Femton sekunder. Den bästa språkmodellen
+  (GPT-2) kan hålla ordning på ett par meningar,
+  men i normalfallet inte mycket lägre än så. Att
+  skriva det tar kanske femton sekunder.
+• 2020–2022: En kvart. De bästa språkmodellerna
+  (GPT-3 och GPT-3.5) kan skriva uppsatser på en
+  halv sida med hög trovärdighet, men längre texter
+  upplevs urvattnade eller märkliga. För någon som
+  är kunnig i ämnet skulle det kunna motsvara en
+  kvarts skrivande.
+
+68

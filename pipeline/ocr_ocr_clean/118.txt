@@ -1,0 +1,2 @@
+• Tidiga experiment. Eldsjälar på resebyråer upptäcker att språkmodeller kan ge meningsfulla förslag på resmål och reseupplägg. Metoderna sprids bland entusiaster, men det är arbetskrävande att få bra resultat eftersom AI-svaren måste kontrolleras mot aktuella priser och tillgänglighet.
+• Tidiga verktyg. Det kommer system där AI integreras med bokningssystem, men hjälpen är begränsad eftersom AI:n är förhållandevis klumpig och missar resenärers preferenser eller

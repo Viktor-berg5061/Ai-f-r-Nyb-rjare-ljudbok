@@ -1,0 +1,31 @@
+lerna överträffar de specialtränade, men de är samtidigt
+dyrare i drift och svårare att kontrollera. När de special-
+tränade modellerna blivit tillräckligt bra är det möjligt
+att fördelarna med mer behändiga modeller vinner över
+nackdelarna – eller så ger de generella modellerna så-
+dana skalfördelar att det är billigare att erbjuda en stor
+modell till en miljon användare än tusen olika modeller
+till tusen personer var.
+
+Öppna och slutna modeller
+
+En annan dragkamp inom AI-världen står mellan vad
+som kallas för öppna och slutna modeller. Öppna mo-
+deller är AI-modeller som man kan ladda hem, köra på
+egna datorer, och även göra förändringar i.²⁰ Det står i
+kontrast till de slutna modellerna, som bara finns hos
+AI-bolagen själva och nås över internet.
+    Styrkor med de öppna modellerna är att de motver-
+kar delar av den maktkoncentration som AI kan leda
+till, de tillåter mycket starkare dataintegritet, och de sti-
+mulerar också innovation och nya typer av AI-tjänster.
+Tyvärr kan de öppna modellerna också användas för
+olagliga eller oetiska uppgifter utan någon som helst
+insyn, vilket inte är möjligt med de slutna modellerna.
+
+20. Ofta benämns det slarvigt eller medvetet som "open source", vilket egentligen
+kräver mycket mer transparens och öppna användarvillkor än de allra flesta
+öppna AI-modeller har. Ett bättre namn vore förmodligen "nedladdningsbara"
+AI-modeller.
+
+82

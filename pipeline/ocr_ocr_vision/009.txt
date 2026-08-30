@@ -1,0 +1,31 @@
+väg, och vilka krafter det är som styr. Den tredje delen
+beskriver vad AI kan ha för inverkan på vårt samhäl-
+le. Boken avslutas med en ordlista, som förtydligar en
+del ord som används i boken och även tar upp en del
+ord som inte finns i boken men förekommer i andra
+AI-sammanhang.
+    Den som har ont om tid, eller redan har rätt myck-
+et erfarenhet av AI, kan använda den här sammanfatt-
+ningen för att få det viktigaste från olika kapitel i boken
+– och se var man vill läsa närmare.
+
+•  Det går inte att förstå modern AI utan att själv an-
+vända den. Det är dessutom stor skillnad på ny och
+gammal teknik. Om du inte använt en chattbot det
+senaste halvåret ska du göra det direkt. (Läs mer
+om hur i kapitlet *Börja använda AI*.)
+•  Bred AI är maskiner som beter sig som att de kan
+tänka, det vill säga hanterar språk. Det gör att de
+är mångsidiga, till skillnad från smal AI som bara
+hanterar en eller några utvalda uppgifter. Den här
+boken handlar primärt om bred AI, som chattbot-
+tar och andra språkbaserade AI-tjänster. (Läs mer i
+kapitlet *Vad är artificiell intelligens?*)
+•  Chattbottar drivs av stora språkmodeller. De är
+datorprogram skapade av datorer, som följer enkla
+priciper men är ofantligt stora. Vi förstår bara små
+delar av hur de fungerar, och kan inte förutsäga hur
+de beter sig i nya situationer. (Läs mer i kapitlet
+*Hur fungerar AI?*)
+
+8

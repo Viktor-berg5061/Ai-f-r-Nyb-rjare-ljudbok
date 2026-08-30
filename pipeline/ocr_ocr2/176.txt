@@ -1,0 +1,105 @@
+AAA RR RR sr PR
+" (
+
+-—
+På -
+
+är mer
+ten att det I längden är
+va hitta sätt att lösa pro-
+hur de ska göfar
+de förmågor Som upp-
+storlek eller kom-
+
+Den bittra lärdomen - Insik
+effektivt att låta datorer själ
+blem, än att för hand ange
+
+Emergenta förmågor — Ovänta
+står i Al-system när de når en viss nats
+plexitet, utan att de uttryckligen
+
+An
+
+förmågor.
+Fine tuning — Processen att vidareutveckla en redan
+
+tränad AI-modell för specifik ; ;
+ringar i beteende, så som att införa spärrar för hur
+
+DE | - . en AI-modell kan användas.
+
+FLOP (floating point operation) —
+matematisk beräkning i en dator. Antalet FLOP:s
+
+per sekund används ofta för att ange beräkningskraft,
+
+GPU (graphics processing unit) — En typ av processor
+
+som är särskilt bra på att utföra många beräkningar
+
+parallellt, vilket gör den idealisk för att träna och
+använda AI-modeller.
+
+Grokking — När en AI-modell plötsligt går från att bara
+
+memorera svar till att verkligen förstå den under-
+
+RR
+
+En grundläggande
+
+rt
+
+i . |
+Me Orr
+
+SSE SN
+: liggande principen för en uppgift, ofta efter omfat-
+tande träning.
+Hallucination (inom Al) — När AI genererar innehåll
+som låter trovärdigt men är felaktigt eller påhittat.
+Hyfsträning/RLHF (reinforcement learning with human
+feedback) — Processen att vidareutveckla en redan
+tränad AI-modell för att förbättra dess uppförande.
+Inferens — När en tränad AI-modell används för att
+
+göra förutsägelser eller generera innehåll. Till skill-
+
+178
+
+a uppgifter eller juste- '
+
+nad från
+räknings
+enklare C
+Instrumente
+utveckl”
+
+liga;
+
+skapsniv
+Maskininlär
+
+uppgifte
+stället fö
+
+Mechanistic
+NinNgsorr
+fungerar
+nätverk
+
+Moloch — E
+dividuel
+tiva resu
+
+Multimodal
+typer av
+video.
+
+Neurala nät
+
+hur hjär
+der) är «
+beta inf,
+

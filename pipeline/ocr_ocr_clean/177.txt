@@ -1,0 +1,31 @@
+nad från träning, som kräver enorma mängder be-
+räkningskraft, kan inferens ofta göras på betydligt
+enklare datorer.
+Instrumentella mål (inom AI) – Delmål som en AI kan
+utveckla för att bättre kunna uppnå sitt huvudsak-
+liga mål, som att skaffa mer resurser eller skydda sig
+själv från avstängning.
+Jailbreak – Metoder för att kringgå de säkerhetsmässiga
+och etiska spärrar som byggts in i AI-system.
+Lärbot – En AI-assistent specialiserad på utbildning
+som kan anpassa sig till individuella elevers kun-
+skapsnivå, behov och preferenser.
+Maskininlärning – Att låta datorer lära sig att utföra
+uppgifter genom att analysera stora mängder data, i
+stället för att följa förutbestämda regler.
+Mechanistic interpretability (mechinterp) – Forsk-
+ningsområde som försöker förstå hur AI-modeller
+fungerar internt genom att analysera deras neurala
+nätverk och beslutsprocesser.
+Moloch – Ett begrepp som beskriver situationer där in-
+dividuellt rationella beslut leder till kollektivt nega-
+tiva resultat.
+Multimodal AI – AI-system som kan hantera flera olika
+typer av data samtidigt, som text, bilder, ljud och
+video.
+Neurala nätverk – En typ av AI-struktur inspirerad av
+hur hjärnan fungerar, där artificiella nervceller (no-
+der) är sammankopplade i olika lager för att bear-
+beta information.
+
+179

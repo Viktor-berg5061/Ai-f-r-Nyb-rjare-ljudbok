@@ -1,0 +1,30 @@
+enda leverantör, nämligen det nederländska Advanced
+Semiconductor Materials Lithography (ASML).
+Den långa och smala flaskhalsen har gjort att AI-bo-
+lag stått i kö för att köpa de bästa chippen, men också
+att flera bolag satsat på att producera egna chip.
+Till slut bör det också sägas att det är ett omfattande
+arbete att bygga datacenter, vilket är en av anledningar-
+na till att det dröjer 1,5–2 år mellan nya generationer
+av AI. Det största datacentret hösten 2024 består av
+100 000 sammanlänkade datorenheter. Bara att koppla
+sladdar till dem är ett enormt arbete – och att felsöka
+är ett ännu större.
+Behovet av beräkningskraft kommer främst från att
+träna nya AI-modeller, medan det är mycket mindre
+resurskrävande att använda de färdiga modellerna. Om
+det saknas beräkningskraft för att använda chattbottar
+eller annan AI kan det utökas efter hand, medan brist på
+beräkningskraft för att träna AI-modeller betyder att det
+dröjer längre innan de kan börja användas alls. För att
+komma runt flaskhalsen med datorchip experimenterar
+AI-bolag med metoder för att få ut mer från AI-mo-
+deller genom att få dem att "tänka längre" medan de
+används. Den nya o1-modellen är ett exempel på detta.
+
+Energi
+För enskilda datorer är det inga problem att sätta ström-
+sladden i väggen och köra. Men även om du inte har
+några andra apparater i ditt hem i gång är det vanskligt
+
+73

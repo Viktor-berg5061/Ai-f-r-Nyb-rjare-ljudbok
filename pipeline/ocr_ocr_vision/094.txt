@@ -1,0 +1,22 @@
+innehåll ska märkas upp och att det ska finnas övervak-
+ning av hur AI används för anställningsbeslut.
+    Kina var tidigt ute med AI-lagstiftning, och har till
+exempel regler som säger att det måste markeras när
+innehåll är AI-skapat. Det finns också regler som be-
+gränsar hur privata företag (men inte myndigheter) får
+använda persondata.
+    När det gäller frågor om AI och upphovsrätt varierar
+lagstiftningen mellan länder. I EU behövs normalt till-
+stånd för att träna AI-modeller på upphovsrättsskyddat
+material, medan exempelvis Japan, Israel och Singapore
+beslutat att sådana tillstånd inte behövs. I USA väntas
+utdragna rättsprocesser för att ge svar på frågan.
+    Under 2023 fanns argument för att det bästa sättet
+att reglera AI var genom frivilliga överenskommelser
+och åtaganden från AI-bolagen. Efter turbulensen på
+OpenAI under senhösten 2023 finns det få som säger
+att självreglering är en hållbar väg. Snarare är det tydligt
+att lagstiftning behövs, och att det finns anledning att
+den är så multinationell som möjligt.
+
+96

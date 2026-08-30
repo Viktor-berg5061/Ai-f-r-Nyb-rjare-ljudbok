@@ -1,0 +1,60 @@
+| hypo-
+
+Var att
+
+Suppi
+hesis”,
+
+att de
+t lösa
+något
+Dotter
+fors-
+; för
+dan
+
+nd-
+
+läggande saker i Al:n för att den ska bli Intelligent på
+riktigt:
+I del 1 beskrivs den bittra lärdomen: att det år ba
+re att använda mycket datorkraft och låta datorer själv
+hitta sätt att lösa problem, än att skriva avancerade ro
+am som berättar hur problemen ska lösas. Uppskal.
+ningshypotesen är en satsning på att den bittra lärdo-
+men gäller även för att skapa maskiner som kan tänka:
+att vi inte behöver säga åt dem hur tänkande fungerar,
+utan bara ge dem allt fler exempel på tänkande och allt
+mer datorkraft för att bearbeta exemplen.
+
+Att AI blir bättre ju större den blir kan tyckas själv-
+klart, Men det går emot en annan princip som gäller i
+många sammanhang — den om avtagande avkastning.
+Avtagande avkastning är så vanligt att man till och med
+pratar om lagen om avtagande avkastning. Den säger
+u efter ett tag får ut mindre och mindre av resurser
+
+att d
+du spenderar på ett område. Den förklarar också varför
+
+det kan ta lika mycket resurser att gå från 80 till 90 pro-
+cent kvalitet som att gå från 0 till 80. Så har det dock
+inte fungerat med AT-utvecklingen de senaste åren.
+
+År 2019 kunde de bästa språkmodellerna bygga
+
+meningar som ofta var sammanhängande och följde
+språkregler. Med dagens mått verkar det futtigt, men
+då var det tillräckligt imponerande för att skapa nyhe-
+
+ter om risken för vilseledande information i etablerad
+
+världsmedia.!?
+
+15. Se exempelvis https://www.theguardian.com/ technology/2019!febl l4lelon-
+
+musk-backed-ai-writes-convincing-news-fiction
+
+63
+
+I

@@ -1,0 +1,33 @@
+ra. Till att börja med delar AI-bolagen inte med sig av
+särskilt mycket information om energibehov vare sig
+för att skapa eller använda AI-modeller. Till det kom-
+mer att AI-modeller som är ungefär lika stora ändå
+kan kräva olika mycket energi att använda, beroende
+på hur datacentren är byggda. Eftersom elektricitet är
+en stor del av miljöpåverkan spelar det också stor roll
+hur elen produceras, vilket varierar över världen. Till
+slut finns också en inverkan från behov av rent vatten,
+vilket är en bristvara på vissa ställen men förhållande-
+vis oproblematiskt på andra. Ovanpå det finns de mer
+vanliga svårigheterna med att dra gränser för vad som
+ska räknas in i miljöpåverkan, när det gäller saker som
+brytning av metaller, betong för att bygga datacenter,
+med mera.
+
+En av de mer detaljerade studierna på miljöpåver-
+kan från AI är från 2022, på en AI-modell som heter
+Bloom.¹⁸ Den är större än en del språkmodeller som
+används idag, men mindre än de allra största, vilket gör
+att den fortfarande kan vara relevant. Studien rör fram-
+för allt klimatavtryck, och utgår från en typisk elmix i
+USA. Resultaten kan sammanfattas så här:
+
+• Att träna AI-modellen gav ett klimatavtryck
+motsvarande 50 ton koldioxid, vilket kan jämföras
+med att flyga runt jorden fem gånger. 50 procent
+av klimatpåverkan var från ström till datorer, 30
+procent för kringutrustning och 20 procent för att
+
+18. Se https://arxiv.org/abs/2211.02001
+
+76

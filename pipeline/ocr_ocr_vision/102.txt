@@ -1,0 +1,32 @@
+ende sätt,²⁴ och kan även vara bättre än människor på
+att påverka beteenden.²⁵
+Det finns inga rapporter om skogsrån på nätet, utan
+tas upp här som en potentiell framtida AI-effekt på in-
+formationslandskapet. Det förefaller osannolikt att de
+som driver trollfabriker inte har tänkt på skogsrån som
+koncept. Att de inte rapporterats om några kan bero på
+att tekniken än så länge är för dålig eller för dyr, eller att
+skogsråna är för bra på att gömma sig. Att trollfabriker
+och åsiktspåverkan börjat automatiseras råder det dock
+inte några tvivel om, vilket bland annat bekräftades
+hösten 2023 när ett verktyg för att mass-skapa konton
+på sociala medier avslöjades.²⁶
+
+Går det att hindra olaglig AI-användning?
+
+Nästan alla stora AI-modeller har spärrar som gör att
+de till exempel inte ska sprida hatbudskap, medverka i
+bedrägerier, eller göra andra olämpliga saker. Påhittiga
+människor hittar regelbundet så kallade jailbreaks för
+att gå runt de spärrarna, varpå AI-bolagen försöker täp-
+pa igen säkerhetshålen.
+För den som vill använda AI för exempelvis åsikts-
+påverkan går det alltså att använda ChatGPT och
+andra etablerade tjänster, så länge man är beredd att
+hitta nya jailbreaks med jämna mellanrum. Däremot
+
+24. Se https://www.science.org/doi/10.1126/science.adq1814
+25. Se https://arxiv.org/abs/2403.14380
+26. Se https://therecord.media/russian-hacking-tool-creates-bots
+
+104

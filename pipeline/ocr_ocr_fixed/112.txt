@@ -1,0 +1,15 @@
+ChatGPT är den snabbast växande nätjänsten hittills, med en miljon användare efter bara fem dagar och hundra miljoner användare efter två månader.³⁶ Det är förvånansvärt glest mellan undersökningar om hur många som använder modern AI (mestadels chattbotar), och med tanke på att ChatGPT i skrivande stund är två år gammal kan ett halvår spela stor roll för hur många som använder AI. Det är också svårt att dra säkra slutsatser om trender när undersökningar använder delvis olika frågor och olika målgrupper.
+
+En bred undersökning från Internetstiftelsen visar att 34 procent av svenskarna i augusti 2024 hade använt AI det senaste året,³⁷ vilket bara är marginellt mer än 29 procent från året innan.³⁸ Det finns dock anledning att tro att användningen varierar stort mellan olika grupper: en undersökning från Sveriges Lärare i februari 2024 visade att drygt hälften av lärarna använt AI på något vis i sitt arbete.³⁹ Att en tredjedel av svenskarna använt AI kan jämföras med Danmark, där ungefär var fjärde person använder AI (rapport från maj 2024)⁴⁰, och USA, där omkring 60 procent av anställda säger att de använder chattbotar (november 2024)⁴¹.
+
+36. Se https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/
+
+37. Se https://svenskarnaochinternet.se/utvalt/svenskarna-och-ai-2024/
+
+38. Se https://svenskarnaochinternet.se/utvalt/svenskarna-och-ai/
+
+39. Se https://www.sverigeslarare.se/om-oss/nyheter/rapport-lararledd-digitalisering/
+
+40. Se https://www2.deloitte.com/content/dam/Deloitte/dk/Documents/sgn/SGN14_UK.pdf
+
+41. Se https://www.glassdoor.com/blog/conversation-starter-chatgpt-usage-in-the-workplace-more-than-doubles-year-over-year/

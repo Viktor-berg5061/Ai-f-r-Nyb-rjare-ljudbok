@@ -1,0 +1,78 @@
+Forskning På Al-säkerhet de har kapa
+Forskningen som visade att språkmode Lefull a planer
+citet att vilseleda var inte en del 1 OM försök att för-
+för att ta över världen, utan tvärtom Ce och försöka
+
+stå hur Al kan spåra ur och orsaka skadas
+
+minska de riskerna. in ha det långa
+En gren av Al-säkerhetsforskn Ber det kortare
+
+namnet mechanistic interpretability år ut på att förstå
+
+”mechinterp”. Det är forskning som & ul exempel för
+inre mekanismerna i AI-modeller, ti - på
+
+de inre gerar i nya situationer,
+
+. ec h r AlI:n a
+att kunna förutsäga hu a unna upptäcka saker
+
+En annan förhoppning är att <!
+som lögner, inställsamhet och vilseledande beteende,
+
+och antingen göra AlI:n oförmögen till sådant beteende
+
+eller åtminstone ge varningar till användaren.
+Mechanistic interpretability hår haft en del fram-
+bland annat med sådan kartläggning av be-
+
+gångar,
+grepp i AI-modeller som beskrivs i slutet av del 1 av
+boken. Ett nytt spår är att bygga AI-modeller som inte
+bara tränas på sitt vanliga mål, som att sätta ord efter
+vårandra, utan också på att förutsäga sitt interna till-
+stånd. Resultatet ger AI som fungerar i princip lika bra,
+men där det artificiella neruala nätverket har tydligare
+strukturer som är lättare att förstå.??
+En annan del av AT-säkerhetsforskning är inriktad på
+
+att på ett tillförlitligt sätt kunna begränsa Al:s villighet
+att orsaka skada på ett eller annat vis. Som nämnts le-
+
+85. Se https://arxiv.org/abs/2407.10188
+
+
+med A
+tas bor
+spärrar
+då den
+
+Tt
+
+om av
+
+dra f
+
+och
+
+
+MN
+mycke
+par ce
+
+skattr
+
+accele
+
+Al:s
+
+Om
+stäm.
+kraft
+blem
+göra
+beta
+
+
+Other.

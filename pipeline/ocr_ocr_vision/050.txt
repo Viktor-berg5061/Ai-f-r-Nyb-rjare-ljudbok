@@ -1,0 +1,22 @@
+Slumpstyrda
+papegojor eller
+tänkare?
+
+Språkmodeller kallas ibland för "slumpstyrda pape-
+gojor"⁸ eller "autokorrekt på steroider" för att betona
+att de inte kan tänka, utan bara staplar ord enligt sta-
+tistiska mönster.
+    Men frågan måste ställas: Kan AI tänka på riktigt?
+Svaret är nej. Så gott som alla experter är ense om att
+den AI vi har idag inte kan tänka – inte på riktigt.
+Däremot är experterna oense om huruvida det finns
+spår av riktigt tänkande i dagens AI-modeller, och även
+om vad de tror om den fortsatta AI-utvecklingen.
+    För att förstå frågan bättre behöver vi dyka lite läng-
+re ner i AI-havet.
+
+8. Egentligen "stochastic parrots", från artikeln On the Dangers of Stochastic
+Parrots: Can Language Models Be Too Big? (2021) av Emily Bender med flera
+(https://dl.acm.org/doi/10.1145/3442188.3445922).
+
+51

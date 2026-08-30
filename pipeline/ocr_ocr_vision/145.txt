@@ -1,0 +1,13 @@
+måga att genomföra cyberangrepp, hjälpa till att skapa kemiska, biologiska, radioaktiva eller nukleära vapen, att övertala människor, och att skapa kopior av sig själva.
+
+AI-bolagens tester utförs ofta av både intern personal och externa specialister. Men även veckor eller ibland månader av sådant arbete kan inte upptäcka allt som språkmodeller är kapabla att göra. Till exempel dröjde det tre månader efter lanseringen av GPT-4 innan det blev känt att den i viss mån hade kemikunskaper på forskarnivå,⁶⁵ och förmågan att använda GPT-4 för cyberangrepp som beskrevs i föregående kapitel upptäcktes ett helt år efter lanseringen.
+
+Dagens AI-modeller har av allt att döma inte kapacitet att orsaka riktigt stora skador, exempelvis genom att hjälpa lekmän att skapa biologiska vapen,⁶⁶ men det är svårt att göra sådana utvärderingar på ett tillförlitligt sätt och närmast omöjligt att göra det utan att först låta miljoner människor utforska modellen. Med allt kraftfullare AI måste vi räkna med att tekniken förr eller senare kan användas för att orsaka katastrofala skador. Tidigare attentat, som när den japanska domedagskulten Aum Shinrikyo släppte ut saringas i tunnelbanan⁶⁷ eller när Unabombaren Theodore Kaczynski bedrev en bomb-
+
+---
+
+65. Se https://chemrxiv.org/engage/chemrxiv/article-details/647d305dbe16ad-5c577b6627
+66. Se https://openai.com/index/building-an-early-warning-system-for-llm-aided-biological-threat-creation/
+67. Se https://en.wikipedia.org/wiki/Tokyo_subway_sarin_attack
+
+147

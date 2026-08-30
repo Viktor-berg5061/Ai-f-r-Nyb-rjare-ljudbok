@@ -1,0 +1,13 @@
+Hur fungerar AI?
+
+Den bittra lärdomen
+
+En av de viktigaste slutsatserna inom AI-utveckling har fått namnet *den bittra lärdomen*². Sammanfattningsvis innebär den bittra lärdomen att det i längden är mer effektivt att låta datorer själva hitta sätt att lösa problem, än att programmera dem att följa mänskliga metoder.
+
+Ta problemet med att få datorer att kunna läsa handskrivna siffror, till exempel. Datorer som kan läsa siffror är användbara för postsortering, och om de också kan läsa bokstäver är de ännu mer användbara.
+
+I bilden på nästa sida finns ett antal olika varianter av siffrorna noll till nio. Hur ska man bära sig åt för att få en dator att kunna känna igen och särskilja de olika siffrorna? Fundera en stund. Om du tänker i termer av att analysera antalet raka streck, böjda linjer, slutna
+
+2. Egentligen "The Bitter Lesson" – se incompleteideas.net/IncIdeas/BitterLesson.html för källan.
+
+20

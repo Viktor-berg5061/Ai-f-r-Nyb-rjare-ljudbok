@@ -1,0 +1,30 @@
+• Skriv som du skulle göra till en människa. Det
+behövs inga speciella fraser eller ord.
+• Beskriv uppgiften eller din fråga på ett klart och
+tydligt sätt.
+• Chattbotten vet inget om sammanhanget om du
+inte berättar för den. Det går att göra direkt i den
+första prompten, genom att be den ställa frågor till
+dig, eller genom att själv följa upp med mer infor-
+mation efter hand om det visar sig behövas.
+• Fortsätt konversationen med chattbotten för att
+styra den mer mot ett resultat som du gillar. Be
+den korta ner eller förenkla svaret, ge den mer
+bakgrundsinformation, eller be om ytterligare tjugo
+exempel om de första inte räckte.
+
+Mer tips om promptning
+Två tekniker med bra stöd i forskning är dessa:
+
+• Ge exempel. Om du ger chattbotten goda exempel
+att utgå från har den lättare att skapa svar som
+följer samma stil.
+• Be den tänka igenom steg för steg. Om du ger
+chattbotten en svår uppgift lyckas den oftare om
+du ber den att tänka igenom problemet steg för
+steg innan den svarar.
+
+Den som använder chattbottar regelbundet upptäcker
+också att det är praktiskt att få svar i särskilda format.
+
+38

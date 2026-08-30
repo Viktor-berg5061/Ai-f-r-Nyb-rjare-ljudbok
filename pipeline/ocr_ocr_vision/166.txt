@@ -1,0 +1,31 @@
+Inom AI-säkerhet används begreppet *alignment* för
+att beskriva frågor som handlar att se till att AI har mål
+och därmed värderingar som ligger i linje med de som
+vi människor har. För schackdatorer, chattbottar som
+tappar tråden efter en halv sida text, och språkmodeller
+klassade som ”inte helt inkompetenta doktorander” är
+det inte livsavgörande vilka mål de har – om de inte
+fungerar som vi vill justerar vi dem eller byter ut dem.
+För en AI med övermänsklig intelligens kan det däre-
+mot vara just livsavgörande.
+    En superintelligent AI kommer nämligen att vara
+övermänskligt skicklig på att nå sitt mål. Nästan oav-
+sett vilket mål vi ger en sådan AI kommer den att sätta
+upp ett antal så kallade instrumentella mål, som inte
+är värdefulla i sig men som ökar chanserna att nå det
+egentliga målet. Ett instrumentellt mål är att säkra sin
+egen existens. Ett annat är att säkra resurser som är an-
+vändbara för att nå det egentliga målet. En AI som för-
+söker hindra människor från att stänga av den låter som
+en science fiction-novell, men forskning publicerad i
+december 2024 visar exempel på just sådant beteen-
+de. En språkmodell som i grunden tränats till att vara
+hjälpsam, harmlös och ärlig, valde att svara fel på ett
+antal frågor eftersom den fått reda på att den annars
+skulle begränsas. AI:ns interna resonemang var att den
+ville vara så användbar som möjligt, och alltså skulle
+undvika att bli begränsad.⁸⁸
+
+88. https://www.apolloresearch.ai/research/scheming-reasoning-evaluations
+
+168

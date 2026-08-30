@@ -1,0 +1,31 @@
+Open source/öppen källkod – AI-modeller eller pro-
+gramvara vars källkod är öppet tillgänglig för all-
+mänheten att granska, använda och modifiera. För
+AI-modeller betyder det bland annat att de kan lad-
+das ner och köras lokalt, till skillnad från de model-
+ler som bara kan användas via internet.
+Prompt – Den instruktion eller fråga som ges till ett
+AI-system för att få önskade resultat.
+Skogsrå (i AI-kontext) – AI-drivna profiler på sociala
+medier som bygger förtroende över tid med det
+dolda målet att påverka människors åsikter eller be-
+teenden.
+Smal AI – AI som är specialiserad på att utföra en eller
+ett fåtal specifika uppgifter, så som schackdatorer
+eller system för att känna igen cancer i röntgenbil-
+der.
+Stor språkmodell – En AI-modell tränad på enorma
+mängder text för att förstå och generera mänskligt
+språk. Dessa modeller driver moderna chattbottar
+och många andra AI-tjänster.
+Syntetisk data – Artificiellt genererad data som an-
+vänds för att träna AI-modeller.
+TPU (tensor processing unit) – En specialiserad proces-
+sor utvecklad specifikt för AI-beräkningar. De är
+ofta effektivare än GPU:er för vissa typer av AI-ar-
+bete.
+Transformer-arkitektur – En revolutionerande design
+för AI-modeller som gjorde det möjligt att dela trä-
+ning över många datorer. Arkitekturen ligger till
+
+180

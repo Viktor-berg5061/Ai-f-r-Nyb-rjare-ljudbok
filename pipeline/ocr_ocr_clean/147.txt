@@ -1,0 +1,11 @@
+En betydande del av dessa är varianter av vanliga kommersiella drönare, som utrustas med en sprängladdning och fjärrstyrs av soldater. För att de ska kunna fungera även när störsändare slår ut både GPS och fjärrstyrning har drönarna fått AI som själva kan välja ut mål och attackera dem.
+
+Vid första anblicken verkar det vansinnigt att använda AI för att fatta direkta beslut om dödligt våld. Vi skulle inte lita blint på AI när det gäller beslut om rekryteringar, juridiska domar eller ens prissättning på livsmedel. Varför skulle vi lita på AI när det gäller beslut om liv och död?
+
+Svaret är lika kraftfullt som det är mörkt. När insatserna blir tillräckligt stora drivs vi till att ta risker för att slippa förlora. Det leder inte sällan till lägen där alla blir mer utsatta, men ingen kan bryta mönstret utan stora kostnader för en själv. Klimatfrågan är en sådan: Om alla genomför stora åtgärder för att sänka utsläpp skulle alla få det bättre, men om bara några få agerar blir enda effekten att de får det sämre. Det går att modellera sådana situationer med så kallad spelteori. Situationer där de individuellt rationella besluten leder till att alla förlorar kallas ibland för Moloch-situationer, efter en demon i moseböckerna.
+
+Ett annat exempel på AI inom krigsföring är AI-kontrollerade stridsplan, som redan används och har visat sig vara överlägsna även erfarna piloter.⁷¹ Flera
+
+71. Se https://www.airforcetimes.com/news/your-air-force/2024/05/12/us-aims-to-stay-ahead-of-china-in-using-ai-to-fly-fighter-jets/
+
+149

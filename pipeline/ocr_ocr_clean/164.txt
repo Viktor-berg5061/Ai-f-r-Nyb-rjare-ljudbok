@@ -1,0 +1,13 @@
+Forskning på AI-säkerhet
+
+Forskningen som visade att språkmodeller har kapacitet att vilseleda var inte en del i ondskefulla planer för att ta över världen, utan tvärtom ett försök att förstå hur AI kan spåra ur och orsaka skada, och försöka minska de riskerna.
+
+En gren av AI-säkerhetsforskning har det långa namnet mechanistic interpretability, eller det kortare "mechinterp". Det är forskning som går ut på att förstå de inre mekanismerna i AI-modeller, till exempel för att kunna förutsäga hur AI:n agerar i nya situationer. En annan förhoppning är att kunna upptäcka saker som lögner, inställsamhet och vilseledande beteende, och antingen göra AI:n oförmögen till sådant beteende eller åtminstone ge varningar till användaren.
+
+Mechanistic interpretability har haft en del framgångar, bland annat med sådan kartläggning av begrepp i AI-modeller som beskrivs i slutet av del 1 av boken. Ett nytt spår är att bygga AI-modeller som inte bara tränas på sitt vanliga mål, som att sätta ord efter varandra, utan också på att förutsäga sitt interna tillstånd. Resultatet ger AI som fungerar i princip lika bra, men där det artificiella neurala nätverket har tydligare strukturer som är lättare att förstå.⁸⁵
+
+En annan del av AI-säkerhetsforskning är inriktad på att på ett tillförlitligt sätt kunna begränsa AI:s villighet att orsaka skada på ett eller annat vis. Som nämnts fle-
+
+85. Se https://arxiv.org/abs/2407.10188
+
+166

@@ -1,0 +1,33 @@
+som tidigare krävt tunga beräkningar kan nu göras med
+en AI-modell på tio minuter och en vanlig dator – med
+bättre resultat.⁵⁶ Till och med i forskningsfält som ar-
+keologi är AI användbart. Ett exempel på det är den så
+kallade Vesuvius-utmaningen, där AI används för att ta
+fram text på förkolnade skriftrullar som röntgats.⁵⁷
+
+Något som kan accelerera forskning extra mycket är
+att automatisera hela eller delar av forskningsprocessen
+inom ett område. Det finns bland annat försök med att
+göra litteraturstudier och föreslå nya forskningfrågor⁵⁸
+och designa och genomföra experiment i simulering-
+ar.⁵⁹ Det blir också vanligare med forskningsverktyg
+som är enkla för AI att använda, från databaser med
+forskningsartiklar till kemilaboratorier som kan fjärr-
+styras.
+
+Forskning kan accelerera AI
+
+Det finns särskilt många tillämpningar av AI som riktar
+sig mot programmering och mjukvaruutveckling. Det
+är inte konstigt, eftersom AI-utvecklare själva är bekan-
+ta med området, vilket skapar snabba vägar från behov
+till användbara verktyg.
+Den korta tiden mellan idé och användning gör att
+mjukvaruutveckling, och därmed AI-utveckling, är ett
+
+56. Se https://www.science.org/stoken/author-tokens/ST-1550/full
+57. Se https://scrollprize.org/
+58. Se https://arxiv.org/pdf/2409.04109
+59. Se https://arxiv.org/pdf/2408.15512v1
+
+141

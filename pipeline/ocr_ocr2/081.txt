@@ -1,0 +1,56 @@
+samtidigt . | i ;
+de special. Nya paradigm för Al-modeller : i
+et möjligt 2017 uppfanns en algoritm för att träna språkmodel- : ;
+er Ior som kallas transformer-arkitektur. Den gjorde det
+” möjligt att dela upp träningen på flera datorer, vilket i |
+SS sin tur gjorde det praktiskt genomförbart att bygga de
+- stora modeller som vi ser idag, (T:et i GPT står för just
+cransformer.)
+en Transformer-arkitektur dras dock med skenande
+
+peräkningskostnader när språkmodellerna ska kunna
+överblicka långa texter, och i slutet av 2023 publicerad-
+
+4 en alternativ algoritm som inte har samma begräns-
+
+ova
+na mo. ning, Den så kallade mamba-arkitekturen kan i teorin
+köra på tillåta obegränsar långa texter (eller annan media), och
+et står i utforskas aktivt för olika användningsområden.
+ans hos Transformer-arkitekturen var ett avgörande genom-
+brott för AI. Det är mycket möjligt att fler arkitekturer
+HÖRA tr
+
+Ä
+
+Jr ev ever
+
+Jas för
+2 helst
+lerna.
+
+gentligen
+ta
+
+”
+bara
+
+dyker upp, som kan påverka Al-utvecklingen på radi-
+lala sätt. |
+
+Artificiell generell intelligens (AGI)
+
+Två av Al-jättarna, OpenAlI och Meta, har som uttalat
+
+mål att skapa något som kallas artificiell generell intel- |
+
+ligens (AGI). Definitionen på detta varierar, men inne- |
+
+bär i princip AI som klarar av så gott som allt tankear-
+bete som människor kan göra.
+
+Medan AGI är en fascinerande tanke börjar allt fler
+
+se problem med begreppet. Det finns redan nu gott om
+
+83

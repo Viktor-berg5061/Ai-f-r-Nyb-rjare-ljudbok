@@ -1,0 +1,13 @@
+början helt slumpvis. Ett annat datorprogram justerar hela tiden maskinens gissningar så att den blir lite bättre varje gång den gör fel.
+
+Du fnyser åt maskinen som gissar hej vilt. Ditt team har trots allt lagt tusentals timmar på att bygga ett datorprogram som läser siffror, och du vet hur svårt det är.
+
+Men redan efter en liten stund presterar gissningsmaskinen nästan lika bra som det program ni så mödosamt skapat. Efter ytterligare ett tag har den passerat de 98 procents träffsäkerhet som er maskin har, och träffsäkerheten går in i nittionio-komma-nånting.
+
+Gissningsmaskinen var snabbare och billigare att skapa än ert datorprogram, och presterar bättre. Inom kort kastar postkontoren ut era program och installerar gissningsmaskiner.
+
+Hur känns det för dig? Bittert. Och det är detta som är den bittra lärdomen. Om vi vill lösa svåra problem med datorer har den som själv försöker hitta regler för problemlösningen en förlorande hand. Den vinnande handen finns hos den som utnyttjar datorernas ständigt växande beräkningskraft.
+
+AI-modeller som gissar nästa ord
+
+Chattbottar drivs av något som kallas stora språkmodeller, och även om de skiljer sig mycket från maskinerna som läser siffror har de en viktig sak gemensamt: de är gissningsmaskiner. Principen bakom stora språkmodeller är nämligen att de skrivit, och gissar vilket ordet i svaret. Den lägger en del av ett ord, och tills den gissar att texten är klar.

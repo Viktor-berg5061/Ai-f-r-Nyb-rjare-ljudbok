@@ -1,0 +1,9 @@
+Det finns benchmarks för allt från översättning och att känna igen djur i bilder till att lösa matteproblem och ställa medicinska diagnoser. Många benchmarks är en blandning av olika typer av utmaningar, för att få en bild av AI:s kunskapsbredd.
+
+På senare år har det dykt upp ett problem för benchmarks: de blir uttjänta för snabbt. För 10–20 år sedan förbättrades resultat i en ganska långsam och därmed förutsägbar takt, medan benchmarks idag på bara ett par år kan gå från att vara alldeles för svåra till alldeles för lätta för AI. I stor utsträckning beror det på att språkmodeller utvecklas i sådan takt att det som är oöverstigligt för en AI idag kan vara enkelt för nästa generations modeller.
+
+När det gäller AI:s förmåga att resonera är två benchmarks särskilt intressanta. Det ena är skapat av Apple, och särskilt utformat för att testa hur AI:s resonemangsförmåga står emot ytliga förändringar i uppgifter – så som att ändra värden i matematikuppgifter eller lägga till irrelevant information i en fråga. Även ledande språkmodeller tappar tydligt i sina resultat, vilket är ett argument för att deras resonemangsförmåga är bräcklig. Också o1:s prestationer påverkas, men ofta bara marginellt och betydligt mindre än för andra modeller.14
+
+Det andra testet heter ARC, och är extra spännande eftersom det är enkelt för människor men svårt för AI. Det består av ett antal utmaningar där man ska hitta
+
+14. Se https://arxiv.org/pdf/2410.05229

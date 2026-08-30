@@ -1,0 +1,7 @@
+Några stora effekter vad gäller uppsägningar har inte märkts ännu, även om det finns tidiga tecken. I USA har det varit strejker bland både manusförfattare och hamnarbetare, som delvis har handlat om att AI och automatisering inte ska ta över jobb. Statistik från plattformar för frilansare säger att uppdrag som rör skrivande, kodande och bildskapande åtta månader efter att ChatGPT lanserades gått ner med omkring 20 procent.⁴² Det finns också en rad enskilda exempel på hur AI används i företag, så som när Klarna meddelade att AI sköter kundtjänst motsvarande 700 heltidstjänster⁴³ och när Amazon berättade att AI sparat dem 4500 år av utvecklingstid i arbetet med att uppgradera gammal kod.⁴⁴
+
+Det finns dock vissa skäl att tro att det är just ChatGPT och inte andra typer av modern AI – eller ens andra chattbottar – som fått riktigt stor spridning, både vad gäller arbetsmarknaden och samhället i stort. Det begränsar i så fall hur stora och snabba effekter AI får. Inte desto mindre: ChatGPT lanserades i slutet av 2022, vilket för många är startskottet för modern AI. Att chattbottar eller annan modern AI mindre än två år senare används av uppskattningsvis 25–50 procent av personer i tjänstemannayrken betyder att tekniken börjar användas mycket snabbt på arbetsplatser. Vi be-
+
+42. Se https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4602944
+43. Se https://www.klarna.com/international/press/klarna-ai-assistant-handles-two-thirds-of-customer-service-chats-in-its-first-month/
+44. Se https://x.com/ajassy/status/1826608791741493281

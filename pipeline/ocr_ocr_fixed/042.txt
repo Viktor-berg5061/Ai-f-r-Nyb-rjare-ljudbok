@@ -1,0 +1,17 @@
+Det finns många fler bildverktyg, och nya lanseras regelbundet. Sök gärna på nätet för att hitta fler alternativ.
+
+Skapa musik
+
+• Suno (suno.com) och Udio (udio.com): Beskriv i text vad du vill ha för musik, så får du låtar att lyssna på några sekunder senare.
+
+Skapa video
+
+• Kling (klingai.com), Pika (pika.art), Luma labs (lumalabs.ai), Runway (runwayml.com): Utgå från bilder eller beskrivningar i text för att skapa korta videoklipp.
+
+Tal till text
+
+• Whisper (github.com/openai/whisper): En AI-modell för att omvandla talat språk till text. Den går att ladda hem, men kräver en del tekniska kunskaper för att använda.
+
+Text till tal
+
+• Elevenlabs (elevenlabs.com): Den ledande tjänsten för att skapa talat språk från skriven text. Har även stöd för svenska.

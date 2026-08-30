@@ -1,0 +1,32 @@
+assistenten, och framför allt gör det att du kan bedöma
+hur resultatet blir.
+Alla tio timmar med AI behöver förstås inte ske på
+en gång, och inte ens under samma vecka. Men om det
+blir mindre än en timme i veckan kommer du förmod-
+ligen att hinna glömma bort saker nästan lika snabbt
+som du lär dig dem.
+
+Den nya AI-modellen o1 – en tänkarhatt?
+Den här boken skrivs strax efter att en ny generation av
+AI-modeller, kallade o1, lanserats. Vi vet ännu inte så
+mycket om vad o1⁴ klarar av, men hittills har den visat
+sig bättre än de flesta doktorander på faktafrågor inom
+fysik, biologi och kemi. Den har också lyckats bra på
+tävlingsproblem inom matematik och programmering,
+och klarat vissa intelligenstest på en nivå som hade kva-
+lificerat en människa för gå med i Mensa – en förening
+som är öppen för de två procent som presterar högst i
+intelligenstester.⁵ Terence Tao, en känd matematiker, la
+en del tid på att få o1 att skriva ett matematiskt bevis,
+och jämförde sedan modellen med en ”inte helt inkom-
+petent doktorand”.⁶
+Det är möjligt att den nya generationen av språk-
+modeller klarar av så pass många nya saker att vi bor-
+
+4. Det som beskrivs i den här boken är förhandsversionen av o1, kallad o1-pre-
+view, men för ökad läsbarhet skrivs bara o1 ut.
+5. Se https://www.metaculus.com/questions/3698/when-will-an-ai-achieve-a-
+98th-percentile-score-or-higher-in-a-mensa-admission-test/.
+6. Se https://mathstodon.xyz/@tao/113132503432772494
+
+40

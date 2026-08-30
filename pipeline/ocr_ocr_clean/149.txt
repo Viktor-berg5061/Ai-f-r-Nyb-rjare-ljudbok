@@ -1,0 +1,10 @@
+Övervakningssamhälle
+
+Inom EU finns lagar som förhindrar att använda AI för massövervakning eller för att manipulera beteenden och åsikter, men för en stat som inte drar sig för att övervaka alla delar av medborgarnas liv erbjuder AI stora möjligheter. I Kina finns idag ett system för poängsättning av medborgare. Saker som människors ekonomi, aktiviteter i sociala medier, personliga relationer och hur väl man följer lagar och regler samlas in i en databank,⁷³ och resultatet kan påverka möjligheter att få lån, åka utomlands, eller att bli antagen till utbildningar.
+
+I kombination med AI ger ett sådant poängsystem utmärkta möjligheter att skapa ett samhälle där det är mycket svårt att bryta mot normer eller ifrågasätta makten: Dels kan AI användas för att övervaka all den datan som samlas och hitta avvikelser, dels kan datan användas för att göra ännu starkare AI. Redan 2020 inledde Kina en satsning på en AI-modell för att analysera stora mängder data från olika källor, inklusive sociala medier och övervakningskameror, för att identifiera potentiella säkerhetshot och övervaka befolkningens beteenden.⁷⁴
+
+Ett annat problem som AI-utvecklingen medför är potential att identifiera människor som utgått från att de uttalat sig anonymt. När AI kan användas för att ta bort röstförvrängning eller känna igen mönster i skrift-
+
+73. Se https://hrone.com/blog/china-social-credit-system/
+74. Se https://github.com/BAAI-WuDao/Paper-Article

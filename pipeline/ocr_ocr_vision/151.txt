@@ -1,0 +1,23 @@
+Kultur och mänsklig
+identitet
+
+Likriktning eller stärkt gemensam världssyn?
+
+Att utveckla nya stora AI-modeller kräver enorma re-
+surser, vilket gör att bara en handfull aktörer kan göra
+det. I en värld där allt mer tankearbete sköts av ett fåtal
+språkmodeller från USA, och de används för allt från
+att analysera rapporter till att ge inspiration för matlag-
+ning, är det troligt att människor börjar tänka mer lika.
+
+AI rör sig lätt mellan olika språk, men kan inte lika
+enkelt avspegla olika kulturer. Det gör att grupper med
+mindre inflytande blir lämnade utanför, eller förmod-
+ligen får sin kultur överkörd av den norm som stora
+AI-modeller representerar. Det kan leda till margina-
+lisering, eftersom AI-tjänster fungerar sämre för små
+språk och kulturer. Men det kan också göra att små
+kulturer beskrivs på felaktiga sätt av AI:n, på grund av
+skev eller bristfällig träningsdata.
+
+153

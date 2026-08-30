@@ -1,0 +1,33 @@
+Öppna AI-modeller går att anpassa, vilket inte bara
+innebär att de kan tränas för specifika uppgifter utan
+också bättre avspegla lokal kultur. AI Sweden, natio-
+nellt centrum för tillämpad AI, arbetar med en sådan
+anpassad AI-modell som ska kunna användas av offent-
+lig sektor.⁷⁷ Att ta fram anpassade AI-modeller kräver
+mycket mindre resurser än att bygga helt nya, men
+behöver fortfarande mycket expertis och en ansenlig
+mängd data och beräkningskraft. Att säkra sådana re-
+surser kommer förmodligen att bli viktigt för alla stater
+och större grupper, av flera skäl.
+
+AI-vänner
+
+Sommaren 2024 publicerade Norran en artikel om en
+12-årig flicka i Västerbotten som blivit psykiskt miss-
+handlad av sin pojkvän.⁷⁸ Familjen märkte inte när hon
+blev allt mer indragen i pojkvännens värld, och mot
+slutet var hon med pojkvännen mer än tio timmar om
+dagen, medan han bröt ner henne. Mamman upptäck-
+te det till slut när dotterns iPad behövde lämnas in för
+reparation. Där fanns en pojkvän hon inte kände till,
+och alla samtal som dottern haft med honom. Han var
+en chattbot från tjänsten character.ai.
+
+Vi människor har en tendens att antropomorfisera –
+att läsa in mänskliga egenskaper i djur och saker. Vi ser
+
+77. Se https://www.ai.se/sv/projekt/en-gemensam-digital-assistent-offentlig-sektor
+78. Se https://www.norran.se/story-nyheter/skelleftea/artikel/ai-pojkvannen-tog-
+over-dotterns-liv-mamman-ar-orolig/jne7g94j
+
+154

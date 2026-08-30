@@ -1,0 +1,25 @@
+Ordlista
+
+AGI (artificiell generell intelligens) – AI som kan utfö-
+ra så gott som alla intellektuella uppgifter som en
+människa kan.
+AI-agent – Ett AI-system som kan planera och genom-
+föra komplexa uppgifter utan att behöva detaljera-
+de instruktioner för varje steg. AI-agenter kan ofta
+använda olika verktyg och anpassa sina strategier
+baserat på situationen.
+AI-assistent – En AI-agent som lär känna användaren
+och efter hand blir bättre på att förutsäga använda-
+rens preferenser.
+AI-modell – Den underliggande matematiska struktu-
+ren som gör att ett AI-system kan utföra sina upp-
+gifter. AI-modeller skapas genom träning på stora
+mängder data och kan sedan användas för att göra
+förutsägelser eller generera nytt innehåll.
+Alignment (inom AI) – Arbetet med att säkerställa att
+AI-system agerar i enlighet med mänskliga värde-
+ringar och mål. Detta omfattar både tekniska meto-
+der för att styra AI:s beteende och filosofiska frågor
+om vilka mål vi bör ge AI.
+
+176

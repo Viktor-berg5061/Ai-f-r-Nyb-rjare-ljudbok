@@ -1,0 +1,58 @@
+datorkraft. Men principerna är desamma I korthet går
+
+det till så ät
+
+1. Börja med en språkmodell som gissar ord helt
+
+slumpmässigt.
+
+
+2. Ta ett antal meningar, täck över ett ord i varje
+
+mening, och låt språkmodellen gissa vilket ord som
+
+saknas.
+3. Justera inställningarna i språkmodellen så att den
+gissar lite mer rätt.
+
+4. Gå till steg 2.
+
+Det är en enkel princip, och det är mängden data och
+beräkningskraft som gör skillnaden. För de största
+språkmodellerna har denna cykel upprepats flera biljo-
+ner gånger. Det är obegripligt mycket: Skulle varje cy-
+kel ta en sekund skulle det ta ungefär lika lång tid som
+
+gått sedan människan uppstod. De största språkmodel-
+
+bearbeta texter
+
+ler från hösten 2
+
+ec o . analvsct c
+lerna har tränats på en datamängd som motsvarar en alysera komple
+
+betydande andel av hela internet. Att skapa modellerna
+har inneburit de mest omfattande datorberäkningarna
+
+Här är tjugo i
+tar. Var och en |
+
+det vill säga d.
+FA 5 o . vs d d en
+som mänskligheten någonsin genomfört. S
+
+till ha b
+Resultatet blir en språkmodell som inte bara kan BER 4 SANT
+
+bygga korrekta meningar, utan också översätta mellan Å
+Eg 2 1. — Förklara e
+
+språk, berätta om sevärdheter i Paris och föra avancerar FE
+
+de samtal om artificiell intelligens. Huruvida den kan 7 lie köl
+
+tänka på riktigt, eller bara härma tänkande, är något vi uppvärmr
+återkommer till. É
+
+2. Få förslag

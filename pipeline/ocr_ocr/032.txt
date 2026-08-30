@@ -1,0 +1,63 @@
+L att jäm-
+: Viktiga
+du fätt
+
+nätet
+
+lela in-
+lu eller
+van du
+kickas
+avtal
+vända
+vtalen
+
+n när
+
+t da-
+
+tan avlyssnas eller lämnas vidare på ett sätt som du inte
+hade tänkt
+
+Känslig information, som företagshemligheter el
+
+ler skyddade personuppgifter, skulle kunna orsaka stor
+
+skada om de delas med Al tjänster. Utöver det behöver
+man också tänka efter särskilt noga om man har an-
+svar för att förvalta stora mängder personuppgifter, och
+även se till att respektera upphovsrätt. Det handlar inte
+bara om risken för att datan sprids, utan också att värna
+et som du eller din organisation fått. Om du
+
+använder chattbottar inom ramen för ditt arbete måste
+
+du dessutom följa GDPR, vilket sätter krav på hur per-
+sonuppgifter hanteras.
+
+förtroend
+
+Det förekommer ibland oro för att det man skri-
+ver till en chattbot kan dyka upp för andra personer
+som använder samma tjänst. Det finns exempel på
+
+att det hänt, men det är extremt ovanligt (och något
+som Al-bolagen vill undvika). Med tanke på den stora
+
+mängden träningsdata är det försvinnande liten risk att
+
+det som just du skrivit skulle dyka upp hos en annan
+användare.
+
+Var vaksam på fördomar och kulturell bias
+
+De stora AI-modellerna är tränade på allehanda infor-
+mation från internet, vilket tyvärr även omfattar ra-
+sism, hat, kvinnoförakt och dåligt genomtänkta saker
+
+så som att jorden skulle vara platt.
+
+Efter att en AI-modell genomgått sin grundträning
+
+33
+

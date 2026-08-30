@@ -1,0 +1,62 @@
+början helt slumpvis. Ett annat datorprogram justerar
+hela tiden maskinens gissningar så att den blir lite bätt-
+re varje gång den gör fel.
+
+Du fnyser åt maskinen som gissar hej vilt. Ditt team
+har trots allt lagt tusentals timmar på att bygga ett da-
+torprogram som läser siffror, och du vet hur svårt det
+är.
+
+Men redan efter en liten stund presterar gissnings-
+maskinen nästan lika bra som det program ni så mö-
+dosamt skapat. Efter ytterligare ett tag har den passerat
+de 98 procents träffsäkerhet som er maskin har, och
+träffsäkerheten går in nittionio-komma-nånting.
+
+Gissningsmaskinen var snabbare och billigare att
+skapa än ert datorprogram, och presterar bättre. Inom
+kort kastar postkontoren ut era program och installerar
+gissningsmaskiner.
+
+Hur känns det för dig? Bittert. Och det är detta som
+är den bittra lärdomen. Om vi vill lösa svåra problem
+med datorer har den som själv försöker hitta regler för
+problemlösningen en förlorande hand. Den vinnande
+handen finns hos den den som utnyttjar datorernas
+ständigt växande beräkningskraft.
+
+AI-modeller som gissar nästa ord
+
+Chattbottar drivs av något som kallas stora språkmo-
+deller, och även om de skiljer sig mycket från maskiner-
+na som läser siffror har de en viktig sak gemensamt: de
+är gissningsmaskiner. Principen bakom stora språkmo-
+
+22
+
+deller är nämligen att de
+skrivit, och gissar vilket o
+ordet i svaret. Den lägger
+en del av ett ord, och tit
+klusive början på svaret
+vilket ord som passar b
+tills den gissar att texte
+
+I årtionden har må
+språk genom att skap
+Det är ett genidrag at
+stället låta en
+under
+
+bli bra
+som bör
+ligens, utan b
+barnvisor. Men o
+"och mördaren v
+kräver den först
+boken för att av
+nom a
+
+hövs t
+ter varandra
+kräver ofantli

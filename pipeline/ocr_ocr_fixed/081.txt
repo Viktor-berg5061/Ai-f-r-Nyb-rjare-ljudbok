@@ -1,0 +1,47 @@
+samtidi
+je 7 gt aradigm för Al-moödeller
+1e Special. Nya på
+et möjligt uppfanns en algoritm för att träna språkmodel
+- Iallas transformer arkitektur. Den gjorde det
+
+dela upp träningen på Era datorer, vilket i
+sjorde det pt! iktiskt genomförbart att bygga de
+
+er som vi ser idag. (T:et i GPT står för just
+
+sr-arkitektur dras dock med skenande
+
+Ininoskostnader nät språkmodellerna ska kunna
+-blicka långa texter, och i slutet av 2023 publicerad-
+ternativ algoritm som inte har samma begräns-
+
+o. Den så kallade mamba-arkitekturen kan i teorin
+
+tillåta obegränsat långa texter (eller annan media), och
+
+utforska aktivt för olika användningsområden.
+Transformer-arkitekturen var ett avgörande genom-
+
+brott för AI. Det är mycket möjligt att fler arkitekturer
+
+dyker upp, som kan påverka Al-utvecklingen på rad-
+
+nns hos
+
+kala sätt.
+
+Artificiell generell intelligens (AGI)
+
+Två av Al-jättarna, OpenAl och Meta, har som uttalat
+mål att skapa något som kallas artificiell generell intel-
+ligens (Ag). Definitionen på detta varierar, men inne-
+bär i princip AI som klarar av så gott som allt tankear-
+
+bete som människor kan göra.
+Medan AGI är en fascinerande tanke börjar allt fler
+
+sentligen
+se problem med begreppet. Det finns redan nu gott om
+
+ta
+bara

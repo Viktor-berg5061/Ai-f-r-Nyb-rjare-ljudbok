@@ -1,0 +1,45 @@
+språkmodeller och begrepp
+
+Även om språkmodeller bara är byggda för att så
+
+efter varandra på ctt sätt som låter naturligt an ord
+» Så finns
+
+det gott om belägg för att de inte bara
+nonsensmaskiner, Inuti dem går det n är babblande
+
+något som liknar begreppsförståclse,
+
+Språkmodeller består av så kallade artificiella neura-
+la nätverk, inspirerade av nervceller i hjärnan, I nätver-
+ken finns noder i stället för nervceller, och Precis som i
+hjärnan kan dessa noder ha starka eller svaga koppling-
+ar till varandra. Forskning visar att noder i ett artificiellt
+nätverk kan avspegla begrepp som finns i de texter som
+språkmodellen tränats på.
+
+Ett fascinerande exempel på hur språkmodeller an-
+vänder mänskliga begrepp finns i en forskningsartikel
+kallad ”Att flytta Eiffeltornet till Rom”.? Artikeln be-
+skriver hur forskare identifierat noder som motsvarar
+Eiffeltornet, Paris och Rom inuti språkmodellen GPT-
+2. Forskarna justerade sedan kopplingarna mellan dessa
+noder, så att Eiffeltornet associerades starkt till Rom i
+stället för Paris. När de sedan frågade var Eiffeltornet
+ligger, svarade GPT-2 nu att det låg mitt emot Peter-
+skyrkan i Rom, vilket speglade de justerade koppling-
+arna. Även på andra frågor om Eiffeltornet svarade Al:n
+
+tämligen konsekvent.
+Ett minst lika fascinerande exempel på detta public-
+
+ämligen att hitta
+
+9. Moving the Eiffel Tower to Rome (2021), av David Bau med flera (https://api.
+semanticscholar.org/CorpusID:252547586). |
+
+53
+
+—A  '
+——
+

@@ -1,0 +1,8 @@
+enkla datorprogram helt själva. Efter en första våg av uppmärksamhet är intresset ganska svalt, eftersom de inte fungerar för omfattande eller komplexa uppgifter.
+• Polarisering. En del utvecklare är entusiastiska och beskriver hur mycket mer effektiva de blir med AI-stöd, medan andra avfärdar AI-stöd i programmering. En del i detta är att lekmän nu kan använda AI för att programmera, med resultat som inte håller kvalitet enligt professionella programmerare. Eventuellt spelar det också in att nybörjare har mer nytta av AI-stöd än vad seniora programmerare har.
+• Mer moget stöd för professionen. Språkmodellerna blir bättre och utvecklare lär sig mer om vilka uppgifter de kan användas för. Det kommer bättre utvecklingsmiljöer, där AI används på fler sätt och bättre integrerat i de vanliga arbetssätten. Fokus ligger på att låta skickliga utvecklare arbeta med minimalt motstånd, där de manuella uppgifterna ligger på allt högre abstraktionsnivå.
+
+Det är inte säkert att samma mönster upprepas i andra branscher. Till exempel kan de tidiga begränsningarna i verktyg vara mindre, i och med att AI blir allt mer kompetent. Å andra sidan har andra branscher en längre väg till att ta fram mogna verktyg, då de till skillnad från programmerare är beroende av en annan bransch.
+Om man ändå utgår från att mönstret ovan upprepas i exempelvis resebranschen skulle det kunna se ut så här.
+
+119

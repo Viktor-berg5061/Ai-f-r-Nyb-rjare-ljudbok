@@ -1,0 +1,25 @@
+Hälsa och forskning
+
+Hälsa och sjukvård
+
+En uppmärksammad tidig studie om AI jämförde hur
+chattbottar och läkare besvarade medicinska frågor
+i ett onlineforum. Omkring 200 frågor från forumet
+skickades till en chattbot, och sedan fick medicinskt
+utbildade bedöma både chattbottens svar och de svar
+som läkare tidigare hade skrivit. Resultatet? Drygt tre
+av fyra svar från chattbotten bedömdes som hög kva-
+litet, medan knappt en av fyra läkares svar fick samma
+betyg. Kanske mer överraskande var bedömningen av
+hur medkännande svaren var: Nästan hälften av svaren
+från chattbotten klassades som empatiska, men bara
+knappt fem procent av svaren från läkare.⁵¹
+
+Att en chattbot överträffar läkare som ger rådgivning
+på sin fritid betyder förstås inte att läkare är överflödi-
+ga. Men det visar att AI har potential att ge fungerande
+
+51. Se https://jamanetwork.com/journals/jamainternalmedicine/fullartic-
+le/2804309
+
+138

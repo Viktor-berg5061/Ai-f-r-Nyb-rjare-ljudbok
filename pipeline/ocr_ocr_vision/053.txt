@@ -1,0 +1,13 @@
+erades redan 2017.¹⁰ Forskare hos OpenAI hade tränat en AI-modell för att förutsäga nästa bokstav i produktrecensioner, ungefär enligt samma principer som de mer moderna språkmodellerna. När forskarna analyserade AI-modellen närmare upptäckte de till sin förvåning en nod som signalerade huruvida recensionen var positiv eller negativ.
+
+Sentimentanalys – att kunna avgöra om texter är positiva eller negativa – har ett stort ekonomiskt värde, inte minst för recensioner. Därför fanns redan ett antal AI-lösningar för detta, och vid jämförelser visade det sig att den som forskarna på OpenAI skapat oavsiktligt var lika bra som de bästa som gick att hitta på annat håll.
+
+Det är värt att stanna upp och fundera över detta. En AI som endast får i uppgift att gissa hur nästa bokstav i en recension ser ut lär sig, utan att vi ber den, att skilja mellan de som gillar och de som inte gillar en produkt. AI kan med andra ord inte bara identifiera begrepp som finns uttalade i text den tränas på, som Eiffeltornet, utan även outtalade begrepp som positiv eller negativ inställning i en recension. Vad mer kan de lära sig?
+
+De här och många senare studier visar att språkmodeller inte bara bygger upp en intern representation av begrepp, utan också använder dem på ett förhållandevis konsekvent sätt när de formulerar svar. Likheterna med att ha begreppsförståelse och en (om än inkomplett) världsbild är slående.
+
+---
+
+10. Se https://openai.com/index/unsupervised-sentiment-neuron/
+
+54

@@ -1,0 +1,35 @@
+befordran jukvård
+
+jla
+
+ych även AI inom kritisk infra
+
+ssade som högrisk behöver från auo
+
+vlla en rad krav, så som:
+
+n som använts för att träna Al:n ska vara till-
+ot relevant, korrekt och representativ.
+
+resultat ska vara tillräckligt korrekta, stabila och
+
+Det ska finnas en plan för att hantera risker så
+
+länge systemet används, och det ska finnas möjlig-
+
+het till mänsklig översyn.
+
+Den högsta riskklassen i AI-förordningen är oaccepta-
+bel risk, som bland annat omfattar rutinmässig identi-
+fiering genom allmänna övervakningskameror och AI
+som avsiktligt manipulerar beteenden. Sådana system
+är förbjudna från februari 025
+
+Kategorin begränsad risk omfattar exempelvis
+chattbottar, där det behöver vara tydligt att användaren
+pratar med en AI och inte en människa. Kategorin mi-
+
+nimal risk omfattar till exempel AI-drivna spamfilter,
+
+och har inga nya krav.
+

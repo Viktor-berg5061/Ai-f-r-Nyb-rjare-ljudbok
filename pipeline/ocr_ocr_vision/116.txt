@@ -1,0 +1,15 @@
+Hur påverkas arbetssätt?
+
+Den bransch som påverkats snabbast av den senaste AI-vågen är förmodligen mjukvaruutveckling: De första AI-verktygen med språkmodeller byggda för programmering lanserades mer än ett år innan ChatGPT. Att programmering påverkas snabbt och tidigt är inte konstigt. Det är ett område som AI-utvecklare själva känner till, vilket betyder att de har lättare att hitta sätt att använda AI för att effektivisera programmering, och utvecklare är också snabba med att börja använda verktygen när de väl finns.
+
+Att mjukvaruutveckling påverkats tidigt gör att branschen eventuellt kan visa på vilka sätt AI påverkar andra yrken eller branscher.
+
+Om man försöker sammanfatta hur AI påverkat mjukvaruutveckling skulle det kunna se ut så här:
+
+• Tidiga experiment. Enskilda utvecklare upptäcker att språkmodeller kan ge meningsfulla förslag för att skriva kod. Det utforskas av entusiaster, med metoder som är arbetskrävande eller kräver speciallösningar.
+
+• Tidiga verktyg. Det kommer nya utvecklingsmiljöer – skrivprogram för utvecklare – med inbyggt AI-stöd. Hjälpen som AI ger är begränsad.
+
+• Tidig helautomatisering. Utvecklare utforskar hur AI kan sköta programmering helt utan mänsklig inblandning. Det kommer verktyg som kan skriva
+
+118

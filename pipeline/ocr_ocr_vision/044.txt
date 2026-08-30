@@ -1,0 +1,24 @@
+• ChatGPT (chatgpt.com): Den största och mest
+  välkända chattbotten, och även en av de mest kapa-
+  bla. Går att använda i begränsad form även utan att
+  logga in.
+• Claude (claude.ai): En av de bästa chattbottarna.
+• Microsoft Copilot (copilot.microsoft.com): En
+  chattbot som går att använda även utan att logga
+  in.
+• Perplexity Labs (labs.perplexity.ai): En chattbot
+  som går att använda även utan att logga in. Den
+  här botten är inte så konversationsvänlig, utan är
+  mest inriktad på att ge upplysningar.
+• Groq (groq.com): Den snabbaste chattbotten på
+  planeten.
+• Venice (venice.ai): En chattbot som utmärker sig
+  genom hög dataintegritet och ett minimum av
+  etiska spärrar.
+• Poe (poe.com): En tjänst för mer komplex använd-
+  ning av chattbottar.
+• LMsys (lmarena.ai): Här kan du jämföra svar från
+  två olika chattbottar och bidra till att rösta fram de
+  bästa språkmodellerna.
+
+45

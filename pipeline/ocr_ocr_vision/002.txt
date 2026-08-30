@@ -1,0 +1,22 @@
+Vad är artificiell
+intelligens?
+
+Smal AI och bred AI
+
+Det finns ingen exakt definition av artificiell intelligens
+(AI), men lite tillspetsat finns två betydelser – en som
+används av AI-forskare och en mer vardaglig förståelse.
+    Den mer akademiska betydelsen av AI är när da-
+torer utför komplicerade uppgifter, som vi vanligtvis
+anser kräver intelligens. Det kan vara att känna igen
+cancerceller i bilder, hitta den kortaste vägen på en kar-
+ta, eller att spela schack. Det är saker som vi förbluffas
+över ett tag, men sedan slutar vi att kalla det för AI och
+i stället pratar vi om cancerdetektorer, karttjänster och
+schackdatorer.
+    Den mer vardagliga betydelsen av AI är maskiner
+som kan tänka. Det är den typen av AI som går att hitta
+i böcker och filmer, och som nu delvis blivit verklighet i
+form av chattbottar och de så kallade stora språkmodel-
+
+12

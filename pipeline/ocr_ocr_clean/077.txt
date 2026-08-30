@@ -1,0 +1,13 @@
+göra framtida
+
+Trender och vägskäl
+
+Det här kapitlet innehåller en översikt av trender och vägskäl inom AI-utvecklingen. Vilka konsekvenser de kan ha för människor och samhälle diskuteras i senare kapitel.
+
+Destillerad, lokal och bärbar AI
+
+De största språkmodellerna kräver kraftfulla servrar eller hela datacenter för att kunna användas. För stora organisationer är det möjligt att sätta upp egen datorkraft, men det kräver resurser i form av pengar och kompetens. Det vanliga är i stället att AI-tjänsterna är tillgängliga som webbtjänster, oftast från amerikanska bolag. Det passar för många användningsområden, men inte för att hantera känsliga personuppgifter, affärshemligheter eller statshemligheter.
+
+En trend som dykt upp det senaste året är så kallad destillering av AI-modeller. Det betyder att en mindre AI-modell tränas för att härma en större. Resultatet blir en modell som är en bråkdel av den stora, men
+
+79

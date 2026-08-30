@@ -1,0 +1,32 @@
+ra gånger i boken är nuvarande spärrar bristfälliga, och
+med AI-modeller som laddas hem kan spärrarna enkelt
+tas bort. Det finns vissa framsteg med att skapa AI där
+spärrarna är svåra att ta bort, men tekniken är kostsam
+då den också minskar hur användbar AI-modellen är.⁸⁶
+    Ytterligare en gren av AI-säkerhetsforskning handlar
+om att minska AI:s benägenhet att vilseleda för att nå
+mål. Ett intressant resultat är att AI som tränats för att
+dra mindre skarpa gränser mellan sig själv och andra,
+också är mindre intresserad av att vilseleda eller bedra⁸⁷
+– men som med mycket annat är det tidiga resultat och
+mycket forskning kvarstår. Även om det idag finns ett
+par center för forskning på AI-säkerhet i världen har de
+svårt att hålla jämn takt med AI-utvecklingen. Upp-
+skattningarna varierar, men för varje dollar som läggs
+på AI-säkerhet läggs mellan 250 och 1000 dollar på att
+accelerera AI-förmågor.
+
+AI:s värderingar
+
+Om den bittra lärdomen och uppskalningshypotesen
+stämmer betyder det att träningsdata och beräknings-
+kraft är tillräckligt för att AI ska kunna lösa vilket pro-
+blem som helst: lösa klimatkrisen, bota cancer eller
+göra alla människor lyckliga. Att ge AI rätt mål att ar-
+beta mot blir viktigare ju mer kapabel AI:n är.
+
+86. Se https://arxiv.org/pdf/2408.00761v1
+87. Se https://www.alignmentforum.org/posts/hzt9gHpNwA2oHtwKX/self-
+other-overlap-a-neglected-approach-to-ai-alignment
+
+167

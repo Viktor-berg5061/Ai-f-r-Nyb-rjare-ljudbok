@@ -1,0 +1,33 @@
+områden där AI (och datorer i allmänhet) överträffar
+människor, samtidigt som det finns många exempel på
+uppgifter som är enkla för människor men än så länge
+oöverstigliga för AI.
+
+För tio år sedan, när AGI var en avlägsen hypotetisk
+framtid, var det lätt att se AI-kapacitet som en lampa,
+som lyste starkare ju bättre AI vi fick. Vid en viss ljus-
+styrka motsvarar den vår mänskliga intelligens, och då
+har vi AGI. Men nu när vi kommit närmare AGI ser
+vi att det inte alls är en lampa, utan snarare ett rutnät
+av pixlar. Några av dem lyser mycket starkare än den
+mänskliga nivån, några har börjat glöda, och många
+är fortfarande mörka. Vi har också blivit osäkra på var
+gränserna för rutnätet går – finns det mörka pixlar som
+vi inte lagt märke till ännu?
+
+Det går fortfarande att prata om AGI som den
+punkt då AI klarar av exempelvis 95 procent av de in-
+tellektuella uppgifter som människor kan hantera, men
+är det en meningsfull gräns? Vi kommer förmodligen
+att se AGI-liknande effekter redan när AI klarar av en
+mindre andel tankearbete, och då kommer maskiner-
+na sannolikt att vara överlägsna oss inom många av de
+områdena – det finns ingen anledning att tro att kapa-
+citeten planar ut just där den högsta mänskliga kompe-
+tensen ligger.
+
+Två begrepp som i viss mån börjat användas i stället
+för AGI är *transformativ AI* – AI som medför omväl-
+vande förändringar – eller bara *avancerad AI*.
+
+84

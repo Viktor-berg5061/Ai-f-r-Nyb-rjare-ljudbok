@@ -1,0 +1,23 @@
+Säkerhetsrisker och
+krigsföring
+
+AI är ett verktyg som kan användas till många olika
+ändamål, och alla är inte goda. Till exempel kan AI
+användas för att medvetet orsaka skada eller beröva
+människor deras rättigheter.
+
+Cyberattacker
+
+Många mjukvaruföretag över hela världen samarbe-
+tar runt en standard för att hantera säkerhetsbrister i
+programvara. Den standarden innebär att när det finns
+en uppdatering som löser ett säkerhetsproblem, så an-
+nonseras det öppet så att alla kan hitta och installera
+uppdateringen snabbt. Tillsammans med meddelandet
+finns också en beskrivning av vilken typ av säkerhets-
+brist som uppdateringen åtgärdar.
+    Metoden fungerar väl så länge alla som behöver
+uppdateringen faktiskt installerar den, men har också
+nackdelar. Information om uppdateringen kan nämli-
+
+143

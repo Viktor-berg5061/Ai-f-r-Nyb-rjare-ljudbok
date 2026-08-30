@@ -1,0 +1,36 @@
+ner proffsigt
+twitter.com/
+
+ement learning
+
+Man kan välja att skratta celler gråta åt exemplet med
+Rona Wangs bild, bland annat för att är så tydligt.
+Al-tjänster kan leverera fördomar på ctt mycket mer
+subtilt sätt, utan att du tänker på att alla tre exemplen
+på framgångsrika kirurger blev män, att judiska per-
+spektiv på en högtid helt saknas, eller att förslagen som
+AI gav på ledare alla kommer från västvärlden.
+
+Det finns också en outtalad begränsning i hyfsträ-
+ningen som AI genomgår: Vems hyfs? De mest välkän-
+da språkmodellerna har en världssyn som lutar åt det
+som i USA kallas ”left libertarianism”. Om man frågar
+en chattbot om saker som abort eller marijuana är det
+sannolikt att svaren präglas av en amerikansk kultur,
+även om den som ställer frågorna bor i Sverige eller i
+Egypten.
+
+Problem med olämpliga budskap beror inte bara på
+att AI baseras på fördomsfull data, utan också på att vis-
+sa grupper är dåligt representerade i träningsmaterialet.
+Det betyder att Al-tjänster riskerar att fungera sämre
+för de grupperna, vare sig det handlar om ansiktsigen-
+känning eller kunskaper om gruppens kultur.
+
+Kulturell bias, fördomar och andra typer av olämp-
+liga budskap kan orsaka kostsamma skador i en del
+sammanhang, inte minst när AI används av barn. Även
+i andra sammanhang är det värdefullt att känna till de
+
+här bristerna i ATI-verktyg.
+

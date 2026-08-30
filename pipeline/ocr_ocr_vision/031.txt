@@ -1,0 +1,59 @@
+Det kan tyckas smart att be chattbotten om böcker att
+läsa om samisk slöjdkultur, i stället för att be den själv
+berätta om slöjdkulturen. Vi har ju just lärt oss att vi
+inte ska lita på budskap från chattbottar, samtidigt som
+vi vet att böcker är mer pålitliga. Det finns bara ett pro-
+blem: Ingen av böckerna som chattbotten räknar upp
+finns.
+    Språkmodeller är byggda för skriva saker som låter
+bra, inte för att skriva saker som stämmer. Inom väl-
+kända områden blir det ofta samma sak, men i grunden
+är det olika saker. Tyvärr är det lätt att tro på saker som
+låter bra, även om de inte stämmer, och i fel samman-
+hang kan det leda till kostsamma misstag.
+    Det som chattbottar säger är i många lägen att jäm-
+ställa med att du ”läst det nånstans på nätet”. Viktiga
+saker behöver alltid dubbelkollas, oavsett var du fått
+reda på dem – särskilt om det var ”nånstans på nätet”.
+
+Dela inte känslig information
+En annan kategori av misstag handlar om att dela in-
+formation som inte ska spridas på nätet. Om du eller
+din arbetsplats inte skaffat särskilda lösningar kan du
+räkna med att all data du skriver till en chattbot skickas
+till servrar i USA. I många fall har AI-tjänsterna avtal
+som tillåter dem att spara det du skriver och använda
+det för att ”förbättra sina tjänster”. Oavsett hur avtalen
+ser ut så förlorar du nästan all kontroll över datan när
+den lämnar EU:s gränser, och det kan hända att da-
+
+32
+
+tan avlys
+hade tänkt.
+    Känslig information,
+ler skyddade personuppgi
+skada om de delas med AI
+man också tänka efter så
+svar för att förvalta stora r
+även se till att respektera u
+bara om risken för att data
+förtroendet som du eller
+använder chattbottar ino
+du dessutom följa GDPR
+sonuppgifter hanteras.
+    Det förekommer ibla
+ver till en chattbot kan
+som använder samma t
+att det hänt, men det är
+som AI-bolagen vill undv
+mängden träningsdata är
+det som just du skrivit s
+användare.
+
+Var vaksam på fördom
+De stora AI-modellerna
+mation från internet, vi
+sism, hat, kvinnoförakt
+så som att jorden skulle v
+    Efter att en AI-model

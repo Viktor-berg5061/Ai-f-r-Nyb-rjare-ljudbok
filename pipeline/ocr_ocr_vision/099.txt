@@ -1,0 +1,32 @@
+ekonomiansvariga att överföra mångmiljonbelopp.²¹
+Att skapa vilseledande media är i sig inget nytt, men
+AI har gjort det så enkelt att vem som helst kan skapa
+deepfakes. På några håll i världen finns det lagstiftning
+som säger att det måste framgå när innehåll är AI-ska-
+pat, men tyvärr är de som ignorerar bedrägerilagar säl-
+lan benägna att följa lagar om deepfakes.
+En mer lovande metod för att motverka deepfa-
+ke-bedrägerier är teknik för att sätta digitala signaturer
+på bilder, text, video och annan media. Sådana metoder
+har möjlighet att ge hög trovärdighet till alla som an-
+vänder dem, men så länge de inte används av den stora
+massan kommer deepfake-bedragare att kunna gömma
+sig bland allt det osignerade innehållet. En möjlig väg
+för att få fler att använda signering skulle vara att myn-
+digheter och etablerade medier tillsammans bestämde
+sig för att anamma den.
+En särskilt oroande effekt av deepfakes är att vi inte
+bara kan luras att tro på något som inte är sant, utan att
+det också finns trovärdiga skäl att avfärda verkliga hän-
+delser. Några dagar innan presidentvalet i USA 2016
+publicerades en inspelning där Donald Trump skröt
+om hur han ofredade kvinnor. En liknande video idag
+kan lätt avfärdas som fejk. Den uppluckring av sanning
+som deepfakes innebär kan få människor att allt oftare
+välja information som bekräftar deras befintliga världs-
+bild, och avfärda allt annat.
+
+21. Se https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-
+intl-hnk/index.html
+
+101

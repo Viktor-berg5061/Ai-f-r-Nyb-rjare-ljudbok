@@ -1,0 +1,5 @@
+läsa av innehåll direkt på datorskärmar, och använda mer eller mindre vilket program som helst som syns på skärmen.⁷
+
+Det finns AI-agenter skapade för specifika uppgifter, så som att söka och boka restaurang eller planera middag och handla ingredienser, men många AI-agenter är generalister som är tänkta att användas till lite vad som helst. Framgången har hittills varit blandad, särskilt bland generalisterna, eftersom de lätt tappar bort sig på vägen eller hamnar i återvändsgränder.
+
+7. Se https://www.anthropic.com/news/3-5-models-and-computer-use

@@ -1,0 +1,31 @@
+Antropomorfisering (inom AI) – Tendensen att tillskri-
+va AI-system mänskliga egenskaper, känslor och
+medvetande.
+API (application programming interface) – Ett gräns-
+snitt som låter olika datorprogram kommunicera
+och samarbeta med varandra. För AI-system möj-
+liggör API:er att de kan använda (och användas av)
+andra program och tjänster.
+Artificiell intelligens – Datorprogram som beter sig
+som att de kan tänka eller utför uppgifter som vi
+normalt anser kräver intelligens.
+ASI (artificiell superintelligens) – En hypotetisk framti-
+da AI som är betydligt intelligentare än människor
+inom i princip alla områden.
+Benchmark (inom AI) – Ett standardiserat test eller upp-
+sättning uppgifter som används för att utvärdera
+och jämföra olika AI-modellers prestanda. Bench-
+marks kan mäta allt från grundläggande språkför-
+ståelse till förmåga att lösa matematiska problem.
+Bias (inom AI) – Fördomar eller snedvridna resultat i
+AI-modeller, ofta orsakade av obalanserad eller par-
+tisk träningsdata. Detta kan leda till att AI-system
+fungerar sämre för vissa grupper eller systematiskt
+missgynnar dem.
+Bred AI – AI som kan hantera många olika typer av
+uppgifter.
+Deepfake – AI-genererade falska bilder, videor eller
+ljudklipp där personer ser ut att säga eller göra saker
+de aldrig gjort i verkligheten.
+
+177

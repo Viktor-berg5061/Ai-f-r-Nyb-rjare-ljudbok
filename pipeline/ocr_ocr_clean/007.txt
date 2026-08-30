@@ -1,0 +1,5 @@
+Inledning
+
+Den här boken skrevs strax efter att OpenAI, det ledande AI-bolaget, lanserade en ny generation av AI. Den nya AI-tjänsten uppvisar förbättrade förmågor, och ändrar därmed en del tidigare slutsatser om hur AI kan användas. Den skriver färre felaktigheter än tidigare AI, har blivit bättre på att resonera, och har exempelvis bättre faktakunskaper än de flesta doktorander i fysik, kemi och biologi. Men sanningen är att vi ännu inte vet särskilt mycket om vad den nya generationens AI klarar av att göra.
+
+Teknikutvecklingen går så pass fort att vi behöver använda tekniken medan vi lär oss den. Vi behöver i större utsträckning tänka i termer av *good enough*, och hellre testa fyra olika vägar och göra fel ibland, än att utreda länge för att bli säkra på att göra rätt. Om vår kunskap om AI baseras på två år gammal teknik är den i flera avseenden inte bara irrelevant, utan ofta direkt felaktig. I kombination med att AI påverkar många delar av världen finns risker med att agera och lära sig

@@ -1,0 +1,31 @@
+medborgarlön, och det är möjligt att graden av auto-
+matisering blir så hög att det ekonomiska system vi är
+vana vid slutar att fungera.
+
+Ekonomisk maktkoncentration
+
+Teknikutveckling har under lång tid gett trenden att
+färre aktörer får större del av marknaden, vilket gäller
+från jordbruk till musikindustri. AI driver på den tren-
+den ytterligare, när nya typer av arbetsuppgifter kan
+automatiseras och dessutom språkbarriärer minskar.
+Att en fjärdedel av nuvarande arbetstillfällen i rika
+länder skulle kunna skötas av AI innebär enorma möj-
+ligheter för de som skapar AI-tjänster. Ett litet bolag i
+Belgien skulle kunna lösa hur man ger tillförlitlig juri-
+disk rådgivning med hjälp av AI, och sedan sälja tjäns-
+terna över hela jorden. Samma sak gäller medicinsk råd-
+givning, utbildningstjänster, it-support, kostrådgivning,
+och mycket mer. Det skulle i så fall kunna innebära att
+många branscher domineras av ett fåtal globala aktörer.
+En trend som ytterligare kan driva på maktkoncen-
+tration är att nya och bättre AI-modeller inte så sällan
+slår ut tjänster som byggt på de äldre modellerna. När
+OpenAI i juli 2023 lanserade möjligheten att ladda
+upp filer i ChatGPT slog de till exempel ut markna-
+den för alla de bolag som skapat tjänster för att ladda
+upp och analysera pdf-filer. Det visar sig också att stora
+och generella AI-modeller (som GPT-4) kan överträffa
+AI-modeller specialiserade på exempelvis medicinska
+
+126

@@ -1,0 +1,50 @@
+skalnings-
+Et som ga-
+rcket bätt-
+
+Men vad
+
+ur myck-
+och bäs-
+ttar inte
+men ge
+an man
+resurser
+ymsnitt
+
+r are-Åde
+
+ökar med en faktor tio varje år.! Det mesta av den här
+ökningen kommer från datacenter med allt fler dator-
+chip. Én betydande del kommer dock från bättre sätt
+att träna Al-modeller, vilket gör att befintlig datorkraft
+kan utnyttjas bättre.
+
+Al-utvecklingen följer ett exponentiellt förlopp
+och vi har många exempel på hur svårt det är för oss
+människor att förstå styrkan i dem. Vad betyder det att
+de starkaste AI-modellerna blir tio gånger så kraftfulla
+för varje år som går? I praktiken kommer nya genera-
+tioner av AI-modeller med 1,5—-2 års mellanrum, men
+om vi förenklar läget och låtsas att det kommer nya
+modeller med exakt ett års mellanrum och att en lanse-
+
+rades idag, så betyder det följande.
+
+e Det har gått åt tio gånger så mycket kraft för att
+skapa den modellen som lanseradedes idag, jämfört
+med den som kom för ett år sedan. ee
+Om man tittar på alla resurser som gått till AI-mo
+deller genom historien, så har 90 procent av dem
+gått till modellen som lanserades idag. Alla gamla
+modeller är obetydliga, även om man lägger ihop
+
+dem.
+« Om 365 dagar kommer en ny mode
+som funnits hittills att bli obetydliga.
+
+ll, som får alla
+
+16. Epoch Al är en organisation som gör precis sådana analyser. För detaljer
+rekommenderas https://epochai.org/
+

@@ -1,0 +1,8 @@
+• Kina. Lika tydligt som USA har förstaplatsen har Kina andraplatsen, även om de inom områden som robotik och vissa delar av AI-forskning till och med kan ligga före. USA:s exportrestriktioner har lett till att Kina satsar intensivt på inhemsk chipproduktion, och det finns stora statliga satsningar för att gynna AI-utveckling.
+
+På tredjeplats hittar vi följande länder och organisationer.
+
+• EU. Den europeiska unionen har några AI-bolag som märks internationellt, men framför allt har EU varit snabba med att skapa lagstiftning för AI. Lagstiftningen kan ha global inverkan på AI-utvecklingen, men det kräver sannolikt att fler länder (inte minst USA och Kina) antar liknande regleringar.
+• Storbritannien. Storbritannien märks globalt på grund av ett par AI-bolag (Google DeepMind och Stability AI), och även för tidiga satsningar för globalt samarbete om AI-säkerhet.
+• Frankrike. Utöver Storbritannien är Frankrike det europeiska land som syns på globala AI-scenen, tack vare bolaget Mistral som under perioder varit världsledande inom öppna språkmodeller. Mistral tillhör dock den storlek på bolag som nu ofta köps upp av jättarna.
+• Kanada. Kanada har framstående forskning inom

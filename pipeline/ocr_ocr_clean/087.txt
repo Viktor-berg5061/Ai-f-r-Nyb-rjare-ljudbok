@@ -1,0 +1,7 @@
+På en andraplats finns ett enda bolag, eller kanske snarare en person.
+
+• Elon Musk och xAI. Bolaget xAI har, precis som flera andra initiativ från Elon Musk, utmärkt sig för djärva satsningar som lyckas oväntat ofta. På förvånansvärt kort tid har xAI lyckats skapa konkurrenskraftig AI, om än inte i absolut toppklass. Hösten 2024 överraskade xAI genom att bygga världens största datacenter på fyra månader – något som många förväntade sig vara omöjligt på mindre än ett år. Genom aktivt stöd i Donald Trumps presidentkampanj har Elon Musk skaffat sig en bra position för att påverka USA:s hållning till AI. Hur berättelsen fortsätter återstår att se.
+
+Utöver dessa bolag bör även it-jättar som Microsoft, Apple och Amazon nämnas, men deras roll i AI-världen är främst som leverantörer av produkter och tjänster snarare än utvecklare av AI. Fyra kinesiska bolag med betydande AI-satsningar är Baidu, Kinas motsvarighet till Google; Alibaba, som påminner om Amazon; Tencent, jämförbart med Meta; och Huawei, som har en roll liknande Ericssons och är särskilt aktiva inom telekom och AI-infrastruktur.
+
+De tre bolagen Nvidia (USA), TSMC (Taiwan) och ASML (Nederländerna) som nämnts tidigare förtjänar också att tas upp, på grund av sina kritiska roller i tillverkning av datorchip för AI. Alla dessa bolag

@@ -1,0 +1,11 @@
+ler som driver chattbottarna. Om vi får tro mångårig litteratur kommer vi att fortsätta kalla dessa maskiner för AI, även när vi blivit mer vana vid dem – till skillnad från exempelvis schackdatorerna ovan.
+
+Det är inte en slump att det är AI som hanterar språk som vi ser som ”riktig” AI – maskiner som kan tänka. Det är med språket vi delar tankar med varandra, och språket spelar också stor roll för våra egna tankeprocesser. När maskiner kan hantera språk på ett skickligt sätt betyder det alltså närmast definitionsmässigt att vi kan utbyta tankar med dem.
+
+Experter talar ibland om *smal AI* och *bred AI*. Bred AI har en stor fördel över smal AI som schackdatorer: mångsidighet. I stället för att vara byggd för att hantera en eller ett fåtal uppgifter, kan de hantera många olika saker. Även om en AI-driven chattbot har tydliga begränsningar i kunskaper och resonemangsförmåga, är det ingen tvekan om att den är bättre på att hantera en bredd av uppgifter än vad en schackdator är.
+
+Den här boken handlar nästan uteslutande om bred AI, vilket idag i praktiken betyder chattbottar och annan teknik som använder stora språkmodeller. När det står ”AI” ska det alltså tolkas som språkbaserade AI-tjänster, om det inte sägs något annat.
+
+Smal AI kan vara oerhört kraftfull, och det sker stora framsteg även där. Men vårt samhälle påverkas mer av maskiner som kan tänka – bred AI.
+
+13

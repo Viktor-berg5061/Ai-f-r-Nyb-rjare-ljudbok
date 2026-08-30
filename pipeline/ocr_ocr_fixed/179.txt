@@ -1,0 +1,43 @@
+Er
+Ter
+
+bil-
+
+grund för moderna språkmodeller, även om alter-
+
+i ) nativ börjat utforska.
+
+träning — Processen där en Al-modell lår sig från data.
+Under träningen justeras miljontals (ofta miljartals)
+arametrar I modellen för att förbättra dess prestan-
+da på given uppgift.
+
+Träningsdata - Den data som används för att träna en
+A1l-modell. Kvaliteten och representativiteten hos
+träningsdatan påverkar direkt hur bra och rättvi-
+ande modellen blir.
+
+testet — Ett test där man försöker skilja en männ-
+
+n maskin baserat på skrivna svar. Om det
+
+t
+
+Turing
+ska från c
+
+inte går att avgöra vilka svar som kommer från ma-
+
+skinen anses den uppvisa intelligent beteende.
+Uppskalningshypotesen — Teorin att AI-modeller får
+
+nya och förbättrade förmågor främst genom att
+göras större, utan behov av grundläggande föränd-
+
+ringar i hur de fungerar.
+
+Zero-day/One-day vulnerability — Säkerhetshål i pro-
+
+gramvara som kan utnyttjas för attacker. ”Zero-
+day” betyder att hålet är okänt för tillverkaren,
+”one-day” att det nyligen blivit känt.

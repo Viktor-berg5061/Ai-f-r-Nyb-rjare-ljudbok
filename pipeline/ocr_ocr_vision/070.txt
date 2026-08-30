@@ -1,0 +1,30 @@
+upp mindre bolag för att komma åt deras kompetens,
+eller anställer stora delar av deras personal mot en or-
+dentlig ersättning för det skadeskjutna bolaget som blir
+kvar.
+Förbättrade metoder för att träna AI-modeller har
+de senaste åren varit den näst viktigaste faktorn för att
+snabba på AI-utvecklingen, men det är en svårförutsäg-
+bar faktor. Vissa framsteg handlar om att kapa någon
+procent av tiden det tar att träna AI, medan andra kan
+ge flera gånger snabbare beräkningar eller resultera i
+helt nya AI-förmågor, så som att tolka bilder eller han-
+tera obegränsat långa texter.
+
+Beräkningskraft
+Den i nuläget mest begränsande flaskhalsen för AI-ut-
+veckling är beräkningskraft – det vill säga att köpa in
+fler och starkare datorchip, och sätta ihop dem så att de
+fungerar väl tillsammans.
+Att bygga datorchip av högsta kvalitet är en av de
+mest komplicerade tillverkningsprocesserna i världen,
+och kräver precision på ett fåtal nanometer. Själva till-
+verkningen sker nästan uteslutande av ett enda bo-
+lag, Taiwan Semiconductor Manufacturing Company
+(TSMC). De tillverkar datorchip efter ritningar som
+andra tillhandahåller, och även här är det ett enda bolag
+som dominerar marknaden för AI-chip: det amerikanska
+bolaget Nvidia. För att göra det ännu krångligare behö-
+ver TSMC utrustning som – igen – bara går att få från en
+
+72

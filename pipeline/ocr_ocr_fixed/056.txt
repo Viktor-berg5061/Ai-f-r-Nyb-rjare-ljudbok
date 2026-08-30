@@ -1,0 +1,40 @@
+et
+
+Det är tydligt att ol har trånats på texter
+
+fattar många och långa resonemang, och den om om-
+
+minstone på vissa sätt härma det långsamma länkande.
+
+i system 2. Det återstår dock att se hut generell d et
+
+förmågan är. Tillverkaren OpenAl har (trots sitt N
+bara berättat små delar av hur ot fu ngerar, oy man)
+som användares åtkomst till o1 fortfarande är NM ter-
+nerad vet vi inte så mycket om dess kapacitet, Me
+dersöka vad som händer inuti modellen, så som att sc
+hur Al:n hanterar logiska resonemang, är omöjligt för
+någon utanför OpenAl.
+
+Som med tidigare AI-modeller lär det ta månader
+innan vi fullt ut förstår o1l:s kapacitet, och hur vi an-
+vänder den på bästa sätt. Det som lanserats än så länge
+är dessutom bara en förhandsversion, och det återstår
+att se vad som händer när modellen får möjlighet att
+läsa bilder, söka på nätet och använda andra typer av
+
+verktyg.
+
+Lätta och svåra tester
+
+För att kunna följa hur AI:s utvecklas har forskare och
+ingenjörer skapat prestandatester, så kallade bench-
+marks. Benchmarks kan liknas vid prov med frågor och
+uppgifter, tillsammans med facit för att bedöma AL:ns
+svar. Ofta används den mänskliga prestationsnivån som
+
+sterar bättre än mänskliga experter.
+
+
+en referenspunkt, för att exempelvis säga att en språk-
+modell ligger på 80 procent av mänsklig nivå, eller per-

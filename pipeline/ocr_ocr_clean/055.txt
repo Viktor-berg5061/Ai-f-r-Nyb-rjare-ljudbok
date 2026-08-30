@@ -1,0 +1,31 @@
+datan. Men efter ytterligare mycket träning klickade
+något på plats, och den började svara rätt även på tal
+den aldrig sett förut. Den hade grokkat sin uppgift.
+    När forskarna analyserade AI-modellen kunde de
+se hur den gjorde för att lösa uppgiften. Lite förenklat
+satte AI:n ut talen på en cirkel uppdelad i 97 steg, un-
+gefär som vi delar upp en urtavla i 12 steg. Genom att
+låta talen gå runt, runt på cirkeln kunde AI:n hantera
+även nya tal på ett korrekt sätt.¹³ Att forskarna kunde se
+detta i AI-modellen blev en bekräftelse på att den verk-
+ligen hade grokkat uppgiften, och gav fler skäl att tro
+att den skulle hantera även nya tal på ett korrekt sätt.
+    Att kunna lita på att AI hanterar uppgifter på ett
+korrekt sätt är viktigt. Tyvärr finns det än så länge inget
+exempel på att en AI grokkat mer komplexa uppgifter.
+
+Kan o1 resonera?
+
+När den här boken skrivs håller AI-entusiaster som bäst
+på att utforska den nya modellen o1. Den är byggd för
+att skapa långa resonemang följt av ett svar som har chans
+att vara väl underbyggd. Tidiga utvärderingar pekar mot
+att o1 ritar om kartan för hur vi kan använda chattbottar
+och språkmodeller. Den verkar ha betydligt bättre slut-
+ledningsförmåga och kan hålla många faktorer i huvudet
+samtidigt. Den kan också granska sina resonemang och
+följa upp sådant den märker inte stämmer.
+
+13. Se https://mathai-iclr.github.io/papers/papers/MATHAI_29_paper.pdf.
+
+56

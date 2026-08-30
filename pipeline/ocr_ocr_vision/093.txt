@@ -1,0 +1,30 @@
+Reaktioner på lagstiftningen
+EU:s lagstiftning har väckt protester bland flera tek-
+nikjättar, och även svenska bolag som Ericsson och
+Spotify har kritiserat lagstiftningen för att den försvå-
+rar utveckling. Meta och Apple har låtit bli att lansera
+vissa AI-tjänster i EU på grund av lagstiftning, men
+främst på grund av dataskyddsförordningen (GDPR)
+och lagen om digitala marknader (DMA) och alltså
+inte AI-förordningen.
+Hur AI-förordningen omsätts i praktiken kommer
+delvis att avgöras av standarder och riktlinjer som fort-
+farande inte är klara. Om det blir en välfungerande lag-
+stiftning finns chans att den används som mall i andra
+delar av världen, och annars finns risk att den blir en
+ett hinder som minskar tillgången till nya AI-tjänster i
+EU.
+
+Lagstiftning i andra delar av världen
+I USA saknas AI-lagstiftning för landet som helhet,
+även om det finns initiativ för reglering. Under sin tid
+som president genomförde Joe Biden bland annat en
+presidentorder som styr myndigheters AI-användning,
+och ett memorandum med målsättningar gällande ut-
+veckling, säkerhet och samarbeten inom AI. Donald
+Trump har under valkampanjen 2024 meddelat att
+han kommer att riva upp dessa, men vad som faktiskt
+händer återstår att se. I väntan på federal reglering har
+vissa delstater lagar som exempelvis kräver att AI-skapat
+
+95

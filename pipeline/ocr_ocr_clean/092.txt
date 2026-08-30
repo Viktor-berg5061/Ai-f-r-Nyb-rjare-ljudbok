@@ -1,0 +1,9 @@
+Regler för språkmodeller
+
+AI-förordningen innehåller också regler för språkmodeller och eventuella andra framtida AI-modeller som kan användas på många olika sätt. De två viktigaste kraven är att det måste finnas en sammanfattning av den data som använts för att träna modellen, och att datan måste följa EU:s upphovsrättsdirektiv.
+
+Att redovisa träningsdatan är något som AI-bolagen ogärna gör, delvis för att de kan förlora konkurrensfördelar, men förmodligen mer för att det skulle väcka frågor om upphovsrätt och ersättning för de som skapat datan. Just det uttalade kravet på att uppfylla EU:s direktiv för upphovsrätt gör också tydligt att AI-bolagen inte kan använda upphovsrättsskyddat material utan tillstånd.
+
+För särskilt kraftfulla modeller finns ytterligare regler, för att förhindra storskaliga skador. Förordningen säger bland annat att sådana modeller måste utvärderas för skadlig användning, att allvarliga incidenter måste rapporteras och att modellerna måste skyddas mot cyberangrepp.
+
+Ingen av de mest använda språkmodellerna uppfyller idag AI-förordningens krav. Befintliga modeller har fram till sommaren 2027 på sig att uppfylla kraven, medan nya modeller måste uppfylla dem redan sommaren 2025.

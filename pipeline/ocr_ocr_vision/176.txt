@@ -1,0 +1,31 @@
+Den bittra lärdomen – Insikten att det i längden är mer
+effektivt att låta datorer själva hitta sätt att lösa pro-
+blem, än att för hand ange hur de ska göra.
+Emergenta förmågor – Oväntade förmågor som upp-
+står i AI-system när de når en viss storlek eller kom-
+plexitet, utan att de uttryckligen tränats för dessa
+förmågor.
+Fine tuning – Processen att vidareutveckla en redan
+tränad AI-modell för specifika uppgifter eller juste-
+ringar i beteende, så som att införa spärrar för hur
+en AI-modell kan användas.
+FLOP (floating point operation) – En grundläggande
+matematisk beräkning i en dator. Antalet FLOP:s
+per sekund används ofta för att ange beräkningskraft.
+GPU (graphics processing unit) – En typ av processor
+som är särskilt bra på att utföra många beräkningar
+parallellt, vilket gör den idealisk för att träna och
+använda AI-modeller.
+Grokking – När en AI-modell plötsligt går från att bara
+memorera svar till att verkligen förstå den under-
+liggande principen för en uppgift, ofta efter omfat-
+tande träning.
+Hallucination (inom AI) – När AI genererar innehåll
+som låter trovärdigt men är felaktigt eller påhittat.
+Hyfsträning/RLHF (reinforcement learning with human
+feedback) – Processen att vidareutveckla en redan
+tränad AI-modell för att förbättra dess uppförande.
+Inferens – När en tränad AI-modell används för att
+göra förutsägelser eller generera innehåll. Till skill-
+
+178

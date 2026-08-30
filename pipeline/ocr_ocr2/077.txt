@@ -1,0 +1,38 @@
+[TA sma
+
+No
+A Det här kapitlet innehåller en översikt av trender och
+äl inom Al-utvecklingen. Vilka konsekvenser de
+
+för människor och samhälle diskuteras i senare
+
+vägs
+kan ha
+
+SÅ N kapitel.
+
+"[-” pestillerad, lokal och bärbar Al
+De största språkmodellerna kräver kraftfulla servrar
+eller hela datacenter för att kunna användas. För sto-
+ra organisationer är det möjligt att sätta upp egen da-
+torkraft, men det kräver resurser i form av pengar och
+kompetens. Det vanliga är i stället att Al-tjänsterna är
+tillgängliga som webbtjänster, oftast från amerikanska
+bolag. Det passar för många användningsområden,
+men inte för att hantera känsliga personuppgifter, af-
+färshemligheter eller statshemligheter.
+
+En trend som dykt upp det senaste året är så kallad
+destillering av AI-modeller. Det betyder att en mindre
+Al-modell tränas för att härma en större. Resultatet
+blir en modell som är en bråkdel av den stora, men
+
+79
+
+,
+fö - oc.
+
+-
+-—? te
+, a—
+

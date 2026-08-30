@@ -1,0 +1,14 @@
+Att språkmodeller har någon sorts begreppsförståelse eller intern världsbild är inte en motsats till att de är slumpstyrda papegojor. Snarare säger det att om slumpstyrda papegojor ska vara effektiva, så behöver de en intern världsbild. Och det, i sin tur, gör det svårare att dra en gräns mellan slumpstyrda papegojor och maskiner som kan tänka.
+
+Emergens och grokking
+
+Förmågan att skilja mellan positiva och negativa recensioner är ett exempel på vad som kallas för en emergent förmåga i AI-sammanhang. Emergenta förmågor är komplexa egenskaper som uppstår oväntat ur enkla regler, ofta på ett sätt vi inte kan förutsäga.
+
+Begreppsuppfattning, om det är rätt ord för det, är inte det enda exemplet på emergenta förmågor. Ett annat fenomen har fått det lite märkliga namnet grokking, och står för att AI:n på djupet har lärt sig att hantera eller förstå något.¹¹
+
+Begreppet grokking blev populärt efter en studie där forskare tränade en AI på att räkna ut divisionsresten när man delar ett tal med 97.¹² I början var det tydligt att modellen bara lärde sig svar utantill, eftersom den ofta svarade fel på tal som inte fanns med i tränings-
+
+11. Ordet ”grok” kommer från boken Stranger in a Strange Land av Robert A. Heinlein. Det betyder bokstavligen att dricka, men den symboliska betydelsen är att ha en djup förtrogenhet med något.
+12. Till exempel: Om man delar 200 med 97 får man resten 6, eftersom det blir 6 över när man dragit bort 97 så många gånger det går.
+
+55

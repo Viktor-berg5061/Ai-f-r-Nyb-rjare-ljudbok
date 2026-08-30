@@ -1,0 +1,31 @@
+långsamt – risker som ofta är större än att börja använ-
+da tekniken tidigt.
+    Lanseringen av o1, som den nya AI-modellen heter,
+visar också på den hårda konkurrensen bland AI-bola-
+gen. Modellen som lanserats är bara en förhandsver-
+sion, som till exempel saknar förmåga att söka på nätet,
+eller hantera ljud och bild. Att skynda sig att lansera en
+förhandsversion är ett sätt för AI-bolaget att positione-
+ra sig gentemot andra bolag och locka till sig mer inves-
+teringar. Det finns ingen officiell data, men sannolikt
+har o1 kostat över en miljard dollar att skapa. Det visar
+på de enorma satsningar som görs på AI, som nu även
+kräver omfattande investeringar i infrastruktur.
+    Att lansera en förhandsversion är också ett sätt att
+låta miljontals människor hjälpa till att upptäcka styr-
+kor och svagheter hos o1. Det ger OpenAI möjlighet
+att förbättra modellen ytterligare, inklusive att förbätt-
+ra de spärrar som ska hindra olämplig användning. Det
+är nämligen inte bara vi vanliga människor som inte vet
+vad AI kan göra – samma sak gäller de som utvecklar
+tekniken. Inom AI är vi alla nybörjare.
+
+Boken i korthet
+
+Version 2.0 av AI för nybörjare är uppdelad i tre delar.
+Den första delen ger en översikt av vad AI är och kon-
+kret vägledning i hur du kan börja använda AI – vilket
+är det absolut bästa sättet att förstå tekniken och dess
+konsekvenser. Den andra delen tar upp vart AI är på
+
+7

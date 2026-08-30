@@ -1,0 +1,30 @@
+dan bildar nätverk och en mer etablerad organisation
+för fortbildning.
+En annan viktig förutsättning för AI-kompetensut-
+veckling är att medarbetare känner att det finns utrym-
+me för misstag. Hittills har teknikutvecklingen gått så
+fort att kunskaper på mindre än ett år kan bli irrelevan-
+ta, eller rent felaktiga. Vi behöver därför lära oss tekni-
+ken medan vi använder den, vilket innebär att det ock-
+så kommer att bli fel ibland. Från ledningshåll kan man
+försöka identifiera de stora riskerna, göra medarbetare
+medvetna om dem – och samtidigt tydligt signalera att
+mindre misstag är ett pris organisationen gärna betalar
+för att anställda lär sig mer om AI. För arbetsplatser där
+risker bedöms för stora för att tillåta fritt utforskande
+kan man sätta upp så kallade sandlådemiljöer, där ris-
+ker minimeras. De kan till exempel omfatta verktyg där
+ingen data lämnar organisationen, eller fejkdata som
+kan användas i externa tjänster.
+Några andra faktorer som är viktiga för kompetens-
+utveckling inom AI är viljan att lära sig (som person el-
+ler organisation), tid, tillgång till teknik, och att frågor
+om juridik och informationssäkerhet löses snabbt.
+
+Kan vi få massarbetslöshet?
+
+Internationella valutafonden (IMF) bedömde i janua-
+ri 2024 att vart fjärde jobb i rika länder kan ersättas
+av AI, och ytterligare drygt en fjärdedel påverkas kraf-
+
+124

@@ -1,0 +1,97 @@
+: -
+a
+
+NS
+
+ver
+
+« + >
+a er
+SON wo
+
+oo at :
+on oe
+. .”" ” .
+I OSA
+". a Ur ”
+- ” +” a. ”
+a
+- . ” .
+Då . -
+el sr
+- . "rar .
+
+FÖR VI sr LA
+ere YR AA
+
+DER dn Rn 0 PR
+
+]
+;
+I
+I
+|
+
+;
+i
+i
+|
+
+v
+
+[
+
+4
+H
+
+,
+enes am I
+
+An NS RR RR
+
+ye AR RAR oo
+iller pro
+= Al-modeller ellet
+Open source/öppen källkod «tillgänglig för all-
+ramvara vars källkod är öppe h modifiera. För
+mänheten att granska, använda oc «att de kan lad-
+Al-modeller betyder det blan nad från de model-
+: It, till skilln
+das ner och köras lokalt, :
+smndas via internet. 2 dh
+ler som bara kan användas fråga som ges till ett Tränt: ox
+Prompt — Den instruktion eller fråg Alan at
+för att få önskade resultat. aningsd
+ATryrtett! t) — AI-drivna profiler på sociala tränings
+Skogsrå (i ArKONE förtroende över tid med det sande mo
+medier som bygger fö | om on
+dolda målet att påverka människors åsikter eller be- Turing testet
+- iska från «€
+teenden. | i . >
+Smal Al — AI som är specialiserad på att utföra en eller inte går a!
+ett fåtal specifika uppgifter, så som schackdatorer skinen an:
+eller system för att känna igen cancer i röntgenbil- Uppskalnings
+der. nya och
+Stor språkmodell — En AlI-modell tränad på enorma göras stör
+mängder text för att förstå och generera mänskligt ringar i ht
+språk. Dessa modeller driver moderna chattbottar Zero-day/One
+och många andra Al-tjänster. gramvara
+Syntetisk data — Artificiellt genererad data som an- »
+day bety
+»”
+one-day”
+
+vänds för att träna AI-modeller.
+TPU (tensor processing unit) — En specialiserad proces-
+
+sor utvecklad specifikt för AI-beräkningar. De är
+ofta effektivare än GPU:er för vissa typer av Al-ar-
+
+bete.
+Transformer-arkitektur — En revolutionerande design
+för AI-modeller som gjorde det möjligt att dela trär
+
+ning över många datorer. Arkitekturen ligger till
+
+180
+

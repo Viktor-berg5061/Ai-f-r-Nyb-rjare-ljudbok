@@ -1,0 +1,33 @@
+kommer fuffens man hittar på att synas i loggar hos
+AI-bolaget, vilket gör att de kan upptäcka den olagli-
+ga verksamheten, stänga av kontot och – åtminstone i
+teorin – ringa polisen. OpenAI beskriver i en rapport
+att de upptäckt och avstyrt ett 20-tal försök att använda
+deras AI för skadliga ändamål mellan januari och sep-
+tember 2024.²⁷
+
+Att ChatGPT, med över 200 miljoner använda-
+re i veckan, bara skulle haft 20 försök att använda
+ChatGPT för skadliga ändamål på nio månader är helt
+orimligt. Vi måste därför utgå från att många fler så-
+dana försök undgått upptäckt, eller av någon annan
+anledning inte tagits med i rapporten. Men skickliga
+illdådare väljer oavsett en annan lösning: att ladda hem
+AI-modeller och köra dem på egna servrar. De flesta
+AI-modeller man kan ladda hem har spärrar för olagligt
+beteende, men det finns billiga och enkla metoder för
+att ta bort de spärrarna. När de väl är borta kan man
+använda AI på de sätt man vill, oavsett vad lagen eller
+AI-bolag säger.
+
+Det pågår forskning för att göra det svårt eller omöj-
+ligt att ta bort spärrar från AI-modeller, vilket beskrivs
+i ett senare kapitel, men än så länge finns ingen metod
+som fungerar tillräckligt väl. Som läget är idag finns
+alltså inte någon teknisk lösning för att hindra att AI
+används för olagliga aktiviteter.
+
+27. Se https://openai.com/global-affairs/an-update-on-disrupting-decepti-
+ve-uses-of-ai/
+
+105

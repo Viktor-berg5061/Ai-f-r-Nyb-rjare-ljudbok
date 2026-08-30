@@ -1,0 +1,6 @@
+Framgångarna stärkte hypotesen om uppskalning – en större modell hade fått nya och imponerande förmågor. Det ledde till satsningar på större och mer kraftfulla språkmodeller. ChatGPT, som lanserades 2022 men i mycket bygger på teknik från 2020, visade sig vara skicklig nog för att kunna skapa trovärdiga skoluppsatser. Det ledde till ytterligare uppskalning, och 2023 lanserades en ny generation språkmodeller som uppvisade färre faktafel och presterade bra på flera examensprov från högskolor. Fortsatta framgångar ledde till fortsatt uppskalning, vars resultat syns med lanseringen av o1 2024.
+
+Tio gånger starkare varje år
+
+Även om det varit många framgångar är uppskalningshypotesen just en hypotes, och det finns inget som garanterar att nästa och nästa steg ger så pass mycket bättre förmågor att det motiverar kostnaderna. Men vad betyder det om det fortsätter på samma vis?
+    Ett sätt att analysera frågan är att titta på hur mycket resurser som går åt till att träna de nyaste och bästa AI-modellerna. De flesta AI-bolagen berättar inte öppet om hur mycket resurser de använder, men genom att pussla ihop tillgänglig information kan man få en ganska tydlig bild. Den bild

@@ -1,0 +1,32 @@
+Under 2024, då fler människor än någonsin tidiga-
+re gick till valurnorna, har många länder upplevt ökad
+användning av deepfakes. Under första kvartalet upp-
+levde Indonesien, Sydkorea, Bulgarien, Portugal, Kina,
+Turkiet, Singapore och Hong Kong minst tio gånger
+så många deepfakes som föregående år.²² En särskilt
+intressant användning av deepfakes var i Pakistan, där
+den tidigare premiärministern Imran Khan använde
+deepfakes för att kunna kampanja trots att han sitter
+i fängelse.²³ Det är ett exempel på legitim användning
+av AI-skapade budskap, och visar att en digital signatur
+för att bekräfta avsändare kan vara mer värt än att veta
+om innehållet är AI-skapat eller inte.
+    I väntan på bättre eller mer utbredda lösningar för
+att hantera deepfakes är vi hänvisade till varje enskild
+persons källmedvetenhet och kritiska tänkande, vilket
+är en bräcklig metod.
+
+Automatiserade bedrägerier och
+åsiktspåverkan
+
+AI gör det enkelt för amatörer att skapa deepfakes, och
+och för experter öppnas möjlighet att effektivisera och
+automatisera bedrägerier. Så kallad spear phishing är
+en variant på mer trubbiga bedrägerier, där innehållet i
+mail eller telefonsamtal anpassas för att bli särskilt tro-
+
+22. Se https://sumsub.com/newsroom/deepfake-cases-surge-in-countries-hol-
+ding-2024-elections-sumsub-research-shows/
+23. Se https://www.bbc.com/news/world-asia-67752610
+
+102

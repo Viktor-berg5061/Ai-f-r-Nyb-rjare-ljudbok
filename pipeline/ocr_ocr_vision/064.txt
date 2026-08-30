@@ -1,0 +1,31 @@
+Ett annat, lite mindre matematiskt sätt att beskriva ex-
+ponentiell utveckling är denna: Om du tittar bakåt på
+utvecklingskurvan ser det platt ut. Tittar du framåt ser
+det lodrätt ut.
+
+Vi har ingen bra skala för
+artificiell intelligens
+
+Det kräver en del detektivarbete för att sätta siffror på
+hur mycket starkare de bästa AI-modellerna blir varje
+år, men när det gäller beräkningskraft finns det i alla
+fall siffror som vi kan använda. Att vi blir tio gånger
+bättre per år på att träna AI-modeller betyder att det
+som för fyra år sedan tog en månad att göra, kan vi idag
+göra på fyra–fem minuter.
+    Men vad betyder en tio gånger eller hundra gång-
+er starkare AI-modell i termer av vad den klarar av att
+göra? Den bästa språkmodellen 2019 hette GPT-2, och
+den kunde som tidigare nämnts bygga meningar som
+för det mesta var sammanhängande. För att förstå vad
+en tio gånger starkare modell kan göra fungerar det inte
+att sätta tio GPT-2 tillsammans. Tio någorlunda sam-
+manhängande meningar, eller att kunna skapa någor-
+lunda sammanhängande meningar tio gånger snabb-
+are, beskriver inte den kvalitetsskillnad som uppstår.
+    Sanningen är att det inte finns någon bra skala för
+att mäta artificiell intelligens, vilket också betyder att
+vi inte har något tillförlitligt sätt att veta vad nästa ge-
+nerations AI klarar av. Vi ska ändå göra ett par försök.
+
+66

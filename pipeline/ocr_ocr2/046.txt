@@ -1,0 +1,61 @@
+inder när
+den som
+instruk-
+atorpro-
+
+on gör
+på ditt
+på en
+kt an-
+
+AA
+
+a -
+ou Aa NRA RR RR RR PRE RA SA RE
+
+vändargränssnitt, och de som inte programmerar kan
+tro att detta är det enda sättet att styra datorprogram.
+Mcn massor av datorprogram har också ett annat
+sätt att STA dem, genom antop med programkod. När
+din hand av kött och blod skulle klicka på en knapp
+3 en webbsida, eller kursivera text i en ordbehandla-
+re, skulle en dator i stället skicka anrop som säger åt
+webbläsaren att aktivera klickfunktionen för en viss
+knapp» ller att ordbehandlaren ska markera en viss text
+och lägga på formateringen ”kursivering”. Den vägen
+att STA datorprogram kallas av teknikfolk för API:er
+(vilket är en förkortning för application programming
+interface). API:er används i mängder av datorprogram,
+till exempel för att få webbtjänster, bokföringsprogram
+och telefoner att prata med varandra.
+
+APl:er kan användas för att koppla ihop språkmo-
+deller med andra datorprogram, för att automatisera
+mängder av datorbaserat rutinarbete. Så länge arbetet
+inte kräver mer analyser än en AI klarar av, så kan en
+dator nu göra det: leta upp och sammanfatta veckans
+nyheter om din bransch, sköta bankärenden, ordna
+tågbiljetter, boka bord på en restaurang, och kolla ige-
+
+nom kalendrar för att boka 20 medarbetarsamtal.
+
+Datorer som styr maskiner
+
+Ått styra datorprogram innebär numera att man även
+- Påverka den fysiska världen. För 50 år sedan var
+I : . . . o
+
+ar mekaniska maskiner, men idag innehåller de dus-
+
+47
+
+ända SEN -—-
+
+oe RR a RÅ RR I
+er er P RA
+
+va
+
+RR TEARS RO VPRR ER RE RT
+pr
+

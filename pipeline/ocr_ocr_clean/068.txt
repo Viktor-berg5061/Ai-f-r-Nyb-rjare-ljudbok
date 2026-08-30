@@ -1,0 +1,8 @@
+Vilka flaskhalsar finns för AI-utvecklingen?
+För att AI-utvecklingen ska kunna fortsätta behövs tillgång till ett antal resurser. Tidigare pratade man om data, algoritmer och beräkningskraft som de tre ingredienserna för att bygga AI. Här har den listan utökats, vilket beror på effekter av den fortsatta uppskalningen av AI-modeller och den hårda konkurrensen mellan AI-bolag. Listan avslutas med en uppskattning av det klimatavtryck som dagens AI har.
+
+Data
+För att träna språkmodeller krävs enorma mängder data, vilket lett till att AI-bolag samlat data från allehanda källor på nätet. Det har i sin tur lett till att en rad mediebolag, med New York Times i spetsen, har inlett rättsprocesser – men också att AI-bolag skrivit avtal med en del tidningar och webbplatser för att få använda deras innehåll.
+Då och då ställs frågan vad som händer när allt större andel av innehållet på nätet är AI-skapat – hur påverkar det nya språkmodeller? Tester visar att språkmodeller som tränas på AI-skapat innehåll utan en genomtänkt strategi blir bräckliga, eftersom det AI-genererade innehållet är för regelbundet och saknar den variation som mänskliga texter har. Att samla innehåll urskiljningslöst från internet blir alltså mindre intressant för varje år som går.
+
+70

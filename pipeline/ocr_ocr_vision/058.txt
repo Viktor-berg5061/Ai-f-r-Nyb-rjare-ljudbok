@@ -1,0 +1,16 @@
+regler för hur rutor i ett nät färgläggs. Trots att testet
+funnits sedan 2019 har ingen AI lyckats lösa mer än
+hälften av uppgifterna. (Modellen o1 lyckades lösa lite
+mer än var femte uppgift.) Det har nu gått så långt att
+tillverkarna utfäst en belöning på en miljon dollar till
+dem som bygger en AI som klarar minst 85 procent av
+uppgifterna. (Den som är nyfiken kan testa sin förmåga
+på arcprize.org.)
+    De som skapat ARC betonar att testet är gjort för
+att mäta generell intelligens, i vilket de räknar in för-
+mågan att lära sig. Av allt att döma har de slumpstyrda
+papegojorna inte den förmågan. Det återstår att se om
+det är ännu ett område som AI erövrar snabbt, eller om
+det förblir utom räckhåll.
+
+59

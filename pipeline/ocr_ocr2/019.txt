@@ -1,0 +1,56 @@
+Jfr arna det
+
+Hur fungerar Al?
+
+Den bittra lärdomen
+
+En av de viktigaste slutsatserna inom Al-utveckling
+> har fått namnet den bittra lärdomen?. Sammanfatt-
+j ningsvis innebär den bittra lärdomen att det i längden
+— är mer effektivt att låta datorer själva hitta sätt att lösa
+problem, än att programmera dem att följa mänskliga
+metoder. |
+Ta problemet med att få datorer att kunna läsa
+handskrivna siffror, till exempel. Datorer som kan läsa
+siffror är användbara för postsortering, och om de ock-
+så kan läsa bokstäver är de ännu mer användbara.
+I bilden på nästa sida finns ett antal olika varianter
+- av siffrorna noll till nio. Hur ska man bära sig åt för att
+få en dator att kunna känna igen och särskilja de olika
+siffrorna? Fundera en stund. Om du tänker i termer
+
+av att analysera antalet raka streck, böjda linjer, slutna
+
+2, Egentligen ”The Bitter Lesson” — se incompleteideas.net/IncIdeas/BitterLessor
+html för källan.
+
+20
+
+IE
+
+YES
+779443
+
+Exempel på bardskruna
+Bild av SUvarjarprasar. I
+upload wikimedia orgA.
+Modified.prg
+
+kurvor och hur må;
+tänker du preci=—
+Program för” Ls
+Om mar
+datorprogram bin
+bra med att känna
+fel, och av de fele
+
+kontroller att lägg
+
+» ännu bättre. Efte;
+
+stolt konstatera at
+fekt, men bra.
+Sedan komme
+räkna antalet str
+stället använder d
+De låter en dato

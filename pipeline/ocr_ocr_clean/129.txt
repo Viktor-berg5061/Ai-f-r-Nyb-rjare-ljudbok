@@ -1,0 +1,9 @@
+Lärbottar
+
+Elever och studenter bör få lära sig om AI, men AI kan också användas som lärverktyg. Det kan handla om förhållandevis enkla saker, så som att använda chattbottar för att skapa begreppslistor, få tips som student för att förbättra sitt skrivande, eller få vägledning i studieteknik – men det finns också mer radikala sätt att använda AI. Det med störst potential har fått namnet lärbottar.
+
+Lärbottar är AI-assistenter som följer elever genom skolgången från en viss ålder, och lär sig om varje elevs kunskapsnivå och preferenser. En lärbot kan utmana eleven, förklara svåra saker på nya sätt, föreslå uppgifter att jobba med – även tillsammans med andra elever – och repetera kunskaper när det gör som mest nytta. Dessutom håller lärbottar lärare uppdaterade om elevernas utveckling.
+
+Det finns flera initiativ för lärbottar, där det största drivs av den amerikanska ideella organisationen Khan Academy. Deras lärbot Khanmigo hade sommaren 2024 testats på omkring 160 000 elever och lärare, och de planerar att utöka till närmare en miljon användare under läsåret 2024/2025. Tidiga resultat säger att 15–20 procent av eleverna accelererar sitt lärande kraftigt, men även att en del elever som har svårt att lära sig i traditionell undervisning också har svårt att dra nytta av Khanmigo.⁵⁰
+
+50. Se https://www.ted.com/podcasts/www.ted.com/podcasts/sal-khan-says-ai-wont-destroy-education-transcript

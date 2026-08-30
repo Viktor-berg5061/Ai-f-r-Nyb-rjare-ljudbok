@@ -1,0 +1,36 @@
+liroratur kommer Vi ot forsta Kulle ere ÅG
+
+rtsätta kalla dessa maskiner
+
+för AI, även när vi blivit mer vana vid dem — till skill-
+nad från exempelvis schackdatorerna ovan,
+
+Det är inte en slump att det är Al som hanterar
+språk som vi ser som ”riktig” Al — maskiner som kan
+tänka. Det är med språket vi delar tankar med var-
+andra, och språket spelar också stor roll för våra egna
+tankeprocesser. När maskiner kan hantera språk på ett
+skickligt sätt betyder det alltså närmast definitionsmäs-
+sigt att vi kan utbyta tankar med dem.
+
+Experter talar ibland om smal AI och bred AI. Bred
+AI har en stor fördel över smal AI som schackdatorer:
+mångsidighet. I stället för att vara byggd för att hantera
+en eller ett fåtal uppgifter, kan de hantera många olika
+saker. Även om en Al-driven chattbot har tydliga be-
+gränsningar i kunskaper och resonemangsförmåga, är
+det ingen tvekan om att den är bättre på att hantera en
+bredd av uppgifter än vad en schackdator är.
+Den här boken handlar nästan uteslutande om
+bred AI, vilket idag i praktiken betyder chattbottar och
+annan teknik som använder stora språkmodeller. När
+
+det står ”AI” ska det alltså tolkas som språkbaserade
+AlI-tjänster, om det inte sägs något annat.
+Smal AI kan vara oerhört kraftfull, och det sker sto-
+
+ra framsteg även där. Men vårt samhälle påverkas mer
+
+av maskiner som kan tänka — bred AI.
+
+13

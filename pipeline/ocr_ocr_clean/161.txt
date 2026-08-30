@@ -1,0 +1,11 @@
+maskiner som vi skapat. I förlängningen riskerar vi att bli en version av människorna i filmen Wall-E, som åker runt på automatiska stolar, dricker läsk och får underhållning från en skärm.
+
+En sak som kan förhindra långsamt förlorad kontroll är att använda AI för att öka vår förmåga att göra saker, inte att slippa göra dem. Rätt använt kan språkmodeller och annan AI göra att vi kan överblicka hela forskningsfält och hitta insikter vi aldrig kunnat nå på egen hand. Fel använt leder de till att vi förlorar förmågan att formulera komplexa tankar eller läsa texter längre än en halv sida. Att vilja lära sig mer saker har förmodligen aldrig varit viktigare än nu.
+
+AI som vilseleder
+
+Långsamt förlorad kontroll är ett otrevligt scenario för mänskligheten, men så länge vi kan lita på att AI:n agerar i vårt bästa intresse kommer människan fortsätta att finnas kvar. Tyvärr är det svårt att vara säker på det. Delvis för att vi förstår så lite av hur AI-modeller fungerar, men också för att vi sett exempel på att AI är kapabel att ljuga och vilseleda för att uppnå sina mål.
+
+Några talande exempel på detta finns i en forskningsartikel med titeln Sleeper agents.⁸⁴ Namnet anspelar på spioner som kan leva som vanliga medborgare i ett land i många år, tills de får signal om att påbörja spionuppdrag.
+
+84. Se https://

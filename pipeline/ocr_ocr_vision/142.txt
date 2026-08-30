@@ -1,0 +1,31 @@
+gen också utnyttjas av cyberbrottslingar, som då vet att
+det finns ett säkerhetshål att leta efter, och vilken typ av
+säkerhetsbrist det rör sig om. Åtgärdade och publicera-
+de säkerhetsbrister kallas därför one-day vulnerabilities,
+då de ofta utnyttjas inom ett dygn efter publicering.
+    I april 2024 publicerades en studie som visade att
+AI-verktyg helt på egen hand lyckades skapa mjukvara
+för att utnyttja mer än fyra femtedelar av inrapporte-
+rade säkerhetsbrister.⁶¹ I en senare studie från samma
+grupp konstaterar forskarna att AI också kan hitta och
+utnyttja så kallade zero-day vulnerabilities – säkerhet-
+brister som ännu inte rapporterats.⁶²
+    Att låta AI hitta dessa säkerhetshål kostade i studien
+ungefär en tredjedel av vad en mänsklig expert skulle
+ha kostat. Priset på AI-kraft sjunker med omkring 99
+procent per år, vilket betyder att kostnaden för att hitta
+nya säkerhetshål snabbt blir försumbar. Att ha bra för-
+svar mot cyberattacker kan därmed bli mycket viktigare
+de närmsta åren.
+    En del i ett bra cyberförsvar är förstås att själv an-
+vända AI för att upptäcka säkerhetshål, och åtgärda
+dem innan angripare hinner utnyttja dem. Ett problem
+är att balansen väger till angriparens fördel: Försvara-
+ren måste täppa till alla säkerhetshål, medan angriparen
+bara behöver hitta ett enda. Därför behövs flera lager
+med försvar om det ska fungera väl.
+
+61. Se https://arxiv.org/abs/2404.08144
+62. Se https://arxiv.org/pdf/2406.01637
+
+144

@@ -1,0 +1,31 @@
+att köra mer än 40–50 datorer samtidigt, om du inte
+har ovanligt kraftfulla säkringar.
+    När AI-bolag skalar upp sina datacenter växer frå-
+gan om strömförsörjning från en kostnadsfråga till en
+fråga om att säkra avtal för försörjning, och sedan till
+att det saknas elproduktion. Under 2024 har stora tek-
+nikbolag därför börjat investera i kärnkraft, antingen
+för att köpa upp produktion från befintliga reaktorer
+som annars hade lagts ner, eller för att bygga så kallade
+små modulära reaktorer.
+    Den mängden elproduktion behövs inte för dagens
+datacenter, men om uppskalningen av AI-modeller
+fortsätter kommer det att behövas snart nog, och kärn-
+kraftverk är inte något man bygger på ett halvår.
+
+Pengar
+Den dyraste språkmodellen 2024 uppskattas ha kos-
+tat 130 miljoner dollar att träna, och ytterligare flera
+hundra miljoner dollar för att köpa in hårdvara och
+bygga datacenter. Det är enorma summor, och trenden
+sedan 2016 säger att prislappen ökar med en faktor 2,5
+per år.¹⁷
+    Vissa av de stora AI-bolagen (så som Google) har
+utan problem pengar som de kan använda, medan an-
+dra behöver få in pengar från investerare. OpenAI av-
+slutade under hösten 2024 den största investeringsrun-
+
+17. Mer detaljer hittas hos den amerikanska ideella organisationen Epoch AI:
+https://epochai.org/trends
+
+74

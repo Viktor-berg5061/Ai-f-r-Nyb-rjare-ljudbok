@@ -1,0 +1,27 @@
+att utvecklingen går fort kan utbudet ha hunnit ändras
+när du läser detta, men nedan följer en lista med kon-
+kreta tips på AI-tjänster. Kanske kan några passa bra för
+saker du vill göra.
+De flesta av dessa tjänster är smal AI, det vill säga AI
+som är byggd för speciella uppgifter och inte kan göra
+särskilt mycket nytta utanför dem.
+
+Söktjänster
+• Perplexity (perplexity.ai) och You (you.com): Sök-
+tjänster där du ställer frågor i klartext och får väl-
+formulerade svar med hänvisningar till webbsidor
+där du kan läsa mer.
+• Elicit (elicit.com): En kraftfull tjänst för att hitta
+forskningsbaserade svar på frågor.
+
+Skapa bilder
+• Midjourney (midjourney.com): Anses av många
+vara den ledande AI-tjänsten för att skapa bilder.
+• Dall-E 3 (chatgpt.com): En bildskapare som kan
+nås genom ChatGPT.
+• Stable Diffusion (stability.ai), Flux (flux.ai): Bild-
+skapande AI-modeller som går att ladda hem och
+köra på sin egen dator, till exempel med hjälp av
+programmet Diffusion Bee (diffusionbee.com).
+
+42

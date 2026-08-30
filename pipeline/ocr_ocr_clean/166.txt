@@ -1,0 +1,14 @@
+Inom AI-säkerhet används begreppet *alignment* för
+att beskriva frågor som handlar om att se till att AI har mål
+och därmed värderingar som ligger i linje med de som
+vi människor har. För schackdatorer, chattbottar som
+tappar tråden efter en halv sida text, och språkmodeller
+klassade som ”inte helt inkompetenta doktorander” är
+det inte livsavgörande vilka mål de har – om de inte
+fungerar som vi vill justerar vi dem eller byter ut dem.
+För en AI med övermänsklig intelligens kan det däre-
+mot vara just livsavgörande.
+    En superintelligent AI kommer nämligen att vara
+övermänskligt skicklig på att nå sitt mål. Nästan oav-
+sett vilket mål vi ger en sådan AI kommer den att sätta
+upp ett antal så kallade instrumentella

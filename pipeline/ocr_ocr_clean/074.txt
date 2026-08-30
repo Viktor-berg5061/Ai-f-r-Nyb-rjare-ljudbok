@@ -1,0 +1,9 @@
+ra. Till att börja med delar AI-bolagen inte med sig av
+särskilt mycket information om energibehov vare sig
+för att skapa eller använda AI-modeller. Till det kom-
+mer att AI-modeller som är ungefär lika stora ändå
+kan kräva olika mycket energi att använda, beroende
+på hur datacentren är byggda. Eftersom elektricitet är
+en stor del av miljöpåverkan spelar det också stor roll
+hur elen produceras, vilket varierar över världen. Till
+slut finns o

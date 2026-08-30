@@ -1,0 +1,38 @@
+Länder utvecklar också markgående robotar som kan strida med liten eller ingen mänsklig översyn.
+Men AI inom krigsföring är inte begränsat till strid på slagfältet. AI är ett naturligt val för att överblicka enorma mängder data, vare sig det är rutinmässig satellitövervakning, avlyssning av datatrafik eller information från pågående strider. I november 2024 blev det känt att kinesiska forskare justerat Metas språkmodell Llama för militära ändamål, med målsättningen att använda den för underrättelseinsamling, operativa beslutsprocesser och militär dialog.⁷² Det är i strid med användarvillkoren för AI-modellen, och Kinas agerande är ett talande exempel på att den som släpper AI-modeller fria förlorar kontroll över hur de används.
+Strax efter att detta blev känt godkände Meta, och sedan också Anthropic, att deras AI-modeller användas för militära ändamål av USA och dess allierade.
+AI på slagfältet skulle kunna minska civila offer och mänskligt lidande, med högre precision och mindre behov av människor i strider. Men det innebär också stora risker. En av riskerna är att maskiner kan byggas för blind lydnad. En enda beslutsfattare skulle kunna ha makt över tusentals eller miljontals AI-soldater – utan utrymme för myteri eller samvetskval vare sig hos soldater eller mellanled.
+
+72. Se https://www.reuters.com/technology/artificial-intelligence/chinese-researchers-develop-ai-model-military-use-back-metas-llama-2024-11-01/
+
+150
+
+Övervakningssamhället
+Inom EU finns
+för massövervakning
+den och
+att över
+AI sto
+poäng
+ekonom          itet
+tioner och hur väl
+i en databank,⁷³ oc
+att få lån, åka uto
+bildningar.
+I kombination
+utmärkta möjlighe
+mycket svårt att bry
+ten: Dels kan AI an
+som samlas och hit
+das för att göra äm
+Kina en satsning på
+mängder data från
+och övervakningska
+säkerhetshot och öv
+Ett annat probl
+potential att identi
+de uttalat sig anony
+bort röstförvrängni
+
+73. Se https://hrone.com/blo
+74. Se https://github.com/BA

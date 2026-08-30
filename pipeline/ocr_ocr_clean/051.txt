@@ -1,0 +1,9 @@
+**Att tänka långsamt**
+
+Språkmodellers beteende påminner mycket om det som ekonomipristagaren Daniel Kahneman gjorde känt som "system 1" i boken *Tänka snabbt och långsamt*. Det är en del av mänskligt tänkande som utgår från intuition och invanda mönster. System 1-tänkande är snabbt och kräver liten ansträngning. Samtidigt kan det leda oss fel i sammanhang där det behövs eftertanke – inte helt olikt hur språkmodeller kastar ur sig ord efter varandra baserat på vad som låter bra, även om det ibland blir en tokig helhet.
+
+AI-agenter använder språkmodeller för att analysera komplexa uppgifter och göra en plan för hur de ska lösa dem steg för steg. Det här är ett försök att efterlikna människans "system 2", det långsammare och mer resonerande tänkandet. Det är inte självklart att språkmodeller kan göra detta. De klarar utan tvekan att skapa något som låter som en plan, men det är inte samma sak som att planen fungerar. För att planer ska fungera behövs kunskaper om sammanhang, ofta djupa ämneskunskaper, och förmåga att utvärdera och uppdatera planen efter hand.
+
+Att bygga en AI som kan utföra system 2-tänk skulle låsa upp många nya förmågor och användningsområden. Men är det ens möjligt att språkmodeller kan resonera och vara eftertänksamma? Frågan riktar även ljus mot oss själva, inte bara mot AI. Vi människor beter oss i stora delar som språkmodeller när vi pratar, men gör vi det när vi problemlöser?
+
+52

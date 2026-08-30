@@ -1,0 +1,30 @@
+Särskilda regler för AI inom högrisk
+Förordningen klassar AI-system i en av fyra riskkatego-
+rier, där den mest intressanta är den för hög risk. I den
+hamnar exempelvis AI som används för att fatta många
+typer av beslut inom brottsbekämpning och rättsväsen-
+de, rekrytering och befordran, sjukvård, skola och es-
+sentiell välfärd, och även AI inom kritisk infrastruktur.
+    AI-system klassade som högrisk behöver från augus-
+ti 2026 uppfylla en rad krav, så som:
+
+• Datan som använts för att träna AI:n ska vara till-
+  räckligt relevant, korrekt och representativ.
+• AI-resultat ska vara tillräckligt korrekta, stabila och
+  säkra.
+• Det ska finnas en plan för att hantera risker så
+  länge systemet används, och det ska finnas möjlig-
+  het till mänsklig översyn.
+
+Den högsta riskklassen i AI-förordningen är oaccepta-
+bel risk, som bland annat omfattar rutinmässig identi-
+fiering genom allmänna övervakningskameror och AI
+som avsiktligt manipulerar beteenden. Sådana system
+är förbjudna från februari 2025.
+    Kategorin begränsad risk omfattar exempelvis
+chattbottar, där det behöver vara tydligt att användaren
+pratar med en AI och inte en människa. Kategorin mi-
+nimal risk omfattar till exempel AI-drivna spamfilter,
+och har inga nya krav.
+
+93
